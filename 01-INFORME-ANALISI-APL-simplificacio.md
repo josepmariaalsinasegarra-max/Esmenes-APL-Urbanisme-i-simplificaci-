@@ -89,16 +89,18 @@ Ni l'Avantprojecte ni cap document de l'expedient contenen previsions o anàlisi
 
 ## 8. Matriu d'esmenes
 
+La proposta conté trenta esmenes. Les esmenes 1 a 16 procedeixen de la primera anàlisi (amb les esmenes 5 i 8 refoses posteriorment amb les qüestions de l'abast material de l'informe de la CTU i del caràcter de l'informe municipal ambiental); les esmenes 17 a 30 procedeixen d'una segona ronda de detecció sobre la totalitat de l'articulat, amb verificació individual de cada candidata contra els textos consolidats.
+
 | Núm. | Article APL (norma afectada) | Problema detectat | Proposta | Fonament principal | Efecte administratiu | Impacte municipal | Verificació |
 |---|---|---|---|---|---|---|---|
 | 1 | 6 (188.3 ter TRLUC) | No es pot denegar per contrarietat al planejament; termini d'un mes insuficient amb projecte tècnic | Causa de denegació per inadequació normativa; dos mesos amb projecte tècnic; requeriment únic d'esmena | 188.1-2 TRLUC; 11.3 TRLSRU | Evita llicències contra legem i litigis | Alt, tots els municipis | Verificat |
 | 2 | 6 (188.3 ter.4) | L'exclusió per ordenança queda buidada | Supressió de l'incís; certificat com a element de valoració amb resolució en un mes | STC 51/2004 FJ 12; 84.2.a EAC | Ordenança municipal efectiva | Alt | Verificat |
 | 3 | 7 (198 bis.4) | Responsabilitat davant tercers i regrés no regulats | Responsabilitat ampliada i acció de reintegrament | 32-36 LRJSP | Tanca el cercle de responsabilitat | Alt (hisendes locals) | Verificat |
 | 4 | 8 (DT 25a) | Entitats transitòries sense acreditació en l'àmbit pertinent; pròrroga il·limitada | Abast d'acreditació pertinent; pròrroga única d'un any | ACCO IR 83/2026 | Qualitat del sistema transitori | Mitjà | Verificat |
-| 5 | 18 i 21 (87 bis, 96.f) | Informe vinculant CTU sense termini ni silenci | Tres mesos; continuació del procediment | 91.2 TRLUC; 80 LPAC | Simetria d'informes | Alt | Verificat |
+| 5 | 18 i 21 (87 bis, 96.f) | Informe vinculant CTU sense termini, sense efectes de la manca d'emissió i sense límit material | Tres mesos i continuació; vinculació limitada als motius dels arts. 87.3 i 87.4 TRLUC | 91 TRLUC; 87.2 i 92.2 TRLUC; 80 LPAC; STC 51/2004 | Simetria d'informes i control material acotat | Alt | Verificat |
 | 6 | 16-17 (86 quater/quinquies.6) | Preclusió absoluta d'informes municipals tardans | Regla de l'art. 80.4 LPAC; valoració en tot cas dels de l'ajuntament afectat | 80.4 LPAC; STC 51/2004 | Millor instrucció sense retard | Alt | Verificat |
 | 7 | 23 (DA 31a) i 15 (86 ter) | Doble tramitació portal/gestors municipals; cost no estimat | Interoperabilitat AOC; una sola gravació; calendari i memòria econòmica | 155 LRJSP; 28.2 LPAC | Evita duplicar expedients | Alt | Verificat |
-| 8 | 69 (22 LPCAA) | Un mes per a l'informe municipal després de la informació pública | Tramesa de l'expedient simultània a la informació pública | 20.2 LPCAA mod.; 8 LPCAA | Manté la garantia sense allargar | Alt | Verificat |
+| 8 | 69 (22 LPCAA) | Informe municipal degradat (no vinculant), àmbit material reduït, càrrega sancionadora nova i tramesa tardana de l'expedient | Tramesa simultània a la informació pública; caràcter preceptiu i vinculant; àmbit material complet; control i sanció segons els arts. 29.5 i 86.2 LPCAA | 22 LPCAA vigent; 8.1, 29.5 i 86.2 LPCAA; 25.3-25.6 LRBRL; 80 LPAC | Garantia municipal efectiva sense allargar el procediment | Alt | Verificat |
 | 9 | 74 (30 LPCAA) | Exposició pública municipal en paper i còpia impresa | Publicitat a la seu electrònica | 13 i 53 LPAC | Suprimeix càrrega sense funció | Mitjà | Verificat |
 | 10 | 82 (59.2 LPCAA) | Silenci positiu en modificacions substancials de llicència ambiental | Silenci negatiu; correcció de remissió a 7.1.b | 24.1 LPAC bàsic; 48.3 LPCAA | Evita nul·litats i litigis | Mitjà | Verificat |
 | 11 | 40-41 (DA 26a, 26a bis) | Audiència municipal sense resposta; clàusula oberta de projectes "d'interès per el Govern" | Informe municipal valorat expressament; supressió de la clàusula | STC 51/2004; CEAL 4.6; 9.3 CE | Participació municipal efectiva | Alt | Verificat |
@@ -107,6 +109,20 @@ Ni l'Avantprojecte ni cap document de l'expedient contenen previsions o anàlisi
 | 14 | DF 6a (DA 11a Llei 19/2014) | Tramesa trimestral manual a l'Observatori | Interoperabilitat; no retramesa del que consti a la plataforma | 155 LRJSP | Suprimeix càrrega nova | Alt | Verificat |
 | 15 | Nova DA | Cap previsió lingüística; certificats substitueixen informes en català | DA de garanties d'ús del català i aranès | 50.5 EAC; 9 i 30 Llei 1/1998 | Manté el règim lingüístic | Alt | Verificat (STC 31/2010: pendent de concreció de FJ) |
 | 16 | Diversos | Errors materials i de remissió | Llista de nou correccions | 9.3 CE | Seguretat jurídica | — | Verificat |
+| 17 | 3 (187.3 TRLUC) | Silenci positiu de la primera fase d'obres inoperant (188.2 TRLUC) o contrari a l'art. 11.4 TRLSRU | Resolució expressa en un mes amb informe tècnic o certificat; silenci negatiu; deure de reposició | 188.2 i 5.2 TRLUC; 11.4 TRLSRU; STC 143/2017 | Mesura aplicable i sense litigi | Alt | Verificat |
+| 18 | 6.3 (188.3 bis TRLUC) | Abast de la facultat municipal d'exigir el certificat d'idoneïtat tècnica | Manteniment de la facultat en actes de comunicació prèvia i de l'incís de responsabilitat | 188.3 bis TRLUC vigent | Conserva un instrument municipal vigent | Mitjà | Verificat |
+| 19 | 13 (85.6 i 85.9 TRLUC) | Informes de part sense requisits d'independència ni abast de la verificació | Independència del tècnic, declaració responsable i verificació amb rebuig motivat | 91.3 i 91.4 Llei 26/2010; 80 LPAC; ACCO IR 83/2026 | Garanties sense perdre celeritat | Alt | Verificat |
+| 20 | 16 i 17 (86 quater.5 i quinquies.5 TRLUC) | Termini d'un mes per a l'aprovació inicial en contradicció amb l'art. 89.1 TRLUC | Remissió als terminis de l'art. 89.1 | 89.1 i 90.2 TRLUC | Elimina antinòmia i risc de silenci | Mitjà | Verificat |
+| 21 | 28 (48.1 bis TRLUC) | Informes de part en PAE sense garanties; equiparació automàtica amb l'informe públic; preclusió dels tardans | Independència i assegurança del tècnic; incorporació com a document de part; valoració dels tardans | 80.3 i 80.4 LPAC; 91 Llei 26/2010; 48 TRLUC | Protecció de béns supramunicipals en SNU | Alt | Verificat |
+| 22 | 31 (73.4 TRLUC) | Prohibició absoluta i indefinida de suspensions; antinòmia amb l'art. 73.2 TRLUC | Règim de suspensió motivada amb excepcions taxades | 73 i 74 TRLUC; 25.2.a LRBRL; 84.2.a EAC | Preserva la potestat de planejament | Alt | Verificat |
+| 23 | 41.3 (DA 33a TRLUC) | Substitució il·limitada d'informes municipals sectorials per certificats amb ficció de correcció en un mes | Limitació material i supressió de la ficció de silenci | 80 LPAC; 84.2.a EAC; STC 51/2004 | Manté la veu municipal en procediments sectorials | Alt | Verificat |
+| 24 | 44 i 45 (Llei 23/1983) | Aprovació dels plans territorials traslladada del Govern a un òrgan no responsable davant el Parlament | Manteniment de l'aprovació definitiva en el Govern | 14 i 19 quater Llei 23/1983; STC 51/2004 | Rang i responsabilitat de la decisió territorial | Alt | Verificat |
+| 25 | 53 i 56 (D 142/2005; D 177/1987) | Modificació puntual dels plans territorials sense definició legal ni criteris | Definició amb criteris taxats i garantia dels tràmits posteriors | 96 TRLUC per contrast; 9.3 CE | Evita eludir el procediment ordinari | Alt | Verificat |
+| 26 | 70 (23.2 LPCAA) | Prescripcions tipus que poden substituir informes preceptius per simple resolució | Límits de rang, competència i matèria; exclusió dels informes municipals i bàsics | 80 LPAC; informe jurídic preliminar | Legalitat del mecanisme | Alt | Verificat |
+| 27 | 81 (45 LPCAA) | Tramesa generalitzada a la Ponència i supressió de l'informe integrat; contradiccions amb els arts. 38 i 46 LPCAA | Restabliment de l'informe integrat i de la proposta de resolució; tramesa limitada als casos amb AIA | 38, 45 i 46 LPCAA | Coherència del procediment de llicència ambiental | Mitjà | Verificat |
+| 28 | 86 (DF 1a LPCAA) | Modificació per ordre dels annexos que determinen la competència municipal | Reserva de decret, proposta de la Comissió d'Avaluació i Seguiment i informe de la Comissió de Govern Local | 193 TRLMRLC; 25 LRBRL | Participació local en canvis de règim | Alt | Verificat |
+| 29 | 87, 88 i DF 8a (annexos LPCAA) | Reclassificació d'activitats sense dret transitori ni assistència; entrada en vigor en vint dies | Disposició transitòria (conservació de títols i trasllat d'expedients) i entrada en vigor esglaonada | 59.1.e LPCAA mod.; 25.3-25.6 LRBRL; 66.4.b TRLMRLC | Seguretat jurídica dels expedients en curs | Alt | Verificat |
+| 30 | 88 (annexos II i VI LPCAA) | Incoherències internes dels annexos (llindars, remissions, annex VI desactualitzat) | Correccions de coherència | Annexos LPCAA | Aplicabilitat dels annexos | Mitjà | Verificat |
 
 ## 9. Qüestions analitzades i descartades
 
@@ -116,6 +132,7 @@ Ni l'Avantprojecte ni cap document de l'expedient contenen previsions o anàlisi
 4. **Esmena a la reserva de "tècnic col·legiat" en els informes de part.** L'ACCO ja la formula amb detall (IR 83/2026, apartat 3.2.iv) i el debat afecta sobretot professionals, no administracions locals; es deixa a la valoració de l'òrgan tramitador sense esmena pròpia.
 5. **Règim diferenciat per a municipis de més de 50.000 habitants** (proposta de l'Ajuntament de Vilanova i la Geltrú a la consulta prèvia). No es fa pròpia: fragmentaria el règim d'intervenció; les esmenes proposades serveixen igual per a totes les mides de municipi.
 6. **DT 2a (convenis d'habitatge protegit) i DA 32a (procediment simplificat preferent per a habitatge protegit).** Sense esmena: mesures d'habitatge amb càrrega municipal assumible i finalitat compartida.
+7. **Candidates de la segona ronda no prioritzades.** La segona ronda de detecció va identificar 42 qüestions esmenables; se'n van verificar i redactar les 16 de més prioritat (esmenes 17 a 30 i refoses amb les esmenes 5 i 8). Les 26 restants queden documentades per a un eventual tràmit parlamentari; entre les principals: el tràmit d'observacions municipals en l'autorització de parcs eòlics i fotovoltaiques (art. 90 APL, art. 15 DL 16/2019), les condicions de l'informe substitutori de l'ACA (art. 95 APL), el còmput de la verificació municipal en les rompudes forestals (art. 96 APL), la delimitació de la disposició final primera de l'APL (informes de part amb caràcter general), el règim de taxes municipals del procediment simplificat, el règim sancionador de les entitats col·laboradores (art. 198 quinquies.3), l'audiència del procediment simplificat de modificació substancial (art. 59 bis LPCAA), la definició de modificació substancial (art. 4.g LPCAA), les garanties de les sessions telemàtiques asíncrones i la correcció de la DT 1a i la DT 2a de l'APL.
 
 ## 10. Punts pendents de verificació
 
@@ -127,9 +144,9 @@ Ni l'Avantprojecte ni cap document de l'expedient contenen previsions o anàlisi
 
 ## 11. Conclusions operatives
 
-a) Es proposa presentar les setze esmenes del document 02, dins el termini que acaba el 30 de setembre de 2026, pel canal de petició genèrica de Tràmits gencat indicat a l'Edicte.
+a) Es proposa presentar les trenta esmenes del document 02, dins el termini que acaba el 30 de setembre de 2026, pel canal de petició genèrica de Tràmits gencat indicat a l'Edicte.
 
-b) Les esmenes 1, 2, 5, 8, 11 i 14 concentren l'interès municipal principal; si calgués prioritzar en la defensa pública, són les que cal mantenir en tot cas.
+b) Les esmenes 1, 2, 5, 8, 11, 14, 17, 22, 23 i 29 concentren l'interès municipal principal; si calgués prioritzar en la defensa pública, són les que cal mantenir en tot cas.
 
 c) No es formula oposició al conjunt de la reforma: el document d'al·legacions identifica expressament les mesures que es valoren com a simplificació real.
 
