@@ -154,6 +154,8 @@ d) Després del tràmit d'audiència als ens locals i de l'informe de la Comissi
 
 ## 12. Revisió de veracitat del document d'al·legacions (30 de setembre de 2026)
 
+### 12.1. Primera revisió
+
 S'ha contrastat cada afirmació i cita del document 02 amb el text de l'Avantprojecte, els textos consolidats disponibles al repositori (TRLUC consolidat amb vigència de 3.10.2026, que inclou el Decret llei 3/2026, el Decret llei 6/2026 i la Llei 11/2026; LPCAA consolidada amb vigència de 14.7.2026; LPAC, LRJSP, LRBRL, TRLMRLC, Llei 26/2010, RLUC, Decret 64/2014 i ROAS) i els documents de l'expedient. La revisió va detectar 156 incidències: 17 errors, 119 imprecisions, 8 afirmacions no verificables i 11 marques [CAL VERIFICAR] que es van poder resoldre. Totes s'han corregit al document.
 
 Correccions de més pes:
@@ -174,7 +176,28 @@ g) **Esmenes 8, 24 i 28.** Errors en les marques del text proposat o en remissio
 
 h) **Antecedent IV.** S'ha suprimit l'afirmació sobre la dimensió del polígon químic, sense suport a l'expedient.
 
-Límits de la verificació. La base de dades oficial de legislació i jurisprudència utilitzada va exhaurir la quota durant la revisió, i el BOE, el DOGC, el Portal Jurídic i el web del Tribunal Constitucional no eren accessibles des de l'entorn de treball. Per això, les cites següents s'han contrastat amb fonts secundàries coincidents i convé confrontar-les amb el text oficial abans de la presentació: articles 84.2.a, 86.3 i 74 EAC; articles 5.e, 13.2.c, 14.c, 25.1 i 48 TRLSRU; STC 143/2017 (FJ 23), STC 159/2001 i STC 31/2010 (FJ 22); articles 4.2, 4.6 i 9 de la Carta europea de l'autonomia local; articles 14 i 19 quater de la Llei 23/1983. L'article 9 de la Llei 1/1998, l'article 50 EAC, l'article 11 TRLSRU i el FJ 12 de la STC 51/2004 es van comprovar al text oficial.
+Límits de la primera revisió. La base de dades oficial de legislació i jurisprudència utilitzada va exhaurir la quota durant la revisió, i el BOE, el DOGC, el Portal Jurídic i el web del Tribunal Constitucional no eren accessibles des de l'entorn de treball. Les cites de l'EAC, el TRLSRU, la Carta europea de l'autonomia local, la Llei 23/1983 i les sentències del Tribunal Constitucional es van contrastar en aquesta fase amb fonts secundàries.
 
-Resten 10 marques [CAL VERIFICAR] al document, sobre extrems que no es poden comprovar amb les fonts disponibles: el text vigent de l'article 17 del Decret 142/2005 i de l'article 10 del Decret 177/1987 (esmena 25), l'abast de les conques intercomunitàries al Camp de Tarragona i l'informe de l'organisme de conca (esmena 26), l'article 84 EAC com a reforç (esmena 28), la Llei 21/2013 (esmena 29), l'annex I de la Directiva 2010/75/UE (esmena 30), l'ús de plataformes del Consorci AOC pels ajuntaments (esmena 14) i la durada real de les fases del planejament territorial (esmena 24).
+### 12.2. Segona revisió
 
+La segona revisió ha tornat a contrastar el document sencer, inclosos els canvis introduïts per la primera. Per a les normes estatals i les normes catalanes publicades al BOE s'ha fet servir, a més, una còpia dels textos consolidats del BOE (repositori públic legalize-dev/legalize-es), que conté, entre d'altres, la Constitució, l'EAC, el TRLSRU, la LPAC, la LRJSP, la LRBRL, la Llei 21/2013, el text refós de la Llei d'aigües (Reial decret legislatiu 1/2016), la Carta europea de l'autonomia local, la Llei 23/1983 i la Llei 1/1998. És una còpia derivada del BOE, no el text oficial.
+
+La revisió ha detectat 50 incidències, totes corregides: 40 imprecisions, 2 errors, 1 correcció errònia de la primera revisió i 7 marques [CAL VERIFICAR] resoltes. Les de més pes són aquestes:
+
+a) **Esmena 2.** La primera revisió havia afegit que tots els actes no exclosos del silenci positiu per l'article 188.2 TRLUC s'entenen atorgats en exhaurir-se el termini. L'article 11.4 TRLSRU, norma bàsica, imposa el silenci negatiu a actes que el TRLUC no exclou. S'ha corregit.
+
+b) **Esmena 29.** El text proposat difereix l'entrada en vigor dels articles 87 i 88 de l'Avantprojecte a sis mesos, però la disposició transitòria proposada comptava els seus terminis des de l'entrada en vigor de la llei. Els dos apartats de la disposició transitòria es compten ara des de l'entrada en vigor dels articles 87 i 88. S'ha corregit també la descripció de l'article 38 LPCAA (funció de l'òrgan tècnic ambiental del consell comarcal en els municipis de més de 20.000 i menys de 50.000 habitants).
+
+c) **Esmenes 26, 28, 29 i 30.** S'han resolt les marques sobre l'informe de l'organisme de conca (article 19 i disposició final segona del text refós aprovat pel Reial decret legislatiu 1/2016), l'article 84 EAC, l'annex I de la Llei 21/2013 i l'annex I de la Directiva 2010/75/UE.
+
+d) **Esmena 14.** S'ha suprimit l'afirmació que els sistemes municipals de tramitació funcionen "en molts casos" amb plataformes del Consorci AOC, sense suport a l'expedient; el text remet ara a la cooperació entre la Generalitat i els ens locals per mitjà del Consorci que preveu la Llei 29/2010, del 3 d'agost, de l'ús dels mitjans electrònics al sector públic de Catalunya.
+
+e) **Esmena 24.** S'ha suprimit l'afirmació sobre la durada real de les fases del planejament territorial, que no es podia acreditar, i s'ha indicat que la Comissió de Coordinació de la Política Territorial va ser suprimida per la disposició addicional segona de la Llei 3/2012, de 22 de febrer.
+
+f) **Esmenes 6, 8, 10, 12, 15, 20, 27 i 28.** Paràfrasis de normes ajustades al text literal: apartats 3 i 6 dels articles 86 quater i 86 quinquies TRLUC, article 80.3 LPAC, silenci en les modificacions sotmeses a avaluació d'impacte ambiental i revisió anticipada de la llicència ambiental (articles 62.4 i 63 LPCAA), article 25.1 TRLSRU, STC 31/2010 (FJ 22), disposició transitòria vint-i-quatrena del TRLUC, article 40 LPCAA i article 42.1 LPCAA.
+
+g) **Preàmbul i taula d'esmenes.** Títols i articles de l'Avantprojecte ajustats al contingut real de les esmenes 7 i 9, i coherència de la consideració cinquena sobre la naturalesa dels certificats.
+
+Resten 2 marques [CAL VERIFICAR] al document, totes dues a l'esmena 25: el text vigent de l'article 17 del Decret 142/2005 i de l'article 10 del Decret 177/1987, que no consten en cap de les fonts disponibles.
+
+Límits de la verificació. Continuen sense contrast amb el text oficial les sentències del Tribunal Constitucional STC 143/2017 (FJ 23), STC 159/2001 (FJ 12) i STC 31/2010 (FJ 22), comprovades amb fonts secundàries coincidents. El FJ 12 de la STC 51/2004 es va comprovar al text oficial. Les cites de normes estatals s'han contrastat amb la còpia dels textos consolidats del BOE esmentada. Abans de presentar l'escrit convé confrontar amb el BOE i el DOGC les cites de les sentències esmentades i dels preceptes estatutaris.
