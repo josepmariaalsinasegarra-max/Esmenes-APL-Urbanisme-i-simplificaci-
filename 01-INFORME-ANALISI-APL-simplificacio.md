@@ -102,13 +102,13 @@ La proposta conté trenta esmenes. Les esmenes 1 a 16 procedeixen de la primera 
 | 7 | 23 (DA 31a) i 15 (86 ter) | Doble tramitació portal/gestors municipals; cost no estimat | Interoperabilitat AOC; una sola gravació; calendari i memòria econòmica | 155 LRJSP; 28.2 LPAC | Evita duplicar expedients | Alt | Verificat |
 | 8 | 69 (22 LPCAA) | Informe municipal degradat (no vinculant), àmbit material reduït, càrrega sancionadora nova i tramesa tardana de l'expedient | Tramesa simultània a la informació pública; caràcter preceptiu i vinculant; àmbit material complet; control i sanció segons els arts. 29.5 i 86.2 LPCAA | 22 LPCAA vigent; 8.1, 29.5 i 86.2 LPCAA; 25.3-25.6 LRBRL; 80 LPAC | Garantia municipal efectiva sense allargar el procediment | Alt | Verificat |
 | 9 | 74 (30 LPCAA) | Exposició pública municipal en paper i còpia impresa | Publicitat a la seu electrònica | 13 i 53 LPAC | Suprimeix càrrega sense funció | Mitjà | Verificat |
-| 10 | 82 (59.2 LPCAA) | Silenci positiu en modificacions substancials de llicència ambiental | Silenci negatiu; correcció de remissió a 7.1.b | 24.1 LPAC bàsic; 48.3 LPCAA | Evita nul·litats i litigis | Mitjà | Verificat |
+| 10 | 82 (59.2 LPCAA) | Extensió del silenci positiu a totes les modificacions substancials de llicència ambiental, incloses les sotmeses a avaluació d'impacte ambiental (el 59.1.b vigent el limita als casos sense DIA) | Silenci positiu en tres mesos llevat de les modificacions sotmeses a avaluació d'impacte ambiental; correcció de remissió a 7.1.b | 24.1 LPAC; 59.1.b i 48.1 LPCAA vigents | Manté la simplificació i exclou els casos de risc ambiental | Mitjà | Verificat |
 | 11 | 40-41 (DA 26a, 26a bis) | Audiència municipal sense resposta; clàusula oberta de projectes "d'interès per el Govern" | Informe municipal valorat expressament; supressió de la clàusula | STC 51/2004; CEAL 4.6; 9.3 CE | Participació municipal efectiva | Alt | Verificat |
-| 12 | 32 (119.2 TRLUC) | Supressió de la citació personal; 15 dies per a reparcel·lacions | Mantenir citació personal i un mes en reparcel·lació | 119.2.c vigent; 82 LPAC | Evita anul·lacions | Alt | Verificat |
+| 12 | 32 (119.2 TRLUC) | Supressió de la citació personal; 15 dies d'informació pública, per sota del mínim de vint dies | Citació personal; vint dies en general i un mes en reparcel·lació | 119.2.c vigent; 82 i 83.2 LPAC; 25.1 TRLSRU | Evita anul·lacions | Alt | Verificat |
 | 13 | DF 5a (77.4 ROAS) | Caució sense quantia, forma ni devolució | Concreció completa | 77 ROAS; LCSP | Fa la mesura aplicable | Alt | Verificat |
 | 14 | DF 6a (DA 11a Llei 19/2014) | Tramesa trimestral manual a l'Observatori | Interoperabilitat; no retramesa del que consti a la plataforma | 155 LRJSP | Suprimeix càrrega nova | Alt | Verificat |
 | 15 | Nova DA | Cap previsió lingüística; certificats substitueixen informes en català | DA de garanties d'ús del català i aranès | 50.5 EAC; 9 i 30 Llei 1/1998 | Manté el règim lingüístic | Alt | Verificat (STC 31/2010: pendent de concreció de FJ) |
-| 16 | Diversos | Errors materials i de remissió | Llista de nou correccions | 9.3 CE | Seguretat jurídica | — | Verificat |
+| 16 | Diversos | Errors materials, de remissió i de coordinació amb la Llei 11/2026 | Llista de tretze correccions (inclou Decret 131/2022 i doble DA novena LPCAA) | 9.3 CE | Seguretat jurídica | — | Verificat |
 | 17 | 3 (187.3 TRLUC) | Silenci positiu de la primera fase d'obres inoperant (188.2 TRLUC) o contrari a l'art. 11.4 TRLSRU | Resolució expressa en un mes amb informe tècnic o certificat; silenci negatiu; deure de reposició | 188.2 i 5.2 TRLUC; 11.4 TRLSRU; STC 143/2017 | Mesura aplicable i sense litigi | Alt | Verificat |
 | 18 | 6.3 (188.3 bis TRLUC) | Abast de la facultat municipal d'exigir el certificat d'idoneïtat tècnica | Manteniment de la facultat en actes de comunicació prèvia i de l'incís de responsabilitat | 188.3 bis TRLUC vigent | Conserva un instrument municipal vigent | Mitjà | Verificat |
 | 19 | 13 (85.6 i 85.9 TRLUC) | Informes de part sense requisits d'independència ni abast de la verificació | Independència del tècnic, declaració responsable i verificació amb rebuig motivat | 91.3 i 91.4 Llei 26/2010; 80 LPAC; ACCO IR 83/2026 | Garanties sense perdre celeritat | Alt | Verificat |
@@ -151,3 +151,30 @@ b) Les esmenes 1, 2, 5, 8, 11, 14, 17, 22, 23 i 29 concentren l'interès municip
 c) No es formula oposició al conjunt de la reforma: el document d'al·legacions identifica expressament les mesures que es valoren com a simplificació real.
 
 d) Després del tràmit d'audiència als ens locals i de l'informe de la Comissió de Govern Local, convindrà revisar si el projecte de llei incorpora les correccions i, si escau, traslladar les esmenes no ateses al tràmit parlamentari a través del grup corresponent.
+
+## 12. Revisió de veracitat del document d'al·legacions (30 de setembre de 2026)
+
+S'ha contrastat cada afirmació i cita del document 02 amb el text de l'Avantprojecte, els textos consolidats disponibles al repositori (TRLUC consolidat amb vigència de 3.10.2026, que inclou el Decret llei 3/2026, el Decret llei 6/2026 i la Llei 11/2026; LPCAA consolidada amb vigència de 14.7.2026; LPAC, LRJSP, LRBRL, TRLMRLC, Llei 26/2010, RLUC, Decret 64/2014 i ROAS) i els documents de l'expedient. La revisió va detectar 156 incidències: 17 errors, 119 imprecisions, 8 afirmacions no verificables i 11 marques [CAL VERIFICAR] que es van poder resoldre. Totes s'han corregit al document.
+
+Correccions de més pes:
+
+a) **Esmena 10.** L'article 59.1.b LPCAA vigent ja preveu silenci positiu (sis mesos) per a les modificacions substancials d'activitats amb llicència ambiental que no requereixen declaració d'impacte ambiental. L'esmena s'ha reformulat: accepta el silenci positiu de tres mesos de l'Avantprojecte i només n'exceptua les modificacions sotmeses a avaluació d'impacte ambiental.
+
+b) **Esmena 21.** Atribuïa a l'article 80.4 LPAC que l'informe tardà "pot ser tingut en compte"; el text diu "pot no ser tingut en compte". Corregit, juntament amb l'ús de l'article 80.3 LPAC, que exclou els informes preceptius (mateixa correcció a l'esmena 23).
+
+c) **Esmena 12.** Els quinze dies d'informació pública de l'Avantprojecte, que l'esmena mantenia per als instruments diferents de la reparcel·lació, queden per sota del mínim de vint dies de l'article 83.2 LPAC, al qual remet l'article 25.1 TRLSRU. El text proposat fixa ara vint dies.
+
+d) **Esmena 5 i consideració tercera.** El Decret llei 6/2026 ja va atribuir als ajuntaments l'aprovació de les normes de planejament dels municipis rurals amb informe vinculant de la comissió territorial; la comparació amb el règim vigent es limita ara a les modificacions de POUM (article 91.1 TRLUC).
+
+e) **Esmena 1.** El text proposat fixava dos mesos per resoldre en actuacions amb projecte tècnic, però mantenia el silenci positiu a un mes; s'ha estès al paràgraf del silenci.
+
+f) **Esmena 16 i antecedents.** El reglament de la Llei 18/2020 és el Decret 131/2022 (l'Avantprojecte i la memòria general diuen 31/2022). S'hi afegeixen la doble disposició addicional novena de la LPCAA (ja n'hi va afegir una la Llei 11/2026), la derogació d'una disposició transitòria del TRLUC ja derogada per la Llei 11/2026 i dos errors de la disposició derogatòria.
+
+g) **Esmenes 8, 24 i 28.** Errors en les marques del text proposat o en remissions internes, corregits. L'esmena 29 difereix ara també els articles 62 i 82 de l'Avantprojecte perquè el nou règim de classificació entri en vigor sencer.
+
+h) **Antecedent IV.** S'ha suprimit l'afirmació sobre la dimensió del polígon químic, sense suport a l'expedient.
+
+Límits de la verificació. La base de dades oficial de legislació i jurisprudència utilitzada va exhaurir la quota durant la revisió, i el BOE, el DOGC, el Portal Jurídic i el web del Tribunal Constitucional no eren accessibles des de l'entorn de treball. Per això, les cites següents s'han contrastat amb fonts secundàries coincidents i convé confrontar-les amb el text oficial abans de la presentació: articles 84.2.a, 86.3 i 74 EAC; articles 5.e, 13.2.c, 14.c, 25.1 i 48 TRLSRU; STC 143/2017 (FJ 23), STC 159/2001 i STC 31/2010 (FJ 22); articles 4.2, 4.6 i 9 de la Carta europea de l'autonomia local; articles 14 i 19 quater de la Llei 23/1983. L'article 9 de la Llei 1/1998, l'article 50 EAC, l'article 11 TRLSRU i el FJ 12 de la STC 51/2004 es van comprovar al text oficial.
+
+Resten 10 marques [CAL VERIFICAR] al document, sobre extrems que no es poden comprovar amb les fonts disponibles: el text vigent de l'article 17 del Decret 142/2005 i de l'article 10 del Decret 177/1987 (esmena 25), l'abast de les conques intercomunitàries al Camp de Tarragona i l'informe de l'organisme de conca (esmena 26), l'article 84 EAC com a reforç (esmena 28), la Llei 21/2013 (esmena 29), l'annex I de la Directiva 2010/75/UE (esmena 30), l'ús de plataformes del Consorci AOC pels ajuntaments (esmena 14) i la durada real de les fases del planejament territorial (esmena 24).
+
