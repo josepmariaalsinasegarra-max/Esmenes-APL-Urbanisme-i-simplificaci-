@@ -338,7 +338,7 @@ Article 10 (Actes subjectes a comunicació prèvia), lletres b, e, g i h. Articl
 
 > Article 8, lletra a. Els moviments de terra i les esplanacions dels terrenys ~~que superin 1000m3 de volum o alterin en més 1m el terreny natural i~~ que no estiguin lligats a cap altra obra.
 
-> Article 30.1, lletra nova. Llicències de moviments de terra i esplanacions de fins a 1.000 m3 que no alterin en més d'un metre el terreny natural: quinze dies hàbils.
+> Article 30.1, en la redacció de l'esmena 2. S'hi afegeix una lletra d: <u>"d) Llicències de moviments de terra i esplanacions de fins a 1.000 m3 que no alterin en més d'un metre el terreny natural: quinze dies hàbils."</u>
 
 > Article 10, lletra e. S'hi afegeix: <u>"No requereix una nova comunicació la substitució d'un d'aquests elements per un altre de les mateixes dimensions i en la mateixa ubicació."</u>
 
@@ -681,7 +681,7 @@ L'article 82.3 de la LPAC ja preveu que el tràmit es considera realitzat si la 
 
 **1. Disposició objecte d'esmena**
 
-Articles 21, 33 (tots els apartats llevat del primer), 51, 62, 63 i 65. Es refonen en tres articles.
+Articles 21, 33 (tots els apartats llevat del primer), 51, 61 (paràgrafs sobre el còmput dels terminis), 62, 63 i 65. Es refonen en tres articles.
 
 
 **2. Text actual**
@@ -697,7 +697,7 @@ L'article 21, titulat "Caducitat del procediment", regula la caducitat de la lli
 
 **3. Text proposat**
 
-> Se suprimeixen els articles 21 i 51 i, de l'article 33, els apartats sobre terminis generals, còmput i pròrroga, que són tots llevat del primer. Els articles 62, 63 i 65 queden redactats així:
+> Se suprimeixen els articles 21 i 51; de l'article 33, els apartats sobre terminis generals, còmput i pròrroga, que són tots llevat del primer, i, de l'article 61, els dos paràgrafs que segueixen l'obligació formal 2 i que regulen el còmput dels terminis. Els articles 62, 63 i 65 queden redactats així:
 
 > Article 62. Terminis d'execució
 
@@ -734,7 +734,7 @@ El Projecte no és coherent en aquest punt. L'article 62 diu que els terminis "e
 
 Per a les comunicacions prèvies, l'article 73.1 del RPLU estableix que els terminis "es prorroguen per la meitat si la persona interessada ho comunica abans que hagin transcorregut", i l'article 73.2 que el transcurs dels terminis inhabilita per continuar les obres, sense declaració.
 
-Sis articles del Projecte regulen aquestes matèries. Les redaccions no coincideixen en el dia inicial del còmput de les comunicacions ni en la necessitat de declarar la caducitat. La refosa elimina les repeticions i deixa una sola regla per a cada qüestió. El termini de deu dies per expedir el justificant de la pròrroga és una proposta.
+Set articles del Projecte regulen aquestes matèries. Les redaccions no coincideixen en el dia inicial del còmput de les comunicacions ni en la necessitat de declarar la caducitat. La refosa elimina les repeticions i deixa una sola regla per a cada qüestió. El termini de deu dies per expedir el justificant de la pròrroga és una proposta.
 
 
 **5. Fonament jurídic**
@@ -795,7 +795,7 @@ El justificant de l'apartat 2 substitueix la "validació de la verificació" de 
 
 **1. Disposició objecte d'esmena**
 
-Article 52 (apartat 1, lletres a i b, i apartat 2, lletra c). Article 55 (lletra b de la documentació). Article 56 (documentació de les instal·lacions solars).
+Article 52 (apartat 1, lletres a i b, i apartat 2, lletres a, c, d, e i g). Article 55 (lletra b de la documentació). Article 56 (documentació de les instal·lacions solars).
 
 
 **2. Text actual**
@@ -813,6 +813,10 @@ Article 52 (apartat 1, lletres a i b, i apartat 2, lletra c). Article 55 (lletra
 
 > Article 52.1. Per a les comunicacions prèvies d'obres cal aportar la documentació de l'article 20 i el pressupost de l'actuació, que ha de detallar els treballs. Els terminis per començar i per acabar les obres s'indiquen al formulari.
 
+> Article 52.2, lletres a, d, e i g, punt i. ~~Plànols de situació, emplaçament i execució de l'obra~~ <u>Plànols de l'obra</u> signats per facultatiu competent.
+
+> Article 52.2.c, punt i. ~~Plànols de situació, emplaçament i extensió de l'obra.~~ <u>Plànols de l'extensió de l'obra.</u>
+
 > Article 52.2.c, punt ii. Full de nomenament dels tècnics competents que assumeixen la direcció de l'obra<u>, quan la intervenció afecti elements estructurals</u>.
 
 > Article 55, lletra b. Se suprimeix.
@@ -828,7 +832,7 @@ Article 52 (apartat 1, lletres a i b, i apartat 2, lletra c). Article 55 (lletra
 
 **4. Motivació**
 
-L'article 20 ja exigeix identificar la finca i situar-la sobre un plànol oficial. L'article 52.1 torna a demanar un plànol de situació, i diverses lletres de l'article 52.2 el demanen una tercera vegada. Els terminis d'execució són una dada de la comunicació (article 73.1 del RPLU), no un document.
+L'article 20 ja exigeix identificar la finca i situar-la sobre un plànol oficial. L'article 52.1 torna a demanar un plànol de situació, i les lletres a, c, d, e i g de l'article 52.2 el demanen una tercera vegada, juntament amb el d'emplaçament. Els terminis d'execució són una dada de la comunicació (article 73.1 del RPLU), no un document.
 
 A l'article 55, la lletra a ja exigeix una memòria subscrita per un tècnic que justifiqui l'adequació al planejament. La lletra b demana un segon document amb el mateix contingut. L'article 31 del RPLU no el preveu.
 
@@ -937,7 +941,7 @@ Article 69 (Devolució i cancel·lació de les garanties).
 
 > 1. L'Ajuntament retorna d'ofici les garanties quan comprova la validesa de la comunicació prèvia de primera utilització i ocupació. En la resta de casos les retorna a sol·licitud de la persona interessada, un cop justificat el compliment de les obligacions garantides.
 
-> Apartat nou. L'Ajuntament resol sobre la devolució en el termini d'un mes.
+> S'hi afegeix un apartat: <u>"L'Ajuntament resol sobre la devolució en el termini d'un mes."</u>
 
 > iii. ~~[...] full de dades del compte bancari [...] degudament conformat per l'entitat bancària~~ <u>número de compte (IBAN) de la persona titular de la llicència, amb declaració responsable de la titularitat</u>.
 
@@ -1062,7 +1066,7 @@ L'article 188.6 del TRLUC, afegit per la Llei 11/2025, de 29 de desembre, declar
 
 **1. Disposició objecte d'esmena**
 
-Article 61 (Obligacions de les persones titulars d'obres o instal·lacions), obligacions formals 5, 6 i 7 i apartat sobre l'acta d'inici i el certificat final.
+Article 61 (Obligacions de les persones titulars d'obres o instal·lacions), obligacions formals 6 i 7, i apartat sobre l'acta d'inici i el certificat final, en relació amb l'obligació formal 5.
 
 
 **2. Text actual**
@@ -1330,7 +1334,7 @@ q) Numeració d'apartats repetida, que cal comprovar sobre el fitxer original (e
 | 9 | Arts. 27 i 28 | No preveu informes simultanis ni un sol requeriment | Petició simultània en cinc dies. Requeriment únic | Art. 79 ROAS. Arts. 68.2 i 72.1 LPAC | Verificat |
 | 10 | Art. 27, darrer apartat | Doble informe del projecte bàsic i del d'execució | El projecte d'execució amb l'informe de la direcció facultativa habilita per començar | Art. 34.3 RPLU | Verificat |
 | 11 | Art. 29 | Audiència de quinze dies i resposta de quinze dies | Deu dies, ampliables. Renúncia al tràmit | Arts. 32.1 i 82 LPAC | Verificat |
-| 12 | Arts. 21, 33, 51, 62, 63 i 65 | Sis articles sobre la mateixa matèria. Pròrroga discrecional i amb certificat | Refosa en tres articles. Pròrroga per ministeri de la llei, sense certificat | Art. 189 TRLUC. Arts. 37, 38 i 73 RPLU | Verificat |
+| 12 | Arts. 21, 33, 51, 61, 62, 63 i 65 | Set articles sobre la mateixa matèria. Pròrroga discrecional i amb certificat | Refosa en tres articles. Pròrroga per ministeri de la llei, sense certificat | Art. 189 TRLUC. Arts. 37, 38 i 73 RPLU | Verificat |
 | 13 | Art. 50 | Verificació de totes les comunicacions en un mes, amb informe tècnic de cadascuna | Comprovació formal en deu dies. Verificació material segons un pla anual | Art. 84 ter LRBRL. Art. 74 RPLU | Verificat |
 | 14 | Arts. 52, 55 i 56 | Documents repetits. Projecte tècnic per a tota instal·lació solar | Supressió de duplicats. Projecte només si l'exigeix la norma sectorial | Art. 28.3 LPAC. Art. 187 bis.h TRLUC | Verificat en part. Pendent: norma sectorial elèctrica |
 | 15 | Art. 22 | No admet la sol·licitud si no es pot requalificar | Requeriment d'esmena en deu dies | Art. 68.1 LPAC | Verificat |
