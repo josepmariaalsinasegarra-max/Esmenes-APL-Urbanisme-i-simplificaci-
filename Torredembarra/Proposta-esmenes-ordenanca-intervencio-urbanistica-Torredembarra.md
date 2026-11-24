@@ -50,7 +50,7 @@ d) El darrer apartat de l'article 27 obliga a sotmetre als informes tècnic i ju
 
 e) Sis articles (21, 33, 51, 62, 63 i 65) regulen els terminis d'execució, la pròrroga i la caducitat, amb redaccions diferents. L'article 62 diu que els terminis "es prorroguen automàticament". Els articles 33 i 63 presenten la pròrroga com una decisió municipal, i el 63 exigeix un certificat tècnic. L'article 189.4 del TRLUC la reconeix "en virtut de la llei".
 
-f) L'article 50 ordena que els serveis tècnics informin totes les comunicacions prèvies en el termini d'un mes.
+f) L'article 50 ordena que els serveis municipals verifiquin totes les comunicacions prèvies en el termini d'un mes i preveu, per a cadascuna, un informe dels serveis tècnics.
 
 g) L'article 79 qualifica de greus 32 conductes. Una d'elles és executar actes sense títol habilitant. L'article 215.h del TRLUC tipifica aquesta conducta com a infracció urbanística lleu quan l'acte és conforme a la legislació i al planejament urbanístics. Si no ho és, s'aplica el tipus que correspongui dels articles 213 a 215.
 
@@ -289,7 +289,7 @@ Article 5 (Actes no subjectes a intervenció municipal), lletra a. Article 8 (Ac
 
 > o. La intervenció en els béns sotmesos a un règim de protecció patrimonial cultural o urbanística.
 
-> p. Els actes de les lletres a, c, d, e, i, k, l i m de l'article 10, quan es duguin a terme en sòl no urbanitzable o en sòl urbanitzable no delimitat.
+> p. Els actes de les lletres a, c, d, e, i, k, l i m de l'article 10, quan es duguin a terme en sòl no urbanitzable o en sòl urbanitzable no delimitat i no estiguin compresos en la lletra f del mateix article.
 
 > Se suprimeixen les lletres u i w.
 
@@ -298,7 +298,7 @@ Article 5 (Actes no subjectes a intervenció municipal), lletra a. Article 8 (Ac
 
 Article 5, lletra a. El Projecte exclou de qualsevol títol habilitant, a més del manteniment i la conservació, la "reforma interior sense generar residus dins d'habitatge". L'article 187 bis.a del TRLUC sotmet a comunicació prèvia les obres de "reforma" de construccions existents que no requereixen projecte, i l'article 187 ter no les inclou entre els actes no subjectes a intervenció. L'exclusió de les reformes interiors no té, per tant, cobertura expressa. El manteniment i la conservació no figuren als articles 187 ni 187 bis, i es poden excloure. El criteri "sense generar residus" és imprecís, perquè qualsevol obra en genera. La proposta limita l'exclusió als actes que no són reforma i n'enumera exemples, que han de validar els serveis tècnics municipals. La paraula "envelliment" sembla un error per "embelliment" **[CAL VERIFICAR]**. Aquesta lectura de l'article 187 bis.a és una interpretació. Si l'Ajuntament vol mantenir fora de tota intervenció les reformes interiors, l'informe jurídic de l'expedient n'ha de justificar l'encaix en l'article 187 ter.
 
-Article 8, lletra w. Tal com està redactada, sotmet a llicència, en tot el terme municipal, els mateixos actes que l'article 10 sotmet a comunicació prèvia: les obres sense projecte, els murs i les tanques, els cartells, la primera ocupació i el canvi d'ús. Els dos articles es contradiuen. La lletra sembla voler recollir l'article 187.2.c del TRLUC, que sotmet a llicència els actes de l'article 187 bis només quan es duen a terme en sòl no urbanitzable i urbanitzable no delimitat, i amb l'excepció de les seves lletres g, h i i. La lletra p del Projecte recull la mateixa regla amb una altra redacció. La proposta les refon en una sola lletra i hi identifica els actes de l'article 10 que es corresponen amb les lletres a a f de l'article 187 bis. S'hi inclouen la lletra c (hivernacles amb murs de menys d'un metre), que ja figurava a la lletra w del Projecte, i la lletra i (retirada d'amiant), perquè són instal·lacions i obres sense projecte, compreses en la lletra a de l'article 187 bis. La lletra b se suprimeix amb l'esmena 5.
+Article 8, lletra w. Tal com està redactada, sotmet a llicència, en tot el terme municipal, els mateixos actes que l'article 10 sotmet a comunicació prèvia: les obres sense projecte, els murs i les tanques, els cartells, la primera ocupació i el canvi d'ús. Els dos articles es contradiuen. La lletra sembla voler recollir l'article 187.2.c del TRLUC, que sotmet a llicència els actes de l'article 187 bis només quan es duen a terme en sòl no urbanitzable i urbanitzable no delimitat, i amb l'excepció de les seves lletres g, h i i. La lletra p del Projecte recull la mateixa regla amb una altra redacció. La proposta les refon en una sola lletra i hi identifica els actes de l'article 10 que es corresponen amb les lletres a a f de l'article 187 bis. S'hi inclouen la lletra c (hivernacles amb murs de menys d'un metre), que ja figurava a la lletra w del Projecte, i la lletra i (retirada d'amiant), perquè es consideren instal·lacions i obres sense projecte de la lletra a de l'article 187 bis. Aquesta qualificació és una interpretació: l'article 187 bis no esmenta els hivernacles ni l'amiant. La lletra b se suprimeix amb l'esmena 5. La lletra p proposada exclou els actes de la lletra f de l'article 10, que són els emparats en un projecte d'actuació específica o en un pla urbanístic amb el mateix detall. L'article 187.2.c del TRLUC els manté en comunicació prèvia, i la lletra p del Projecte ja recollia aquesta excepció.
 
 La lletra w inclou, a més, la lletra g de l'article 10 (instal·lacions solars). L'article 187.2.c del TRLUC exclou expressament de la llicència en sòl no urbanitzable els actes de la lletra h de l'article 187 bis, que són les instal·lacions fotovoltaiques. La proposta ho corregeix.
 
@@ -355,7 +355,7 @@ La proposta manté la llicència, com exigeix la llei, i redueix el termini a qu
 
 Lletra e. El Projecte exigeix una comunicació per substituir un aparell d'aire condicionat o un rètol per un altre d'igual. La comunicació inicial ja va permetre comprovar l'adequació de l'element. Exigir-ne una altra no aporta informació nova a l'Ajuntament. És una proposta que entra dins del marge que la llei deixa a l'ordenança.
 
-Lletres g i h. La proposta les adapta a les lletres h i i de l'article 187 bis del TRLUC vigent. La lletra g del Projecte limita la comunicació prèvia a dos supòsits (coberta i espais lliures de parcel·la amb una ocupació màxima del 25 %) que la llei ja no preveu. La redacció vigent de l'article 9 bis.1.b admet, a més, una alçada de fins a 4 metres en edificació aïllada i equipaments.
+Lletres g i h. La proposta les adapta a les lletres h i i de l'article 187 bis del TRLUC vigent. La lletra g del Projecte limita la comunicació prèvia a dos supòsits: les instal·lacions sobre coberta i les situades en espais lliures de parcel·la que redueixin la demanda energètica i no ocupin més del 25 % de la superfície no edificable. L'article 187 bis.h vigent no conté aquesta limitació. L'article 9 bis.1 manté el supòsit de coberta. Per als espais lliures, la lletra b ja no fixa el límit del 25 %, es refereix a les instal·lacions destinades a "augmentar l'autoconsum renovable" i admet una alçada de fins a 4 metres en edificació aïllada i equipaments.
 
 
 **5. Fonament jurídic**
@@ -681,7 +681,7 @@ L'article 82.3 de la LPAC ja preveu que el tràmit es considera realitzat si la 
 
 **1. Disposició objecte d'esmena**
 
-Articles 21, 33 (apartats 2 a 4), 51, 62, 63 i 65. Es refonen en tres articles.
+Articles 21, 33 (tots els apartats llevat del primer), 51, 62, 63 i 65. Es refonen en tres articles.
 
 
 **2. Text actual**
@@ -697,7 +697,7 @@ L'article 21, titulat "Caducitat del procediment", regula la caducitat de la lli
 
 **3. Text proposat**
 
-> Se suprimeixen els articles 21 i 51 i els apartats 2 a 4 de l'article 33. Els articles 62, 63 i 65 queden redactats així:
+> Se suprimeixen els articles 21 i 51 i, de l'article 33, els apartats sobre terminis generals, còmput i pròrroga, que són tots llevat del primer. Els articles 62, 63 i 65 queden redactats així:
 
 > Article 62. Terminis d'execució
 
@@ -776,7 +776,7 @@ El contingut de l'article anterior a la fase d'inspecció se substitueix pels ap
 
 **4. Motivació**
 
-El Projecte es contradiu. El primer apartat preveu una verificació potestativa segons un pla. El tercer i la fase de comprovació obliguen els serveis tècnics a informar totes les comunicacions en un mes. Amb aquesta segona regla, cada comunicació genera un informe tècnic en el mateix termini que l'article 81.1 del ROAS fixa per resoldre una llicència d'obres sense projecte. La persona pot començar l'obra abans, però la càrrega de treball municipal és la mateixa que amb una llicència.
+El Projecte es contradiu. El primer apartat preveu una verificació potestativa segons un pla. El tercer obliga els serveis municipals a verificar totes les comunicacions en un mes, i la fase de comprovació preveu que els serveis tècnics informin cadascuna, un cop completa la documentació. Amb aquesta segona regla, cada comunicació genera un informe tècnic, i la verificació s'ha de fer en el mateix termini que l'article 81.1 del ROAS fixa per resoldre una llicència d'obres sense projecte. La persona pot començar l'obra abans, però la càrrega de treball municipal és la mateixa que amb una llicència.
 
 L'article 74.1 del RPLU diu que l'administració municipal "està facultada" per verificar les dades de la comunicació. L'article 84 ter de la LRBRL, referit a les activitats que no necessiten autorització prèvia, ordena a les entitats locals "establir i planificar" els procediments de verificació posterior. Cap dels dos preceptes exigeix verificar totes les comunicacions. Un pla anual, amb verificació obligatòria dels supòsits de més risc, compleix aquesta exigència i allibera temps dels serveis tècnics per informar les llicències dins de termini.
 
@@ -1083,7 +1083,7 @@ Article 61 (Obligacions de les persones titulars d'obres o instal·lacions), obl
 
 **4. Motivació**
 
-El Projecte preveu lliurar una placa física amb la llicència. Les comunicacions prèvies no donen lloc a cap acte de lliurament, i la recollida de la placa obliga a un desplaçament. L'article 84.2 del ROAS permet que les ordenances imposin un anunci normalitzat visible des de la via pública. Un cartell descarregable compleix aquesta funció.
+El Projecte preveu lliurar una placa física amb la llicència. Les comunicacions prèvies no donen lloc a cap acte de lliurament, i la recollida de la placa obliga a un desplaçament. L'article 84.2 del ROAS permet que les ordenances imposin al titular de la llicència, en les obres d'edificació i d'instal·lacions, un anunci normalitzat visible des de la via pública. El Projecte ja estén la placa a totes les obres amb títol habilitant, incloses les comunicades. La proposta no amplia aquesta obligació. En canvia el suport: un cartell descarregable compleix la mateixa funció.
 
 L'article 61 exigeix comunicar l'inici i l'acabament de les obres i, en un altre apartat, lliurar còpia de l'acta d'inici i del certificat final (article 37.3 del RPLU). Són dues obligacions sobre el mateix fet. L'article 53 torna a demanar el certificat final amb la comunicació de primera ocupació.
 
@@ -1197,9 +1197,9 @@ El preàmbul no esmenta l'informe d'idoneïtat tècnica ni justifica l'adequaci�
 
 L'article 129.1 de la LPAC exigeix que el preàmbul dels projectes de reglament justifiqui la seva adequació als principis de necessitat, eficàcia, proporcionalitat, seguretat jurídica, transparència i eficiència. El preàmbul del Projecte no ho fa.
 
-El text que es proposa pressuposa que s'accepten les esmenes 1, 8, 9 i 13. Si alguna no s'accepta, cal adaptar la frase corresponent.
+El text que es proposa pressuposa que s'accepten les esmenes 1, 2, 4, 5, 8, 9 i 13. Si alguna no s'accepta, cal adaptar la frase corresponent.
 
-Segons la nota del text consolidat, la Sentència del Tribunal Constitucional 55/2018, de 24 de maig, va declarar l'article 129 contrari a l'ordre constitucional de competències "en els termes del fonament jurídic 7b". Aquest document no ha analitzat l'abast d'aquesta declaració respecte de les ordenances locals **[CAL VERIFICAR]**.
+Segons la nota del text consolidat, la Sentència del Tribunal Constitucional 55/2018, de 24 de maig, va declarar l'article 129, "excepte l'apartat 4, paràgrafs 2n i 3r", contrari a l'ordre constitucional de competències "en els termes del fonament jurídic 7b". Aquest document no ha analitzat l'abast d'aquesta declaració respecte de les ordenances locals **[CAL VERIFICAR]**.
 
 
 **5. Fonament jurídic**
@@ -1250,7 +1250,7 @@ c) Visat del certificat final d'obra (article 53). L'article 2.b del Reial decre
 
 d) Llicència d'obres i llicència d'activitat (article 23). La regla "en cap cas no s'ha d'atorgar la llicència d'obres sense la concessió prèvia o simultània de la referent a l'activitat" reprodueix l'article 77.4 del ROAS vigent. L'Avantprojecte el modifica (apartat 6).
 
-e) Concurrència amb autoritzacions sectorials (article 24). Reprodueix l'article 16 del RPLU.
+e) Concurrència amb autoritzacions sectorials (article 24). Els dos primers apartats reprodueixen l'article 16 del RPLU. El tercer, que assimila la presentació d'una comunicació prèvia sectorial a l'obtenció de l'autorització, és propi del Projecte i facilita la tramitació.
 
 f) Terminis màxims de les comunicacions prèvies, de dos i dotze mesos. L'article 73.1 del RPLU remet a les ordenances municipals. És una opció de l'Ajuntament.
 
@@ -1267,7 +1267,7 @@ L'Avantprojecte es va sotmetre a informació pública fins al 30 de setembre de 
 
 | Precepte de l'Avantprojecte | Contingut | Efecte sobre l'ordenança |
 | --- | --- | --- |
-| Article 6.3 (article 188.3 bis del TRLUC) | L'informe d'idoneïtat tècnica passa a ser un "certificat d'idoneïtat tècnica". Es refereix només a la "sol·licitud de llicència" de les llicències "ordinàries". | Caldria canviar la denominació. L'informe voluntari en comunicacions prèvies (article 16 ter.2 proposat) perdria la cobertura expressa que avui li dona la llei. |
+| Article 6.3 (article 188.3 bis del TRLUC) | L'informe d'idoneïtat tècnica passa a ser un "certificat d'idoneïtat tècnica". Es refereix només a la "sol·licitud de llicència" de les llicències "ordinàries". | Caldria canviar la denominació. L'informe voluntari en comunicacions prèvies (article 16 ter.2 proposat) perdria la referència a la comunicació prèvia que avui conté l'article 188.3 bis. |
 | Article 6.4 (article 188.3 ter del TRLUC) | Procediment simplificat amb certificat de conformitat urbanística i tècnica. Termini d'un mes. Els ajuntaments el poden excloure per ordenança, de manera motivada. | El Ple hauria de decidir si l'exclou. Si no diu res, s'aplica. |
 | Article 4 (article 187 bis del TRLUC) | La primera utilització i ocupació parcial passa a comunicació prèvia. S'hi afegeixen les cales i els sondejos. | Caldria modificar els articles 8.q, 10 i 42. |
 | Article 3 (article 187.3 del TRLUC) | Autorització del moviment de terres i del mur pantalla com a primera fase, amb silenci positiu al cap d'un mes. | Caldria afegir-ho a l'article 30. |
@@ -1310,6 +1310,10 @@ n) Norma legal que fonamenta l'obligació d'enderroc de l'article 67 del Project
 
 o) Fonament jurídic 23 de la Sentència del Tribunal Constitucional 31/2010, sobre l'article 50.5 de l'EAC (esmena 23).
 
+p) Paraula volguda a l'article 5.a del Projecte, que diu "envelliment" (esmena 4).
+
+q) Numeració d'apartats repetida, que cal comprovar sobre el fitxer original (esmena 25).
+
 
 ## 8. MATRIU D'ESMENES
 
@@ -1327,10 +1331,10 @@ o) Fonament jurídic 23 de la Sentència del Tribunal Constitucional 31/2010, so
 | 10 | Art. 27, darrer apartat | Doble informe del projecte bàsic i del d'execució | El projecte d'execució amb l'informe de la direcció facultativa habilita per començar | Art. 34.3 RPLU | Verificat |
 | 11 | Art. 29 | Audiència de quinze dies i resposta de quinze dies | Deu dies, ampliables. Renúncia al tràmit | Arts. 32.1 i 82 LPAC | Verificat |
 | 12 | Arts. 21, 33, 51, 62, 63 i 65 | Sis articles sobre la mateixa matèria. Pròrroga discrecional i amb certificat | Refosa en tres articles. Pròrroga per ministeri de la llei, sense certificat | Art. 189 TRLUC. Arts. 37, 38 i 73 RPLU | Verificat |
-| 13 | Art. 50 | Informe tècnic de totes les comunicacions en un mes | Comprovació formal en deu dies. Verificació material segons un pla anual | Art. 84 ter LRBRL. Art. 74 RPLU | Verificat |
+| 13 | Art. 50 | Verificació de totes les comunicacions en un mes, amb informe tècnic de cadascuna | Comprovació formal en deu dies. Verificació material segons un pla anual | Art. 84 ter LRBRL. Art. 74 RPLU | Verificat |
 | 14 | Arts. 52, 55 i 56 | Documents repetits. Projecte tècnic per a tota instal·lació solar | Supressió de duplicats. Projecte només si l'exigeix la norma sectorial | Art. 28.3 LPAC. Art. 187 bis.h TRLUC | Verificat en part. Pendent: norma sectorial elèctrica |
 | 15 | Art. 22 | No admet la sol·licitud si no es pot requalificar | Requeriment d'esmena en deu dies | Art. 68.1 LPAC | Verificat |
-| 16 | Arts. 71.3, 75.7 i 76 | Contradicció sobre qui autoritza. Sense termini | Sol·licitud única. Informe de la Policia Local. Deu dies | Arts. 72.1, 76 i 82.1 ROAS. Art. 24.1 LPAC | Verificat en part. Pendent: Reglament del patrimoni |
+| 16 | Arts. 71.3, 75.7 i 76 | Contradicció sobre qui autoritza. Sense termini | Informe d'ofici de la Policia Local. Termini de deu dies amb comunicació prèvia. Silenci desestimatori | Arts. 72.1, 76 i 82.1 ROAS. Art. 24.1 LPAC | Verificat en part. Pendent: Reglament del patrimoni |
 | 17 | Art. 69 | No aclareix si la devolució lligada a la primera ocupació és d'ofici. Full bancari conformat. Sense termini | Devolució d'ofici amb la primera ocupació. Declaració responsable. Un mes | Arts. 21.3 i 69.1 LPAC. Art. 22.1 Llei 26/2010 | Verificat |
 | 18 | Art. 6 | Sense termini. Còmput no ajustat a la LPAC | Un mes i quinze dies. Còmput des del registre | Art. 105.1 TRLUC. Art. 21.3 LPAC | Verificat |
 | 19 | Art. 2 | Les instruccions podrien afegir documents | Límit exprés | Art. 6.1 LRJSP. Art. 28.3 LPAC | Verificat |
