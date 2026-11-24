@@ -2,14 +2,16 @@
 
 **Projecte d'Ordenança municipal reguladora de la intervenció administrativa en actes d'ús del sòl i d'edificació de Torredembarra**
 
-Esborrany de treball per a revisió jurídica. Versió revisada de 24 de novembre de 2026
+Versió A. Normativa vigent i textos consolidats. Esborrany de treball per a revisió jurídica. 24 de novembre de 2026
 
 
 ## 1. OBJECTE
 
 Aquest document proposa esmenes al Projecte d'Ordenança municipal reguladora de la intervenció administrativa en actes d'ús del sòl i d'edificació de Torredembarra (en endavant, el Projecte). El text analitzat és el fitxer Word de 36 pàgines facilitat el 23 de novembre de 2026, amb darrera modificació de 17 de novembre de 2026 segons les propietats del fitxer. Conté un preàmbul, 81 articles, dues disposicions transitòries, dues d'addicionals, una de derogatòria i una de final.
 
-Les esmenes tenen dues finalitats. La primera és reduir el temps de tramitació i els documents que el Projecte exigeix. La segona és corregir els preceptes que no s'ajusten a la normativa vigent el 23 de novembre de 2026. La proposta incorpora la regulació de l'informe d'idoneïtat tècnica de l'article 188.3 bis del Text refós de la Llei d'urbanisme, que el Projecte no preveu.
+Aquesta és la versió A. Es basa en la normativa vigent el 24 de novembre de 2026, consultada en els textos consolidats. La versió B proposa el que l'ordenança podria regular si s'aprova l'Avantprojecte de llei de simplificació de tràmits en l'àmbit urbanístic i ambiental amb el text sotmès a informació pública.
+
+Les esmenes tenen dues finalitats. La primera és reduir el temps de tramitació i els documents que el Projecte exigeix. La segona és corregir els preceptes que no s'ajusten a la normativa vigent el 24 de novembre de 2026. La proposta incorpora la regulació de l'informe d'idoneïtat tècnica de l'article 188.3 bis del Text refós de la Llei d'urbanisme, que el Projecte no preveu.
 
 El document és una proposta de treball. No és un informe de Secretaria ni un escrit d'al·legacions signat. Si s'ha de presentar en el tràmit d'informació pública de l'article 49.b de la Llei 7/1985, cal afegir-hi la identificació de qui el presenta i la petició final. No consta en la documentació disponible en quin tràmit es troba el Projecte **[CAL VERIFICAR]**.
 
@@ -34,7 +36,6 @@ Les normes catalanes s'han consultat en el text consolidat del Portal Jurídic d
 - Decret 64/2014, de 13 de maig, pel qual s'aprova el Reglament sobre protecció de la legalitat urbanística (en endavant, RPLU). Vigència 07/05/2026.
 - Decret 179/1995, de 13 de juny, pel qual s'aprova el Reglament d'obres, activitats i serveis dels ens locals (en endavant, ROAS). Vigència 04/06/2014.
 - Institut d'Estadística de Catalunya (Idescat), indicador de població municipal de Torredembarra, any 2025, a partir del Cens de població anual de l'INE (consulta de 24 de novembre de 2026).
-- Avantprojecte de llei de simplificació de tràmits en l'àmbit urbanístic i ambiental (en endavant, l'Avantprojecte), sotmès a informació pública per l'Edicte de 10 de juliol de 2026 (DOGC núm. 9707, de 14 de juliol de 2026). No és dret vigent. Es té en compte a l'apartat 6.
 
 ## 3. CONSTATACIONS
 
@@ -207,7 +208,7 @@ El Projecte no indica el termini de les llicències de parcel·lació, de propie
 
 Reduir el termini no altera el sentit del silenci. L'article 188.2 del TRLUC manté el silenci desestimatori en els supòsits que enumera i exclou del silenci positiu els actes "que contravinguin a la legalitat urbanística".
 
-L'obligació d'expedir d'ofici el certificat de silenci ja resulta de l'article 24.4 de la LPAC. La publicació dels procediments i dels seus terminis resulta de l'article 21.4. La publicació semestral del temps mitjà de resolució és una proposta que no deriva de cap norma vigent; l'Avantprojecte preveu una obligació semblant (disposició final sisena).
+L'obligació d'expedir d'ofici el certificat de silenci ja resulta de l'article 24.4 de la LPAC. La publicació dels procediments i dels seus terminis resulta de l'article 21.4. La publicació semestral del temps mitjà de resolució és una proposta que no deriva de cap norma vigent.
 
 
 **5. Fonament jurídic**
@@ -428,7 +429,7 @@ L'article 80 fixa les multes en "fins a 1.500 euros" per a les greus i "fins a 7
 
 > Article 79. Infraccions
 
-> 1. Les conductes tipificades com a infracció urbanística pels articles 213 a 215 i 218 del TRLUC se sancionen d'acord amb aquesta llei. En particular, executar actes sense el títol habilitant, sense la comunicació prèvia o sense ajustar-se al seu contingut es regeix per la legislació urbanística.
+> 1. Les conductes tipificades com a infracció urbanística pels articles 213 a 215 i 218 del TRLUC se sancionen d'acord amb el TRLUC. En particular, executar actes sense el títol habilitant, sense la comunicació prèvia o sense ajustar-se al seu contingut es regeix per la legislació urbanística.
 
 > 2. Són infraccions d'aquesta ordenança, sempre que la legislació urbanística o sectorial no les tipifiqui, les conductes següents.
 
@@ -1252,7 +1253,7 @@ b) Silenci administratiu (article 30). El Projecte reprodueix l'article 188.2 de
 
 c) Visat del certificat final d'obra (article 53). L'article 2.b del Reial decret 1000/2010 l'imposa per a les obres d'edificació que requereixen projecte. No requereix esmena.
 
-d) Llicència d'obres i llicència d'activitat (article 23). La regla "en cap cas no s'ha d'atorgar la llicència d'obres sense la concessió prèvia o simultània de la referent a l'activitat" reprodueix l'article 77.4 del ROAS vigent. L'Avantprojecte el modifica (apartat 6).
+d) Llicència d'obres i llicència d'activitat (article 23). La regla "en cap cas no s'ha d'atorgar la llicència d'obres sense la concessió prèvia o simultània de la referent a l'activitat" reprodueix l'article 77.4 del ROAS vigent.
 
 e) Concurrència amb autoritzacions sectorials (article 24). Els dos primers apartats reprodueixen l'article 16 del RPLU. El tercer, que assimila la presentació d'una comunicació prèvia sectorial a l'obtenció de l'autorització, és propi del Projecte i facilita la tramitació.
 
@@ -1265,24 +1266,7 @@ h) Edificacions inacabades (article 67, tercer apartat). El Projecte obliga a en
 i) Aplicació per analogia (article 3). El Projecte estén el règim d'intervenció a les actuacions "assimilables, per la seva entitat o naturalesa", a les previstes. Els actes subjectes a llicència els fixa l'article 187 del TRLUC. Es recomana suprimir el paràgraf o limitar-lo als actes subjectes a comunicació prèvia. No es redacta com a esmena perquè no s'ha pogut determinar quins supòsits volia cobrir el redactor.
 
 
-## 6. AVANTPROJECTE DE LLEI DE SIMPLIFICACIÓ: EFECTES PREVISIBLES
-
-L'Avantprojecte es va sotmetre a informació pública fins al 30 de setembre de 2026. No consta al repositori que s'hagi aprovat com a projecte de llei **[CAL VERIFICAR]**. El text consolidat del TRLUC vigent des del 3 d'octubre de 2026 no l'incorpora. Si s'aprova amb el contingut publicat, afecta l'ordenança en els punts següents.
-
-| Precepte de l'Avantprojecte | Contingut | Efecte sobre l'ordenança |
-| --- | --- | --- |
-| Article 6.3 (article 188.3 bis del TRLUC) | L'informe d'idoneïtat tècnica passa a ser un "certificat d'idoneïtat tècnica". Es refereix només a la "sol·licitud de llicència" de les llicències "ordinàries". | Caldria canviar la denominació. L'informe voluntari en comunicacions prèvies (article 16 ter.2 proposat) perdria la referència a la comunicació prèvia que avui conté l'article 188.3 bis. |
-| Article 6.4 (article 188.3 ter del TRLUC) | Procediment simplificat amb certificat de conformitat urbanística i tècnica. Termini d'un mes. Els ajuntaments el poden excloure per ordenança, de manera motivada. | El Ple hauria de decidir si l'exclou. Si no diu res, s'aplica. |
-| Article 4 (article 187 bis del TRLUC) | La primera utilització i ocupació parcial passa a comunicació prèvia. S'hi afegeixen les cales i els sondejos. | Caldria modificar els articles 8.q, 10 i 42. |
-| Article 3 (article 187.3 del TRLUC) | Autorització del moviment de terres i del mur pantalla com a primera fase, amb silenci positiu al cap d'un mes. | Caldria afegir-ho a l'article 30. |
-| Disposició final cinquena (article 77.4 del ROAS) | Les llicències d'obres i d'activitat es tramiten alhora i es resolen sense esperar l'una a l'altra. | Caldria modificar l'article 23. |
-| Disposició final primera | La persona promotora pot aportar informes sectorials emesos per un tècnic col·legiat. | Afecta l'article 27. |
-| Disposició final sisena | Observatori públic de llicències. Tramesa trimestral de dades. | Coincideix amb la publicació semestral de l'esmena 2. |
-
-La disposició addicional segona del Projecte preveu que els preceptes que reprodueixen legislació s'entenen modificats quan canvia la llei. Aquesta clàusula cobreix els canvis de denominació i de règim. No cobreix la decisió sobre el procediment simplificat de l'article 188.3 ter, que requereix un acord del Ple.
-
-
-## 7. PUNTS PENDENTS DE VERIFICACIÓ
+## 6. PUNTS PENDENTS DE VERIFICACIÓ
 
 a) Tràmit en què es troba el Projecte: aprovació inicial, informació pública i termini. També si s'ha fet la consulta pública prèvia de l'article 133 de la LPAC.
 
@@ -1304,22 +1288,20 @@ i) Norma que estableix la declaració responsable per a les estacions de recàrr
 
 j) Abast de la Sentència del Tribunal Constitucional 55/2018 respecte de l'aplicació de l'article 129 de la LPAC a les ordenances locals (esmena 24).
 
-k) Estat de tramitació de l'Avantprojecte després del 30 de setembre de 2026.
+k) Contingut de l'ordenança de 2005 que es deroga, per comprovar si queda sense regulació alguna matèria.
 
-l) Contingut de l'ordenança de 2005 que es deroga, per comprovar si queda sense regulació alguna matèria.
+l) Relació entre els límits de multa de l'article 141 de la LRBRL i els de l'article 237.3 del TRLMRLC (esmena 7).
 
-m) Relació entre els límits de multa de l'article 141 de la LRBRL i els de l'article 237.3 del TRLMRLC (esmena 7).
+m) Norma legal que fonamenta l'obligació d'enderroc de l'article 67 del Projecte.
 
-n) Norma legal que fonamenta l'obligació d'enderroc de l'article 67 del Projecte.
+n) Fonament jurídic 23 de la Sentència del Tribunal Constitucional 31/2010, sobre l'article 50.5 de l'EAC (esmena 23).
 
-o) Fonament jurídic 23 de la Sentència del Tribunal Constitucional 31/2010, sobre l'article 50.5 de l'EAC (esmena 23).
+o) Paraula volguda a l'article 5.a del Projecte, que diu "envelliment" (esmena 4).
 
-p) Paraula volguda a l'article 5.a del Projecte, que diu "envelliment" (esmena 4).
-
-q) Numeració d'apartats repetida, que cal comprovar sobre el fitxer original (esmena 25).
+p) Numeració d'apartats repetida, que cal comprovar sobre el fitxer original (esmena 25).
 
 
-## 8. MATRIU D'ESMENES
+## 7. MATRIU D'ESMENES
 
 | Núm. | Precepte | Problema detectat | Proposta i efecte | Fonament | Verificació |
 | --- | --- | --- | --- | --- | --- |
