@@ -41,7 +41,7 @@ Les normes catalanes s'han consultat en el text consolidat del Portal Jurídic d
 
 ## 3. CONSTATACIONS
 
-De la lectura del Projecte i del contrast amb la normativa anterior en resulten deu fets, que són l'origen de les esmenes principals.
+De la lectura del Projecte i del contrast amb la normativa anterior en resulten onze fets, que són l'origen de les esmenes principals.
 
 a) El Projecte no regula l'informe d'idoneïtat tècnica. L'article 16 atribueix als serveis municipals tota la verificació de la "integritat documental, suficiència i idoneïtat" dels projectes.
 
@@ -63,7 +63,7 @@ i) El Projecte exigeix documents que l'Ajuntament ja té, com la còpia del tít
 
 j) L'article 49 condiciona l'eficàcia de la comunicació prèvia al fet que s'hagi presentat "pels mitjans previstos a aquesta ordenança". L'article 63 exigeix sol·licitar la pròrroga "pels mitjans de presentació previstos a aquesta ordenança". Cap article els regula.
 
-k) Si s'aprova amb el text publicat, l'Avantprojecte canvia el marc de l'ordenança en aquests punts: el certificat d'idoneïtat tècnica (article 6.3), el procediment simplificat de llicència (article 6.4), les entitats col·laboradores de certificació (article 7), la relació d'actes subjectes a llicència i a comunicació prèvia (articles 3 a 5 i 25), l'autorització de primera fase (article 3), la responsabilitat tècnica (articles 34 a 38), els informes municipals en procediments sectorials (article 41.3), els informes sectorials aportats per la persona promotora (disposició final primera), la tramitació simultània de les llicències d'obres i d'activitat (disposició final cinquena) i el conveni per a llicències caducades (disposició transitòria segona).
+k) Si s'aprova amb el text publicat, l'Avantprojecte canvia el marc de l'ordenança en aquests punts: el certificat d'idoneïtat tècnica (article 6.3), el procediment simplificat de llicència (article 6.4), les entitats col·laboradores de certificació i el seu règim transitori (articles 7 i 8), la relació d'actes subjectes a llicència i a comunicació prèvia (articles 3 a 5 i 25), l'autorització de primera fase (article 3), la construcció preferent pel procediment simplificat dels habitatges de l'Acord del Govern 225/2024 (article 41.2), la responsabilitat tècnica (articles 34 a 38), els informes municipals en procediments sectorials (article 41.3), els informes sectorials aportats per la persona promotora (disposició final primera), la tramitació simultània de les llicències d'obres i d'activitat (disposició final cinquena), l'Observatori públic de llicències (disposició final sisena) i el conveni per a llicències caducades (disposició transitòria segona).
 
 
 ## 4. ESMENES
@@ -127,9 +127,7 @@ El Projecte no conté cap altra previsió sobre l'informe o el certificat d'idon
 
 > b) L'Ajuntament no formula requeriments d'esmena sobre els aspectes que el certificat ha verificat, llevat del supòsit de l'article 16 sexies.2.
 
-> c) No s'exigeix la declaració responsable sobre la identitat i l'habilitació professional de l'article 19.
-
-> d) S'apliquen els terminis reduïts de l'article 30.
+> c) S'apliquen els terminis reduïts de l'article 30.
 
 > 2. El certificat té la mateixa validesa jurídica que els informes emesos pel personal municipal sobre els mateixos aspectes. L'entitat que l'emet respon dels danys que tinguin origen en defectes que s'haurien d'haver manifestat en el certificat i que tinguin relació directa amb els elements que en són objecte, d'acord amb l'article 188.3 bis del TRLUC.
 
@@ -137,20 +135,20 @@ El Projecte no conté cap altra previsió sobre l'informe o el certificat d'idon
 
 > 1. Si, després de l'emissió del certificat, el projecte es modifica en aspectes que el certificat havia verificat, la persona interessada ha d'aportar un certificat complementari de la mateixa entitat.
 
-> 2. Si l'Ajuntament detecta una deficiència en un aspecte que el certificat ha verificat, requereix la persona interessada perquè l'esmeni i ho comunica a la direcció general competent en matèria d'urbanisme, als efectes de la supervisió de l'article 198 quinquies del TRLUC i, si escau, del règim sancionador de l'article 218 bis.
+> 2. Si l'Ajuntament detecta una deficiència en un aspecte que el certificat ha verificat, requereix la persona interessada perquè l'esmeni i ho comunica al departament competent en matèria d'urbanisme, als efectes de la supervisió de l'article 198 quinquies del TRLUC i, si escau, del règim sancionador de l'article 218 bis.
 
 
 **4. Motivació**
 
 L'article 6.3 de l'Avantprojecte dona una nova redacció a l'article 188.3 bis del TRLUC. L'informe d'idoneïtat tècnica passa a ser un "certificat d'idoneïtat tècnica" i es limita a les "llicències urbanístiques ordinàries": el municipi el pot exigir "com a requisit previ que ha d'acompanyar la sol·licitud de llicència". La redacció vigent també esmenta la comunicació prèvia; la nova no. Per això aquesta versió no preveu el certificat en les comunicacions prèvies.
 
-El certificat ha de verificar l'adequació a la normativa estatal i autonòmica, "incloses les exigències bàsiques de qualitat de l'edificació establertes per la normativa tècnica aplicable, que comprenen les relatives a la seguretat en cas d'incendi". Quan l'ajuntament n'ha regulat l'aportació, "els serveis tècnics municipals només han d'informar sobre l'adequació de la llicència sol·licitada a la normativa urbanística i municipal". L'efecte és el mateix que en la versió A: el tècnic municipal deixa de revisar la normativa tècnica i el termini per resoldre es pot reduir (esmena 2).
+El certificat ha de verificar l'adequació a la normativa estatal i autonòmica, "incloses les exigències bàsiques de qualitat de l'edificació establertes per la normativa tècnica aplicable, que comprenen les relatives a la seguretat en cas d'incendi". Quan l'ajuntament n'ha regulat l'aportació, "els serveis tècnics municipals només han d'informar sobre l'adequació de la llicència sol·licitada a la normativa urbanística i municipal". L'efecte és el mateix que en la versió A: el tècnic municipal deixa de revisar la normativa tècnica i el termini per resoldre es pot reduir (esmena 2). El nou article 188.3 bis no inclou entre l'objecte del certificat la identitat i l'habilitació de la persona que subscriu el projecte. Per això aquesta versió manté la declaració responsable de l'article 19, que la versió A dispensava.
 
-L'Avantprojecte deroga la disposició addicional vint-i-novena del TRLUC (disposició derogatòria, apartat 2.e) i regula les entitats col·laboradores de certificació en l'àmbit urbanístic en els nous articles 198 bis a 198 quinquies (article 7). L'article 198 ter.1 preveu que les habiliti la direcció general competent en matèria d'urbanisme, amb abast a tot Catalunya, i també els municipis "en els termes que estableixi la seva ordenança i en el marc dels requisits establerts per Decret".
+L'Avantprojecte deroga la disposició addicional vint-i-novena del TRLUC (disposició derogatòria, apartat 2.e) i regula les entitats col·laboradores de certificació en l'àmbit urbanístic en els nous articles 198 bis a 198 quinquies (article 7). L'article 198 ter.1 remet a la regulació reglamentària, que "ha de preveure l'habilitació" tant per la direcció general competent en matèria d'urbanisme com pels municipis "en els termes que estableixi la seva ordenança i en el marc dels requisits establerts per Decret". L'àmbit d'actuació de les entitats habilitades per la direcció general "pot abastar tot el territori de Catalunya".
 
 L'informe IR 83/2026 de l'ACCO adverteix que l'exigència d'una habilitació municipal "podria limitar el nombre d'entitats certificadores que poden actuar a cada municipi" i conclou que l'habilitació del departament "hauria de ser suficient per a poder actuar a tot el territori". L'article 16 quater segueix aquest criteri: l'Ajuntament admet les entitats inscrites en el registre autonòmic i no en crea un de propi. Així no ha de tramitar habilitacions ni assumir la supervisió que l'article 198 quinquies.1 atribueix als "ajuntaments que hagin habilitat entitats col·laboradores".
 
-L'article 16 sexies.2 comunica les deficiències a la direcció general perquè l'article 198 quinquies.1 n'hi atribueix la supervisió. L'article 218 bis.2 que afegeix l'article 34 de l'Avantprojecte qualifica d'infracció greu l'emissió de certificats d'idoneïtat tècnica "manifestament deficients, inexactes, erronis o que continguin falsedats".
+L'article 16 sexies.2 comunica les deficiències al departament competent en matèria d'urbanisme perquè l'article 198 quinquies.1 li atribueix la supervisió de les entitats, juntament amb els ajuntaments que n'hagin habilitat. L'article 218 bis.2 que afegeix l'article 34 de l'Avantprojecte qualifica d'infracció greu l'emissió de certificats d'idoneïtat tècnica "manifestament deficients, inexactes, erronis o que continguin falsedats".
 
 El certificat té un cost per a qui sol·licita la llicència. Per aquest motiu l'esmena el fa obligatori només en les obres que requereixen projecte d'acord amb la legislació sobre ordenació de l'edificació. No s'han verificat les tarifes de les entitats **[CAL VERIFICAR]**. L'esmena 3 preveu revisar la taxa municipal, perquè el servei que presta l'Ajuntament es redueix.
 
@@ -315,7 +313,7 @@ Article 5 (Actes no subjectes a intervenció municipal), lletra a i lletra nova 
 
 Article 5, lletra a. El Projecte exclou de qualsevol títol habilitant, a més del manteniment i la conservació, la "reforma interior sense generar residus dins d'habitatge". L'article 187 bis.a del TRLUC sotmet a comunicació prèvia les obres de "reforma" de construccions existents que no requereixen projecte, i l'article 187 ter no les inclou entre els actes no subjectes a intervenció. L'exclusió de les reformes interiors no té, per tant, cobertura expressa. El manteniment i la conservació no figuren als articles 187 ni 187 bis, i es poden excloure. El criteri "sense generar residus" és imprecís, perquè qualsevol obra en genera. La proposta limita l'exclusió als actes que no són reforma i n'enumera exemples, que han de validar els serveis tècnics municipals. La paraula "envelliment" sembla un error per "embelliment" **[CAL VERIFICAR]**. Aquesta lectura de l'article 187 bis.a és una interpretació. Si l'Ajuntament vol mantenir fora de tota intervenció les reformes interiors, l'informe jurídic de l'expedient n'ha de justificar l'encaix en l'article 187 ter.
 
-Article 8, lletra w. Tal com està redactada, sotmet a llicència, en tot el terme municipal, els mateixos actes que l'article 10 sotmet a comunicació prèvia: les obres sense projecte, els murs i les tanques, els cartells, la primera ocupació i el canvi d'ús. Els dos articles es contradiuen. La lletra sembla voler recollir l'article 187.2.c del TRLUC, que sotmet a llicència els actes de l'article 187 bis només quan es duen a terme en sòl no urbanitzable i urbanitzable no delimitat, i amb l'excepció de les seves lletres g, h i i. La lletra p del Projecte recull la mateixa regla amb una altra redacció. La proposta les refon en una sola lletra i hi identifica els actes de l'article 10 que es corresponen amb les lletres a a f de l'article 187 bis. S'hi inclouen la lletra c (hivernacles amb murs de menys d'un metre), que ja figurava a la lletra w del Projecte, i la lletra i (retirada d'amiant), perquè es consideren instal·lacions i obres sense projecte de la lletra a de l'article 187 bis. Aquesta qualificació és una interpretació: l'article 187 bis no esmenta els hivernacles ni l'amiant. La lletra b se suprimeix amb l'esmena 5. La lletra p proposada exclou els actes de la lletra f de l'article 10, que són els emparats en un projecte d'actuació específica o en un pla urbanístic amb el mateix detall. L'article 187.2.c del TRLUC els manté en comunicació prèvia, i la lletra p del Projecte ja recollia aquesta excepció.
+Article 8, lletra w. Tal com està redactada, sotmet a llicència, en tot el terme municipal, els mateixos actes que l'article 10 sotmet a comunicació prèvia: les obres sense projecte, els murs i les tanques, els cartells, la primera ocupació i el canvi d'ús. Els dos articles es contradiuen. La lletra sembla voler recollir l'article 187.2.c del TRLUC, que sotmet a llicència els actes de l'article 187 bis només quan es duen a terme en sòl no urbanitzable i urbanitzable no delimitat, i amb l'excepció de les seves lletres g, h i i. La lletra p del Projecte recull la mateixa regla amb una altra redacció. La proposta les refon en una sola lletra i hi identifica els actes de l'article 10 que es corresponen amb les lletres a a f de l'article 187 bis. S'hi inclouen la lletra c (hivernacles que no es consideren edificacions, en la redacció de l'esmena 5), que ja figurava a la lletra w del Projecte, i la lletra i (retirada d'amiant), perquè es consideren instal·lacions i obres sense projecte de la lletra a de l'article 187 bis. Aquesta qualificació és una interpretació: l'article 187 bis no esmenta els hivernacles ni l'amiant. La lletra b se suprimeix amb l'esmena 5. La lletra p proposada exclou els actes de la lletra f de l'article 10, que són els emparats en un projecte d'actuació específica o en un pla urbanístic amb el mateix detall. L'article 187.2.c del TRLUC els manté en comunicació prèvia, i la lletra p del Projecte ja recollia aquesta excepció.
 
 La lletra w inclou, a més, la lletra g de l'article 10 (instal·lacions solars). L'article 187.2.c del TRLUC exclou expressament de la llicència en sòl no urbanitzable els actes de la lletra h de l'article 187 bis, que són les instal·lacions fotovoltaiques. La proposta ho corregeix.
 
@@ -323,7 +321,9 @@ Lletra m. Reprodueix una redacció de l'article 187.1 del TRLUC anterior a la vi
 
 Lletres o i u. Tenen el mateix contingut. L'article 187.2.a del TRLUC es refereix a "els béns sotmesos a un règim de protecció patrimonial cultural o urbanística". El Projecte hi afegeix els "àmbits" i la protecció "arqueològica", que la llei no esmenta. La proposta en conserva una sola i la redacta com la llei.
 
-Avantprojecte. L'article 3 de l'Avantprojecte dona una nova redacció a l'article 187 del TRLUC. La primera utilització i ocupació parcial deixa de requerir llicència i passa a comunicació prèvia (article 187 bis.b, en la redacció de l'article 4). Per això se suprimeix la lletra q i l'article 42 passa a regular una comunicació prèvia. Els hivernacles queden subjectes a llicència "llevat d'aquells que no són considerats edificacions d'acord amb la normativa que els regula" (article 187.1.g). Aquest document no ha identificat aquesta normativa **[CAL VERIFICAR]**. L'article 25 de l'Avantprojecte afegeix a l'article 9 bis un apartat 1 quater, que admet determinades instal·lacions d'energia renovable en obres hidràuliques supramunicipals sense "subjecció a cap acte de control preventiu municipal". L'article 5.f del Projecte remet només a la legislació sectorial; la nova lletra h hi afegeix la legislació urbanística. La lletra p inclou la lletra o de l'article 10 (cales i sondejos), perquè l'article 187.2.c no l'exclou de la llicència en sòl no urbanitzable.
+Avantprojecte. L'article 3 de l'Avantprojecte dona una nova redacció a l'article 187 del TRLUC. La primera utilització i ocupació parcial deixa de requerir llicència i passa a comunicació prèvia (article 187 bis.b, en la redacció de l'article 4). Per això se suprimeix la lletra q i l'article 42 passa a regular una comunicació prèvia. Els hivernacles queden subjectes a llicència "llevat d'aquells que no són considerats edificacions d'acord amb la normativa que els regula" (article 187.1.g). Aquest document no ha identificat aquesta normativa **[CAL VERIFICAR]**. L'article 25 de l'Avantprojecte afegeix a l'article 9 bis un apartat 1 quater, que admet determinades instal·lacions d'energia renovable en obres hidràuliques supramunicipals sense "subjecció a cap acte de control preventiu municipal". L'article 5.f del Projecte remet només a la legislació sectorial; la nova lletra h hi afegeix la legislació urbanística. La lletra p inclou la lletra o de l'article 10 (cales i sondejos), perquè l'article 187.2.c no l'exclou de la llicència en sòl no urbanitzable. Hi inclou també la lletra c (hivernacles), però això depèn de la interpretació de l'esmena 5: l'article 187.2.c només porta a llicència en sòl no urbanitzable els actes de l'article 187 bis, que no esmenta els hivernacles.
+
+Article 5, lletra a, i nou article 187 bis.a. L'article 4 de l'Avantprojecte afegeix a l'article 187 bis.a "qualsevol altra actuació de caràcter menor i no estructural" que no requereixi projecte. Amb aquesta redacció, l'exclusió de la lletra a pot quedar sense cobertura també per als actes de conservació que siguin actuacions de caràcter menor. Si l'Avantprojecte s'aprova amb aquest text, l'informe jurídic ha de valorar si cal suprimir la lletra a o limitar-la als actes que no constitueixen obra **[CAL VERIFICAR]**.
 
 
 **5. Fonament jurídic**
@@ -338,7 +338,7 @@ Avantprojecte. L'article 3 de l'Avantprojecte dona una nova redacció a l'articl
 
 **1. Disposició objecte d'esmena**
 
-Article 10 (Actes subjectes a comunicació prèvia), lletres b, c, e, g, h i l, i lletra nova o. Article 8, lletra a. Article 30.1.
+Article 10 (Actes subjectes a comunicació prèvia), lletres b, c, e, f, g, h i l, i lletra nova o. Article 8, lletra a. Article 30.1.
 
 
 **2. Text actual**
@@ -364,6 +364,8 @@ Article 10 (Actes subjectes a comunicació prèvia), lletres b, c, e, g, h i l, 
 
 > Article 10, lletra c. La instal·lació d'hivernacles o instal·lacions similars que no es consideren edificacions d'acord amb la normativa que els regula.
 
+> Article 10, lletra f. Els actes subjectes a intervenció que estiguin emparats en un projecte d'actuació específica o en un pla urbanístic que ordeni amb el mateix detall els terrenys afectats, sempre que no requereixin l'elaboració d'un projecte tècnic d'acord amb la legislació sobre ordenació de l'edificació.
+
 > Article 10, lletra l. La primera utilització i ocupació dels edificis, també la parcial.
 
 > Article 10, lletra nova o. Les cales, sondejos o prospeccions prèvies a la construcció que no impliquin moviments de terres.
@@ -383,13 +385,13 @@ Lletra e. El Projecte exigeix una comunicació per substituir un aparell d'aire 
 
 Lletres g i h. La proposta les adapta a les lletres h i i de l'article 187 bis del TRLUC vigent. La lletra g del Projecte limita la comunicació prèvia a dos supòsits: les instal·lacions sobre coberta i les situades en espais lliures de parcel·la que redueixin la demanda energètica i no ocupin més del 25 % de la superfície no edificable. L'article 187 bis.h vigent no conté aquesta limitació. L'article 9 bis.1 manté el supòsit de coberta. Per als espais lliures, la lletra b ja no fixa el límit del 25 %, es refereix a les instal·lacions destinades a "augmentar l'autoconsum renovable" i admet una alçada de fins a 4 metres en edificació aïllada i equipaments.
 
-Avantprojecte. Les lletres b i j del nou article 187 bis (article 4 de l'Avantprojecte) hi afegeixen la primera utilització i ocupació parcial i "les cales, sondejos o prospeccions prèvies a la construcció que no impliquin moviments de terres". El nou article 187.1.a manté els moviments de terra a llicència sense llindar, de manera que la lletra b de l'article 10 continua sense cobertura. Subjectar a comunicació prèvia els hivernacles que no es consideren edificacions és una interpretació: el nou article 187.1.g els treu de la llicència, però l'article 187 bis no els esmenta.
+Avantprojecte. Les lletres b i j del nou article 187 bis (article 4 de l'Avantprojecte) hi afegeixen la primera utilització i ocupació parcial i "les cales, sondejos o prospeccions prèvies a la construcció que no impliquin moviments de terres". El nou article 187.1.a manté els moviments de terra a llicència sense llindar, de manera que la lletra b de l'article 10 continua sense cobertura. El nou article 187 bis.g suprimeix la limitació al sòl no urbanitzable i urbanitzable no delimitat dels actes emparats en un projecte d'actuació específica o en un pla amb el mateix detall; la lletra f s'hi adapta. Subjectar a comunicació prèvia els hivernacles que no es consideren edificacions és una interpretació: el nou article 187.1.g els treu de la llicència, però l'article 187 bis no els esmenta.
 
 
 **5. Fonament jurídic**
 
 - Article 187.1.a i article 187 bis, lletres a, h i i, del TRLUC. Les lletres h i i tenen la redacció de l'article 2 del Decret llei 22/2025, de 28 d'octubre.
-- Articles 187.1, lletres a i g, i 187 bis, lletres b i j, del TRLUC, en la redacció dels articles 3 i 4 de l'Avantprojecte.
+- Articles 187.1, lletres a i g, i 187 bis, lletres b, g i j, del TRLUC, en la redacció dels articles 3 i 4 de l'Avantprojecte.
 - Article 9 bis del TRLUC. L'apartat 1.b té la redacció de l'article 105 de la Llei 11/2026, de 9 de juliol, de mesures fiscals, financeres, administratives i del sector públic.
 - Articles 81.4 i 96.1 del ROAS.
 - Article 84.2 de la LRBRL.
@@ -1009,7 +1011,7 @@ Article 6 (Informació urbanística), darrer apartat.
 
 > L'Ajuntament notifica el certificat de règim urbanístic i l'informe de compatibilitat urbanística en el termini d'un mes des de la presentació de la sol·licitud. Emet la resta d'informes en el termini de quinze dies hàbils. El termini es compta des de l'entrada de la sol·licitud al registre electrònic i se suspèn pel temps que transcorri entre la notificació d'un requeriment d'esmena i el seu compliment.
 
-> Quan l'informe s'hagi d'emetre en un procediment sectorial, la persona interessada pot presentar un certificat de conformitat urbanística emès per una entitat col·laboradora de certificació en l'àmbit urbanístic. L'Ajuntament es limita a verificar-lo. Si no es pronuncia en el termini d'un mes, el certificat es considera correcte.
+> Quan l'informe s'hagi d'emetre en un procediment sectorial, la persona interessada pot presentar un certificat de conformitat urbanística emès per una entitat col·laboradora de certificació en l'àmbit urbanístic. L'Ajuntament es pot limitar a verificar-lo. Si no es pronuncia en el termini d'un mes, el certificat es considera correcte.
 
 
 **4. Motivació**
@@ -1243,14 +1245,14 @@ Preàmbul. S'afegeixen dos paràgrafs abans de la relació d'objectius.
 
 **2. Text actual**
 
-El preàmbul no esmental certificat d'idoneïtat tècnica ni justifica l'adequació de l'ordenança als principis de bona regulació.
+El preàmbul no esmenta el certificat d'idoneïtat tècnica ni justifica l'adequació de l'ordenança als principis de bona regulació.
 
 
 **3. Text proposat**
 
 > L'ordenança regula el certificat d'idoneïtat tècnica de l'article 188.3 bis i el procediment simplificat de llicència de l'article 188.3 ter del Text refós de la Llei d'urbanisme, en la redacció de la Llei [núm.]/[any], de simplificació de tràmits en l'àmbit urbanístic i ambiental. Quan la sol·licitud incorpora el certificat d'idoneïtat, els serveis tècnics municipals informen només l'adequació de l'actuació a la normativa urbanística i municipal, i el termini per resoldre es redueix. En el procediment simplificat, el certificat de conformitat urbanística i tècnica substitueix els informes tècnics i jurídics municipals.
 
-> Aquesta ordenança s'ajusta als principis de l'article 129 de la Llei 39/2015, d'1 d'octubre. Pel que fa a la necessitat i l'eficàcia, l'ordenança que es deroga es va publicar el 28 de febrer de 2005 i és anterior al Decret 64/2014, de 13 de maig, i a la Llei 16/2015, del 21 de juliol, que va introduir la comunicació prèvia en l'article 187 bis del Text refós de la Llei d'urbanisme. Pel que fa a la proporcionalitat, l'ordenança no exigeix documents que l'Ajuntament ja té o pot consultar, reuneix les deficiències en un sol requeriment i limita la llicència als actes que la llei hi sotmet. Pel que fa a la seguretat jurídica, la relació d'actes subjectes a cada règim segueix la dels articles 187, 187 bis i 187 ter del Text refós de la Llei d'urbanisme. Pel que fa a la transparència, l'Ajuntament publica a la seu electrònica els formularis, els terminis de cada procediment, les entitats habilitades i el pla de verificació. Pel que fa a l'eficiència, l'ordenança no crea tràmits que no derivin d'una norma de rang superior.
+> Aquesta ordenança s'ajusta als principis de l'article 129 de la Llei 39/2015, d'1 d'octubre. Pel que fa a la necessitat i l'eficàcia, l'ordenança que es deroga es va publicar el 28 de febrer de 2005 i és anterior al Decret 64/2014, de 13 de maig, i a la Llei 16/2015, del 21 de juliol, que va introduir la comunicació prèvia en l'article 187 bis del Text refós de la Llei d'urbanisme. Pel que fa a la proporcionalitat, l'ordenança no exigeix documents que l'Ajuntament ja té o pot consultar, reuneix les deficiències en un sol requeriment i limita la llicència als actes que la llei hi sotmet. Pel que fa a la seguretat jurídica, la relació d'actes subjectes a cada règim segueix la dels articles 187, 187 bis i 187 ter del Text refós de la Llei d'urbanisme. Pel que fa a la transparència, l'Ajuntament publica a la seu electrònica els formularis, els terminis de cada procediment, l'enllaç al registre d'entitats col·laboradores i el pla de verificació. Pel que fa a l'eficiència, l'ordenança no crea tràmits que no derivin d'una norma de rang superior.
 
 
 **4. Motivació**
@@ -1320,34 +1322,36 @@ El Projecte no regula el procediment simplificat de llicència. L'article 188.3 
 
 > Article 30 bis. Procediment simplificat de llicència
 
-> 1. La persona sol·licitant pot optar pel procediment simplificat de l'article 188.3 ter del TRLUC en tots els actes subjectes a llicència, llevat de la destinació d'habitatges a l'ús turístic de l'article 187.1.o del TRLUC, la intervenció en béns sotmesos a un règim de protecció patrimonial cultural o urbanística i els actes que afectin el domini públic. Ho ha d'indicar a la sol·licitud, a la qual ha d'adjuntar el certificat de conformitat urbanística i tècnica. Si no ho indica, la sol·licitud es tramita pel procediment ordinari.
+> 1. La persona sol·licitant pot optar pel procediment simplificat de l'article 188.3 ter del TRLUC en tots els actes subjectes a llicència, llevat de la destinació d'habitatges a l'ús turístic de l'article 187.1.o del TRLUC i de la intervenció en béns sotmesos a un règim de protecció patrimonial cultural o urbanística. Els actes que afectin el domini públic es tramiten pel procediment ordinari. Ho ha d'indicar a la sol·licitud, a la qual ha d'adjuntar el certificat de conformitat urbanística i tècnica. Si no ho indica, la sol·licitud es tramita pel procediment ordinari.
 
 > 2. L'Ajuntament comprova únicament:
 
 > a) Que el certificat existeix i acredita expressament que el projecte s'ha sotmès a una verificació favorable.
 
-> b) Que l'entitat que l'emet està inscrita en el registre d'entitats col·laboradores de certificació en l'àmbit urbanístic.
+> b) Que l'entitat que l'emet està habilitada o, durant el període que estableix la disposició transitòria vint-i-cinquena del TRLUC, que és una de les entitats que aquesta disposició esmenta.
 
-> c) Que el certificat abasta tota l'actuació sol·licitada i tota la normativa aplicable.
+> c) Que el certificat abasta tota l'actuació sol·licitada.
 
 > L'informe jurídic es limita a determinar el procediment a seguir, quan calgui.
 
 > 3. El termini per resoldre i notificar és d'un mes des de la presentació de la sol·licitud amb la documentació completa. La llicència només es pot denegar, dins d'aquest termini i de manera motivada, si el certificat és inexistent, incomplet o insuficient quant al seu abast, o si l'Ajuntament disposa d'elements objectius que n'acrediten la inadequació a la realitat examinada.
 
-> 4. Quan per a l'atorgament de la llicència sigui preceptiu l'informe de l'òrgan de la Generalitat competent en prevenció i seguretat en cas d'incendi, l'Ajuntament li dona trasllat de la sol·licitud i del certificat en el termini de cinc dies. En aquest cas, el termini per resoldre i notificar és de dos mesos.
+> 4. Quan per a l'atorgament de la llicència sigui preceptiu l'informe de l'òrgan de la Generalitat competent en prevenció i seguretat en cas d'incendi, l'Ajuntament li dona trasllat de la sol·licitud i del certificat en el termini de cinc dies. Si aquest òrgan no es pronuncia en el termini d'un mes des que rep el trasllat, el certificat el substitueix, sempre que incorpori la verificació del compliment de la normativa de prevenció i seguretat en cas d'incendi. En aquest cas, el termini per resoldre i notificar és de dos mesos.
 
 > 5. Si el termini transcorre sense resolució ni comunicació de la inadequació del certificat, la llicència s'entén atorgada per silenci administratiu, llevat dels supòsits de l'article 188.2 del TRLUC. L'Ajuntament expedeix el certificat acreditatiu del silenci en el termini de deu dies des que la persona interessada el sol·liciti.
 
-> 6. Aquesta ordenança no exclou l'aplicació del procediment simplificat en cap actuació ni en cap àmbit del terme municipal.
+> 6. Fora del supòsit dels actes que afecten el domini públic, aquesta ordenança no exclou l'aplicació del procediment simplificat en cap actuació ni en cap àmbit del terme municipal.
 
 
 **4. Motivació**
 
 L'article 6.4 de l'Avantprojecte torna a donar contingut a l'article 188.3 ter del TRLUC. La persona sol·licitant pot presentar la sol·licitud de llicència amb un certificat de conformitat urbanística i tècnica emès per una entitat col·laboradora. El certificat "té la mateixa validesa i efectes que els informes tècnics i jurídics municipals". El termini de resolució és d'un mes i "l'actuació municipal s'ha de limitar a la comprovació formal de l'existència del certificat, de l'habilitació de l'entitat que l'ha emès i del seu abast respecte de l'actuació sol·licitada".
 
-El procediment s'aplica directament per la llei. L'apartat 3 ter.4 permet que els ajuntaments l'excloguin "mitjançant ordenança [...] expressament i de manera motivada", de manera total o parcial. Si l'ordenança no diu res, el procediment s'aplica a tots els actes que la llei hi admet. L'informe IR 83/2026 de l'ACCO recomana que qualsevol exclusió municipal sigui "excepcional, motivada, objectiva i proporcionada" i que es publiqui. Aquest document no disposa de dades que justifiquin cap exclusió a Torredembarra. Per això l'apartat 6 ho declara expressament, de manera que les persones interessades coneixen el règim aplicable. Si l'Ajuntament vol excloure alguna actuació o algun àmbit, ho ha de motivar en l'expedient d'aprovació.
+El procediment s'aplica directament per la llei. L'apartat 3 ter.4 permet que els ajuntaments l'excloguin "mitjançant ordenança [...] expressament i de manera motivada", de manera total o parcial. Si l'ordenança no diu res, el procediment s'aplica a tots els actes que la llei hi admet.
 
-L'ACCO adverteix també que cal "delimitar amb claredat l'abast de la verificació municipal en el procediment simplificat i els efectes jurídics del certificat, per evitar que aquest mecanisme s'acumuli a controls substancialment equivalents als del procediment ordinari". L'apartat 2 enumera les tres comprovacions que la llei permet i no n'afegeix cap altra. Els apartats 3 a 5 reprodueixen els terminis i els efectes de l'article 188.3 ter perquè l'ordenança reculli en un sol lloc tot el procediment.
+Actes que afecten el domini públic. L'Avantprojecte es contradiu. L'apartat 3 ter.1 els inclou en la relació d'actes en què es pot optar pel procediment simplificat: "Pel que fa als actes detallats a l'apartat 1 de l'article 187, llevat de la lletra o), als actes detallats a l'apartat 2 de l'article 187, llevat de la lletra a), i aquells que afectin el domini públic, la persona sol·licitant pot optar". L'exposició de motius diu que en queden exclosos: en pot fer ús la persona promotora en tots els actes "llevat de [...] les actuacions en domini públic". L'informe de l'ACCO llegeix l'article en el primer sentit. L'apartat 1 proposat els tramita pel procediment ordinari. Si preval la lectura de l'articulat, aquesta previsió és una exclusió parcial de l'apartat 3 ter.4, i la motivació és la següent: l'article 11 del RPLU impedeix atorgar la llicència sense l'autorització o la concessió del titular del domini públic, i aquesta comprovació no la pot fer el certificat. La contradicció es podria plantejar també com a al·legació a l'Avantprojecte. L'informe IR 83/2026 de l'ACCO recomana que qualsevol exclusió municipal sigui "excepcional, motivada, objectiva i proporcionada" i que es publiqui. Aquest document no disposa de dades que justifiquin cap exclusió a Torredembarra. Per això l'apartat 6 ho declara expressament, de manera que les persones interessades coneixen el règim aplicable. Si l'Ajuntament vol excloure alguna actuació o algun àmbit, ho ha de motivar en l'expedient d'aprovació.
+
+L'ACCO adverteix també que cal "delimitar amb claredat l'abast de la verificació municipal en el procediment simplificat i els efectes jurídics del certificat, per evitar que aquest mecanisme s'acumuli a controls substancialment equivalents als del procediment ordinari". L'apartat 2 enumera les tres comprovacions que la llei permet i no n'afegeix cap altra. La lletra b admet també, durant el primer any, els certificats de les entitats de la disposició transitòria vint-i-cinquena, que tenen "el mateix valor presumpte de conformitat" que els de les entitats habilitades. Els apartats 3 a 5 reprodueixen els terminis i els efectes de l'article 188.3 ter perquè l'ordenança reculli en un sol lloc tot el procediment.
 
 La disposició addicional trenta-dosena que afegeix l'article 41.2 de l'Avantprojecte estableix que la construcció dels habitatges de l'Acord del Govern 225/2024, de 15 d'octubre, "queda subjecta preferentment al procediment simplificat de llicència". No s'ha verificat si a Torredembarra n'hi ha cap de previst **[CAL VERIFICAR]**.
 
@@ -1356,6 +1360,8 @@ La disposició addicional trenta-dosena que afegeix l'article 41.2 de l'Avantpro
 
 - Article 188.3 ter del TRLUC, en la redacció de l'article 6.4 de l'Avantprojecte.
 - Article 188.2 del TRLUC.
+- Disposició transitòria vint-i-cinquena del TRLUC, afegida per l'article 8 de l'Avantprojecte.
+- Article 11 del RPLU.
 - Disposició addicional trenta-dosena del TRLUC, afegida per l'article 41.2 de l'Avantprojecte.
 - Informe IR 83/2026 de l'ACCO, apartat sobre el nou procediment simplificat.
 
@@ -1378,7 +1384,7 @@ El Projecte no preveu que la persona promotora aporti els informes sectorials.
 
 > Article 27. S'hi afegeix un apartat:
 
-> <u>"Quan en el procediment s'hagin d'emetre informes sectorials, la persona promotora pot aportar-los, emesos per personal tècnic col·legiat competent, dins del termini del tràmit d'audiència. A aquest efecte, pot demanar a l'òrgan instructor que li indiqui quins informes s'han d'emetre, i l'òrgan instructor li ho comunica en el termini de deu dies. Si l'òrgan competent no emet el seu informe dins del termini de què disposa, l'informe aportat té la mateixa validesa i efectes, amb l'excepció dels informes previstos en la normativa estatal que estableix la disposició final primera de la Llei [núm.]/[any], de simplificació de tràmits en l'àmbit urbanístic i ambiental."</u>
+> <u>"Quan en el procediment s'hagin d'emetre informes sectorials, la persona promotora pot aportar-los, emesos per personal tècnic col·legiat competent, dins del termini del tràmit d'audiència. A aquest efecte, pot demanar a l'òrgan instructor que li indiqui quins informes s'han d'emetre, i l'òrgan instructor li ho comunica en el termini de deu dies. Si l'òrgan competent no emet el seu informe dins del termini de què disposa, l'informe aportat té la mateixa validesa i efectes. En el cas dels informes previstos en la normativa estatal, l'òrgan instructor pot continuar les actuacions sobre la base de l'informe aportat, llevat que aquesta normativa estableixi el sentit negatiu del silenci."</u>
 
 
 **4. Motivació**
@@ -1387,7 +1393,7 @@ La disposició final primera de l'Avantprojecte permet que, quan en un procedime
 
 L'article 30 del Projecte interromp el termini de resolució mentre una altra administració emet el seu informe. Amb l'esmena, quan aquell termini acaba sense informe, l'expedient pot continuar amb el de la persona promotora. Recollir-ho a l'ordenança permet que les persones interessades coneguin aquesta possibilitat quan presenten la sol·licitud. El termini de deu dies per indicar els informes és una proposta.
 
-La disposició final primera.3 qualifica d'infracció greu de responsabilitat tècnica l'emissió d'informes "manifestament deficients, inexactes, erronis o que continguin falsedats". L'esmena 7 hi remet.
+La disposició final primera.3 qualifica d'infracció greu de responsabilitat tècnica l'emissió d'informes "manifestament deficients, inexactes, erronis o que continguin falsedats", i hi aplica el règim de responsabilitat tècnica del TRLUC. És el règim de l'article 218 bis, al qual remet l'esmena 7.
 
 
 **5. Fonament jurídic**
@@ -1417,7 +1423,7 @@ Article 67 (Edificacions inacabades). S'hi afegeix un apartat.
 
 **4. Motivació**
 
-La disposició transitòria segona de l'Avantprojecte permet que les persones titulars de llicències d'obres respecte de les quals "en data 1 de gener de 2022 hagin transcorregut els terminis d'inici i execució de les obres" subscriguin un conveni amb l'Ajuntament per acabar-les i destinar els habitatges a protecció pública. Exigeix que la promoció tingui més de deu habitatges, que s'hagi executat com a mínim l'estructura i que no hi hagi cap expedient de protecció de la legalitat urbanística. El conveni s'ha de formalitzar en el termini d'un any des de l'entrada en vigor, i les obres s'han d'acabar abans del 31 de desembre de 2030. Exhaurida la vigència del conveni, és aplicable el règim d'enderroc.
+La disposició transitòria segona de l'Avantprojecte permet que les persones titulars de llicències d'obres respecte de les quals "en data 1 de gener de 2022 hagin transcorregut els terminis d'inici i execució de les obres" subscriguin un conveni amb l'Ajuntament per acabar-les i destinar els habitatges a protecció pública. Exigeix que la promoció tingui més de deu habitatges, que s'hagi executat com a mínim l'estructura, que no hi hagi cap expedient de protecció de la legalitat urbanística i que les obres siguin conformes amb la legislació i el planejament urbanístics vigents en el moment de sol·licitar-ho, en els aspectes no relacionats amb la normativa tècnica sobrevinguda. El conveni s'ha de formalitzar en el termini d'un any des de l'entrada en vigor, i les obres s'han d'acabar abans del 31 de desembre de 2030. Exhaurida la vigència del conveni, és aplicable el règim d'enderroc.
 
 L'article 67 del Projecte imposa l'enderroc de l'edifici inacabat. La disposició transitòria segona hi ofereix una alternativa, per a un supòsit més limitat. La darrera frase de l'apartat proposat evita que l'Ajuntament exigeixi l'enderroc mentre s'executa el conveni. És una proposta coherent amb l'apartat 5 de la disposició transitòria, que només fa aplicable l'enderroc quan el conveni s'ha exhaurit.
 
@@ -1498,7 +1504,7 @@ Aquesta versió pressuposa que l'Avantprojecte s'aprova amb el text sotmès a in
 | Esmena | Precepte de l'Avantprojecte del qual depèn | Si no s'aprova |
 | --- | --- | --- |
 | 1 i 3 | Articles 6.3, 7 i 8, i disposició derogatòria 2.e | S'apliquen les esmenes 1 i 3 de la versió A |
-| 2 | Article 4 i disposició final sisena | S'aplica l'esmena 2 de la versió A |
+| 2 | Articles 3, 4, 6.3 i 6.4, i disposició final sisena | S'aplica l'esmena 2 de la versió A |
 | 4 i 5 | Articles 3, 4 i 25 | S'apliquen les esmenes 4 i 5 de la versió A |
 | 7 | Articles 34 i 38 | S'aplica l'esmena 7 de la versió A |
 | 13 | Article 6.3 | S'aplica l'esmena 13 de la versió A |
@@ -1506,7 +1512,7 @@ Aquesta versió pressuposa que l'Avantprojecte s'aprova amb el text sotmès a in
 | 20 i 23 | Articles 6 i 7 | S'apliquen les esmenes 20 i 23 de la versió A |
 | 22 | Disposició final cinquena | Es manté la lletra d de l'article 23 del Projecte |
 | 24 | Article 6 | S'aplica l'esmena 24 de la versió A |
-| 26 | Article 6.4 | No es pot incorporar: l'article 188.3 ter no té contingut |
+| 26 | Articles 6.4, 7, 8 i 41.2 | No es pot incorporar: l'article 188.3 ter no té contingut |
 | 27 | Disposició final primera | No es pot incorporar |
 | 28 | Disposició transitòria segona | No es pot incorporar |
 | 29 | Article 3 | No es pot incorporar |
@@ -1522,7 +1528,7 @@ b) Contingut del decret de desplegament de l'article 198 ter del TRLUC (requisit
 
 c) Tarifes de les entitats col·laboradores per emetre el certificat d'idoneïtat tècnica i el certificat de conformitat urbanística i tècnica.
 
-d) Si Torredembarra figura entre els municipis de l'article 187.1.p del TRLUC, als efectes de l'article 45 del Projecte (habitatges d'ús turístic).
+d) Si Torredembarra figura entre els municipis de l'article 187.1.p del TRLUC (187.1.o en la redacció de l'Avantprojecte), als efectes de l'article 45 del Projecte (habitatges d'ús turístic).
 
 e) Règim vigent de la garantia per a la gestió de residus de la construcció, als efectes dels articles 26 i 69 del Projecte.
 
@@ -1560,6 +1566,10 @@ u) Promocions de Torredembarra que puguin acollir-se a la disposició transitòr
 
 v) Abast de la remissió a l'article 188.2 del TRLUC en l'autorització de primera fase (esmena 29).
 
+w) Encaix de l'exclusió de l'article 5.a amb el nou article 187 bis.a (esmena 4).
+
+x) Contradicció entre l'article 6.4 i l'exposició de motius de l'Avantprojecte sobre els actes que afecten el domini públic (esmena 26).
+
 
 ## 8. MATRIU D'ESMENES
 
@@ -1569,7 +1579,7 @@ v) Abast de la remissió a l'article 188.2 del TRLUC en l'autorització de prime
 | 2 | Art. 30 | Només recull els terminis màxims del ROAS | Un mes amb certificat d'idoneïtat. Remissió als arts. 30 bis i 30 ter. Dades trimestrals per a l'Observatori | Art. 81 ROAS. Arts. 29 i 32 RPLU. DF 6a APL | Verificat sobre el text de l'Avantprojecte |
 | 3 | DT 3a i DA 3a (noves) | Sense règim transitori ni previsió sobre la taxa | Certificat exigible quan hi hagi entitats inscrites. Revisió de la taxa, també per al procediment simplificat | Art. 24.2 TRLRHL. DT 25a TRLUC (art. 8 APL) | Verificat |
 | 4 | Art. 5. Art. 8, lletres f, m, o, p, q, u, w. Art. 42 | Exclusió de reformes interiors. Lletra w. Règim solar. Primera ocupació parcial a llicència | Adaptació als nous arts. 187 i 187 bis. Primera ocupació parcial per comunicació | Arts. 187, 187 bis i 9 bis.1 quater TRLUC (arts. 3, 4 i 25 APL) | Verificat. Pendent: norma sobre hivernacles |
-| 5 | Art. 10, lletres b, c, e, g, h, l i o. Art. 8.a | Moviments de terra per comunicació sense cobertura. Falten cales i primera ocupació parcial | Llicència amb termini de quinze dies. Noves lletres segons l'art. 187 bis | Arts. 187.1 i 187 bis TRLUC (arts. 3 i 4 APL). Art. 81.4 ROAS | Verificat. La lletra c és una interpretació |
+| 5 | Art. 10, lletres b, c, e, f, g, h, l i o. Art. 8.a. Art. 30.1 | Moviments de terra per comunicació sense cobertura. Falten cales i primera ocupació parcial | Llicència amb termini de quinze dies. Noves lletres segons l'art. 187 bis | Arts. 187.1 i 187 bis TRLUC (arts. 3 i 4 APL). Art. 81.4 ROAS | Verificat. La lletra c és una interpretació |
 | 6 | DT 1a i DF única | La DT 1a no s'ajusta a l'art. 14.1 RPLU. Entrada en vigor l'endemà de la publicació | DT limitada al procediment. Entrada en vigor segons la LRBRL | Art. 14.1 RPLU. Arts. 65.2 i 70.2 LRBRL | Verificat |
 | 7 | Arts. 79 i 80. Art. 79 bis (nou) | 32 infraccions greus. Solapament amb el TRLUC | Remissió al TRLUC, inclòs l'art. 218 bis. Catàleg reduït. Regularització prèvia | Arts. 139 a 141 LRBRL. Arts. 213 a 215 i 218 bis TRLUC (art. 34 APL). Art. 22 bis Llei 26/2010 | Verificat. Pendent: art. 237.3 TRLMRLC |
 | 8 | Art. 15 bis (nou). Arts. 6, 26, 40 i 68 | Exigeix documents que l'Ajuntament ja té o que el RPLU no demana. No regula els mitjans de presentació | Regla general de no aportació. Constructor i fiança abans d'iniciar les obres. Supressió de la nota simple en parcel·lacions i de la còpia del títol | Arts. 14 i 28 LPAC. Arts. 13.2 i 28 RPLU | Verificat |
@@ -1590,7 +1600,7 @@ v) Abast de la remissió a l'article 188.2 del TRLUC en l'autorització de prime
 | 23 | DA 4a (nova) | Sense previsió lingüística. Certificats d'entitats externes | Formularis en català. Certificats en català | Arts. 33.1 i 50.5 EAC. Arts. 9 i 10 Llei 1/1998. Art. 198 bis TRLUC (art. 7 APL) | Verificat. L'aplicació de l'art. 33.1 EAC a les entitats és una interpretació. Pendent: STC 31/2010 |
 | 24 | Preàmbul | No justifica els principis de bona regulació | Dos paràgrafs nous | Art. 129.1 LPAC | Verificat. Pendent: STC 55/2018 |
 | 25 | Diversos | Errors materials | Correcció | Art. 129.4 LPAC | Verificat. Pendent: numeració sobre l'original |
-| 26 | Art. 30 bis (nou) | El Projecte no regula el procediment simplificat | Regulació sense exclusions. Comprovació municipal limitada a l'existència, l'habilitació i l'abast del certificat | Art. 188.3 ter TRLUC (art. 6.4 APL). DA 32a (art. 41.2 APL). Informe ACCO IR 83/2026 | Verificat sobre el text de l'Avantprojecte |
+| 26 | Art. 30 bis (nou) | El Projecte no regula el procediment simplificat | Regulació sense exclusions, llevat del domini públic. Comprovació municipal limitada a l'existència, l'habilitació i l'abast del certificat | Art. 188.3 ter TRLUC (art. 6.4 APL). DT 25a i DA 32a (arts. 8 i 41.2 APL). Art. 11 RPLU. Informe ACCO IR 83/2026 | Verificat. L'APL es contradiu sobre el domini públic |
 | 27 | Art. 27 | Els informes d'altres administracions interrompen el termini sense alternativa | Informes sectorials aportats per la persona promotora | DF 1a APL | Verificat sobre el text de l'Avantprojecte |
 | 28 | Art. 67 | Només preveu l'enderroc de l'edifici inacabat | Conveni d'acabament amb destinació a habitatge protegit | DT 2a APL | Verificat. Pendent: promocions afectades i fonament de l'enderroc |
 | 29 | Art. 30 ter (nou) | Sense regulació de la primera fase | Autorització de moviment de terres i mur pantalla. Resolució expressa en un mes | Art. 187.3 TRLUC (art. 3 APL). Art. 188.2 TRLUC | Verificat. L'abast del silenci és una interpretació |
