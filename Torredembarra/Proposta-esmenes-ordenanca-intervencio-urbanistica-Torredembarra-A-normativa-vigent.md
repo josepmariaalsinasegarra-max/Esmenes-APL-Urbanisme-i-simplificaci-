@@ -212,7 +212,7 @@ El Projecte no indica el termini de les llicències de parcel·lació, de propie
 
 El còmput i la suspensió segueixen els articles 21.3.b i 22.1.d de la LPAC, posteriors a l'article 81.1 del ROAS, que compta el termini des del dia hàbil següent i en preveu la interrupció. La lletra e cobreix les llicències que no són d'obres (canvi d'ús a residencial, habitatges d'ús turístic, tala, usos provisionals), per a les quals regiria el termini supletori de tres mesos de l'article 82.2 del ROAS i de l'article 21.3 de la LPAC. L'article 21.2 de la LPAC remet el termini a la norma reguladora del procediment; que l'ordenança el pugui fixar en un mes és una interpretació **[CAL VERIFICAR]**. Els usos i les obres provisionals tenen un procediment propi (article 54 del TRLUC), que preval.
 
-Reduir el termini no altera el sentit del silenci. L'article 188.2 del TRLUC manté el silenci desestimatori en els supòsits que enumera i exclou del silenci positiu els actes "que contravinguin a la legalitat urbanística".
+Reduir el termini no altera el sentit del silenci. L'article 188.2 del TRLUC manté el silenci desestimatori en els supòsits que enumera i exclou del silenci positiu els actes "que contravinguin a la legalitat urbanística". L'article 11.4 del Text refós de la Llei del sòl i rehabilitació urbana, de caràcter bàsic, amplia el silenci negatiu a qualsevol classe de sòl en els supòsits que enumera (vegeu l'apartat 5, lletra b).
 
 L'obligació d'expedir d'ofici el certificat de silenci ja resulta de l'article 24.4 de la LPAC. La publicació dels procediments i dels seus terminis resulta de l'article 21.4. La publicació semestral del temps mitjà de resolució és una proposta que no deriva de cap norma vigent.
 
@@ -1244,7 +1244,7 @@ Articles 3, 5, 6, 12, 17, 32, 50, 53, 67, 69 i 77, i disposició transitòria se
 | --- | --- | --- |
 | Articles 3, 5 i 69 | "En aquest capítol es recullen els actes [...]", "tot i no estar expressament previstes en aquest capítol" (article 3), "el títol habilitant previst en aquest capítol" (article 5) i "procediment independent previst a aquest capítol" (article 69) | "En el títol II", "en el títol II", "en aquesta ordenança" i "en aquest article". El Projecte s'estructura en títols i seccions, no en capítols. |
 | Article 6 | "Certificat de compatibilitat d'usos" (documentació) i "Informe de compatibilitat urbanística" (modalitats) | Una sola denominació: "Informe de compatibilitat urbanística". |
-| Article 12 | "Estacions de recàrrega de vehicles elèctrics d'acord amb la Llei del sector elèctric" | Identificar la norma que estableix la declaració responsable **[CAL VERIFICAR]**. |
+| Article 12 | "Estacions de recàrrega de vehicles elèctrics d'acord amb la Llei del sector elèctric" | "Instal·lació de punts de recàrrega de vehicles elèctrics, d'acord amb l'article 48.5 de la Llei 24/2013, de 26 de desembre, del sector elèctric". Aquest article exclou de la declaració responsable les edificacions del patrimoni historicoartístic amb la categoria de bé d'interès cultural. |
 | Article 17.1 | "sense perjudici sens perjudici dels informes previs" | "sens perjudici dels informes previs". |
 | Article 32.1.l | "Pronunciament que es proposa que ha contenir la part dispositiva" | "Part dispositiva". |
 | Article 50, fase d'inspecció | "favorable, o desfavorable en cas que les obres s'ajustin substancialment a la comunicació efectuada" | "favorable, o desfavorable en cas que les obres no s'ajustin a la comunicació efectuada". |
@@ -1265,7 +1265,7 @@ Són errors materials o de concordança interna. No alteren el contingut de la n
 
 a) Paralització de l'acte comunicat (article 50, fase de comprovació). El Projecte impedeix continuar les actuacions "a partir de la notificació de l'informe" que detecta la inexactitud. L'article 74.2 del RPLU situa aquest efecte "des del moment en què es notifiqui la resolució corresponent", amb audiència prèvia. L'article 69.4 de la LPAC el situa "des del moment en què es tingui constància d'aquests fets", i l'article 38.1 de la Llei 26/2010, "des del moment en què es coneixen". Les tres normes no coincideixen. No es formula esmena. Convé que l'informe jurídic de l'expedient d'aprovació s'hi pronunciï.
 
-b) Silenci administratiu (article 30). El Projecte reprodueix l'article 188.2 del TRLUC. No requereix esmena.
+b) Silenci administratiu (article 30). El Projecte reprodueix l'article 188.2 del TRLUC, que limita el silenci desestimatori dels moviments de terra i de les cases prefabricades al sòl no urbanitzable. L'article 11.4 del Text refós de la Llei del sòl i rehabilitació urbana (Reial decret legislatiu 7/2015), de caràcter bàsic, exigeix resolució expressa amb silenci negatiu per als moviments de terres i les esplanacions, les obres d'edificació, construcció i implantació d'instal·lacions de nova planta i les cases prefabricades, sense limitar-ho a cap classe de sòl. L'article 11.3 impedeix adquirir per silenci facultats contràries a l'ordenació territorial o urbanística. Aquesta versió no en formula esmena; el document d'esmenes article per article ho fa a l'article 30.
 
 c) Visat del certificat final d'obra (article 53). L'article 2.b del Reial decret 1000/2010 l'imposa per a les obres d'edificació que requereixen projecte. No requereix esmena.
 
@@ -1275,7 +1275,7 @@ e) Concurrència amb autoritzacions sectorials (article 24). Els dos primers apa
 
 f) Terminis màxims de les comunicacions prèvies, de dos i dotze mesos. L'article 73.1 del RPLU remet a les ordenances municipals. És una opció de l'Ajuntament.
 
-g) Estudi de seguretat i salut amb la sol·licitud de llicència (article 26). No s'ha verificat la norma sectorial que el pugui exigir en aquest moment **[CAL VERIFICAR]**. No es proposa suprimir-lo.
+g) Estudi de seguretat i salut amb la sol·licitud de llicència (article 26). L'article 17.1 del Reial decret 1627/1997, de 24 d'octubre, fa de la inclusió de l'estudi en el projecte d'execució un requisit per a l'expedició de la llicència municipal. No requereix esmena.
 
 h) Edificacions inacabades (article 67, tercer apartat). El Projecte obliga a enderrocar l'edifici inacabat les persones titulars de llicències caducades a partir de l'1 de gener de 2008 i atorgades d'acord amb la normativa tècnica anterior a la Llei 3/2012, del 22 de febrer. Aquesta regla no figura en el text consolidat del TRLUC que consta al repositori. Pot procedir d'una disposició de la mateixa Llei 3/2012, que no s'ha pogut consultar **[CAL VERIFICAR]**. Una obligació d'enderroc necessita cobertura legal. Cal identificar la norma que la fonamenta i citar-la, o suprimir l'apartat.
 
@@ -1296,13 +1296,13 @@ d) Si Torredembarra figura entre els municipis de l'article 187.1.p del TRLUC, a
 
 e) Règim vigent de la garantia per a la gestió de residus de la construcció, als efectes dels articles 26 i 69 del Projecte (esmenes 8 i 17).
 
-f) Norma que exigeix l'estudi de seguretat i salut amb la sol·licitud de llicència.
+f) [Resolt: article 17.1 del Reial decret 1627/1997.]
 
 g) Reglament del patrimoni dels ens locals, pel que fa a l'ocupació de la via pública (esmena 16).
 
 h) Supòsits en què la normativa d'instal·lacions elèctriques exigeix projecte per a les instal·lacions fotovoltaiques (esmena 14).
 
-i) Norma que estableix la declaració responsable per a les estacions de recàrrega de vehicles elèctrics (article 12 del Projecte).
+i) [Resolt: article 48.5 de la Llei 24/2013, en la redacció del Reial decret llei 29/2021.]
 
 j) Abast de la Sentència del Tribunal Constitucional 55/2018 respecte de l'aplicació de l'article 129 de la LPAC a les ordenances locals (esmena 24).
 
