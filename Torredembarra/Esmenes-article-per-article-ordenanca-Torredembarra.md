@@ -44,6 +44,10 @@ Les normes catalanes s'han consultat en el text consolidat del Portal Jurídic d
 - Llei 24/2013, de 26 de desembre, del sector elèctric: article 48, en la redacció del Reial decret llei 29/2021, de 21 de desembre.
 - Llei 7/1985, de 2 d'abril, reguladora de les bases del règim local (LRBRL). Llei 39/2015, d'1 d'octubre, del procediment administratiu comú (LPAC). Llei 40/2015, d'1 d'octubre, de règim jurídic del sector públic (LRJSP). Reial decret legislatiu 2/2004, de 5 de març, text refós de la Llei reguladora de les hisendes locals (TRLRHL). Reial decret 1000/2010, de 5 d'agost, sobre visat col·legial obligatori.
 - Decret legislatiu 1/2010, de 3 d'agost, text refós de la Llei d'urbanisme (TRLUC), vigència 03/10/2026. Decret 64/2014, de 13 de maig, Reglament sobre protecció de la legalitat urbanística (RPLU). Decret 179/1995, de 13 de juny, Reglament d'obres, activitats i serveis dels ens locals (ROAS). Decret legislatiu 2/2003, de 28 d'abril, text refós de la Llei municipal i de règim local de Catalunya (TRLMRLC). Llei 26/2010, del 3 d'agost, de règim jurídic i de procediment de les administracions públiques de Catalunya, amb la modificació de la Llei 9/2025, de 13 de novembre. Llei 1/1998, de 7 de gener, de política lingüística. Estatut d'autonomia de Catalunya (EAC).
+- Altres normes estatals (text consolidat del BOE): Reial decret 1000/2010, article 2; Reial decret 1093/1997, de 4 de juliol, article 30; Reial decret 105/2008, d'1 de febrer, article 4; Reial decret 842/2002, de 2 d'agost (ITC-BT-04); Reial decret 836/2003, de 27 de juny (ITC MIE-AEM-2); Reial decret 1215/1997, de 18 de juliol, annex II; Llei 3/2012, del 22 de febrer, disposicions transitòries primera i quarta.
+- Altres normes catalanes (text consolidat o publicat del Portal Jurídic de Catalunya): Llei 9/1993, de 30 de setembre, del patrimoni cultural català; Decret 89/2010, de 29 de juny (residus de la construcció); Decret llei 3/2023, de 7 de novembre (habitatges d'ús turístic); Llei 8/2026, de 2 de juliol, de l'erradicació de l'amiant; Llei 5/2026, de 20 de maig; Decret 336/1988, de 17 d'octubre, Reglament del patrimoni dels ens locals.
+- Sentències del Tribunal Constitucional 31/2010, de 28 de juny (fonament jurídic 23), 143/2017, de 14 de desembre (fonament jurídic 23 i fallo) i 55/2018, de 24 de maig (fonament jurídic 7), consultades al cercador oficial de jurisprudència constitucional.
+- Fitxa de consulta pública prèvia de l'Ajuntament de Torredembarra (juny de 2024) i fitxer original del Projecte.
 - Avantprojecte de llei de simplificació de tràmits en l'àmbit urbanístic i ambiental, text sotmès a informació pública, i Informe IR 83/2026 de l'Autoritat Catalana de la Competència.
 - Al·legacions formulades a l'Avantprojecte (trenta esmenes).
 
@@ -80,7 +84,7 @@ Les normes catalanes s'han consultat en el text consolidat del Portal Jurídic d
 | Art. 27 | Legalitat: ficció d'informe favorable | Substitució dels informes pel certificat | 1, 23 |
 | Art. 28 | Agilització: requeriment únic | Motius de denegació tancats | 1 |
 | Art. 29 | Agilització: deu dies | No | No |
-| Art. 30, 30 bis i 30 ter | Legalitat: silenci de l'article 11.4 del TRLSRU | Procediment simplificat i primera fase | 1, 2, 14, 17 |
+| Art. 30, 30 bis i 30 ter | Legalitat: silenci dels moviments de terra (11.4.a del TRLSRU) | Procediment simplificat i primera fase | 1, 2, 14, 17 |
 | Art. 31 | Sense esmena | No | No |
 | Art. 32 | Legalitat: recursos i advertiment | Referència al certificat | No |
 | Art. 33 | Legalitat: pròrroga per llei | No | No |
@@ -110,7 +114,7 @@ Les normes catalanes s'han consultat en el text consolidat del Portal Jurídic d
 | Art. 61 | Legalitat: pòlissa. Agilització: cartell | No | No |
 | Art. 62 | Agilització: refosa | No | No |
 | Art. 63 | Legalitat: pròrroga | No | No |
-| Art. 64 | Correcció | No | No |
+| Art. 64 | Correcció: duplicació | No | No |
 | Art. 65 | Agilització: refosa | Convenis (DT 2a) | No |
 | Art. 66 | Sense esmena | No | No |
 | Art. 67 | Legalitat: enderroc sense fonament identificat | Conveni d'acabament | No |
@@ -120,7 +124,7 @@ Les normes catalanes s'han consultat en el text consolidat del Portal Jurídic d
 | Art. 71 | Agilització: Policia Local | No | No |
 | Art. 72 | Sense esmena | No | No |
 | Art. 73 | Agilització: documents duplicats | No | No |
-| Art. 74 | Sense esmena | No | No |
+| Art. 74 | Agilització: documents presentats a la Generalitat | No | No |
 | Art. 75 i 76 | Agilització: informe i termini | No | No |
 | Art. 77 | Correcció: advertència prèvia | No | No |
 | Art. 78 | Sense esmena | No | No |
@@ -137,7 +141,7 @@ Les normes catalanes s'han consultat en el text consolidat del Portal Jurídic d
 | DD | Sense esmena | No | No |
 | DF | Legalitat: entrada en vigor | No | No |
 
-Recompte de les 91 fitxes de l'apartat 5: 20 amb esmena per legalitat, 28 amb esmena d'agilització, 13 amb correcció de redacció i 30 sense esmena. Algunes fitxes agrupen un article del Projecte i els articles nous que s'hi afegeixen. Quan una fitxa conté esmenes de diversos tipus, la marca indica la de més pes.
+Recompte de les 91 fitxes de l'apartat 5: 20 amb esmena per legalitat, 29 amb esmena d'agilització, 13 amb correcció de redacció i 29 sense esmena. Algunes fitxes agrupen un article del Projecte i els articles nous que s'hi afegeixen. Quan una fitxa conté esmenes de diversos tipus, la marca indica la de més pes.
 
 
 ## 5. ESMENES ARTICLE PER ARTICLE
@@ -148,7 +152,7 @@ Recompte de les 91 fitxes de l'apartat 5: 20 amb esmena per legalitat, 28 amb es
 
 ### Preàmbul
 
-> **[ESMENA PER LEGALITAT]** Justificació dels principis de bona regulació, condicionada a l'abast de la STC 55/2018. Numeració dels objectius
+> **[ESMENA PER LEGALITAT]** Justificació dels principis de bona regulació. Numeració dels objectius
 
 
 **A. Normativa vigent**
@@ -163,9 +167,9 @@ Text proposat. S'afegeixen dos paràgrafs abans de la relació d'objectius i es 
 
 > [...] procediments àmpliament regulats en la normativa urbanística general (TRLU ~~i RLU~~ <u>, Reglament de la Llei d'urbanisme</u> i RPLU).
 
-Motivació. L'article 129.1 de la LPAC exigeix que el preàmbul justifiqui l'adequació de la norma als principis de necessitat, eficàcia, proporcionalitat, seguretat jurídica, transparència i eficiència. El preàmbul del Projecte no els esmenta. La relació d'objectius repeteix el número 1. La sigla "RLU" no es defineix enlloc del text. Segons la nota del text consolidat, la Sentència del Tribunal Constitucional 55/2018, de 24 de maig, va declarar l'article 129, "excepte l'apartat 4, paràgrafs 2n i 3r", contrari a l'ordre constitucional de competències "en els termes del fonament jurídic 7b". No s'ha comprovat l'abast d'aquesta declaració respecte de les ordenances locals **[CAL VERIFICAR]**. Si l'article 129.1 no els fos aplicable, l'esmena passaria a ser una opció municipal. El text pressuposa que s'accepten les esmenes dels articles 8, 10, 15, 16, 28, 30 i 50; si alguna no s'accepta, cal adaptar la frase corresponent.
+Motivació. L'article 129.1 de la LPAC exigeix que el preàmbul justifiqui l'adequació de la norma als principis de necessitat, eficàcia, proporcionalitat, seguretat jurídica, transparència i eficiència. El preàmbul del Projecte no els esmenta. La relació d'objectius repeteix el número 1. La sigla "RLU" no es defineix enlloc del text. La Sentència del Tribunal Constitucional 55/2018, de 24 de maig, fonament jurídic 7, declara que l'article 129 no s'aplica a la iniciativa legislativa dels governs autonòmics, però que és base del règim jurídic de les administracions públiques (article 149.1.18 de la Constitució) "relativas a la elaboración de reglamentos". Hi inclou "la obligación de justificar en el preámbulo la adecuación de la iniciativa reglamentaria a los principios de buena regulación". L'ordenança és una norma reglamentària; l'obligació s'hi aplica. L'Ajuntament va invocar aquests principis en la consulta pública prèvia feta del 17 de juny al 16 de juliol de 2024. El text pressuposa que s'accepten les esmenes dels articles 8, 10, 15, 16, 28, 30 i 50; si alguna no s'accepta, cal adaptar la frase corresponent.
 
-Fonament: article 129.1 i 129.4 de la LPAC.
+Fonament: article 129.1 i 129.4 de la LPAC; Sentència del Tribunal Constitucional 55/2018, fonament jurídic 7.
 
 
 **B. Avantprojecte**
@@ -285,7 +289,7 @@ Cap.
 
 Motivació.
 
-Lletra a. L'article 187 bis.a del TRLUC sotmet a comunicació prèvia les obres de "reforma" sense projecte, i l'article 187 ter no les exclou. El criteri "sense generar residus" no és operatiu. La paraula "envelliment" sembla un error per "embelliment" **[CAL VERIFICAR]**. Esmena 4 de les versions A i B.
+Lletra a. L'article 187 bis.a del TRLUC sotmet a comunicació prèvia les obres de "reforma" sense projecte, i l'article 187 ter no les exclou. El criteri "sense generar residus" no és operatiu. El fitxer original del Projecte diu "envelliment"; pel context, es llegeix com un error per "embelliment". Esmena 4 de les versions A i B.
 
 Lletra d. L'article 187 ter.c del TRLUC exclou les obres quan l'ordre "o l'acte que n'ordena l'execució subsidiària" incorpora el projecte tècnic requerit. No preveu l'alternativa de les "instruccions tècniques suficients", que amplia l'exclusió a obres que requereixen projecte.
 
@@ -383,7 +387,7 @@ L'al·legació 1 manté la denegació de la llicència simplificada quan l'òrga
 
 Motivació.
 
-Lletra a. L'article 187.1.a del TRLUC sotmet a llicència "els moviments de terra i les esplanacions dels terrenys" sense fixar cap llindar, i l'article 187 bis no els inclou en la comunicació prèvia. El llindar de 1.000 m3 no té cobertura. L'esmena 5 de la versió A proposa, per als moviments de fins a 1.000 m3, un termini de resolució de quinze dies hàbils (article 81.4 del ROAS). L'article 11.4.a del TRLSRU, en la part vigent, exigeix resolució expressa amb silenci negatiu per als "movimientos de tierras, explanaciones" sense limitar-ho a cap classe de sòl. L'aplicació en qualsevol classe de sòl es dedueix de l'absència de límit; és una interpretació (vegeu l'article 30).
+Lletra a. L'article 187.1.a del TRLUC sotmet a llicència "els moviments de terra i les esplanacions dels terrenys" sense fixar cap llindar, i l'article 187 bis no els inclou en la comunicació prèvia. El llindar de 1.000 m3 no té cobertura. L'esmena 5 de la versió A proposa, per als moviments de fins a 1.000 m3, un termini de resolució de quinze dies hàbils (article 81.4 del ROAS). L'article 11.4.a del TRLSRU, en la part que la Sentència del Tribunal Constitucional 143/2017 manté, exigeix resolució expressa amb silenci negatiu per als "movimientos de tierras, explanaciones" sense limitar-ho a cap classe de sòl (vegeu l'article 30).
 
 Lletra c. L'article 187.1.c del TRLUC sotmet a llicència la demolició vinculada a obres que requereixen projecte. L'article 187 bis.a sotmet a comunicació prèvia la "demolició total o parcial de construccions i instal·lacions existents" que no requereixen projecte. La definició del Projecte ("disminucions parcials o totals del volum") porta a llicència qualsevol enderroc, encara que no requereixi projecte. L'ordenança no pot sotmetre a llicència un acte que l'article 187 bis del TRLUC sotmet a comunicació prèvia, pel principi de jerarquia normativa (article 237.1 del TRLMRLC). Aquesta lectura de l'article 187.1.c és una interpretació. L'article 47 s'ha d'adaptar en el mateix sentit.
 
@@ -393,7 +397,7 @@ Lletra m. Reprodueix una redacció de l'article 187.1 anterior a la vigent (arti
 
 Lletres o, u, p i w. Les lletres o i u estan duplicades. La lletra w sotmet a llicència en tot el terme municipal actes que l'article 10 sotmet a comunicació prèvia. L'article 187.2.c del TRLUC només els sotmet a llicència en sòl no urbanitzable i urbanitzable no delimitat, i n'exclou les lletres g, h i i de l'article 187 bis. Esmenes 4 i 5 de les versions A i B.
 
-Lletres g i h. Les definicions de massa arbòria (tres arbres amb capçades en contacte) i de vegetació arbustiva (més de 30 m2 i 2 m d'alçada) no figuren al TRLUC. Són una interpretació municipal de l'article 187.1.i. No es proposa esmena; convé que l'informe tècnic de l'expedient d'aprovació en justifiqui l'origen **[CAL VERIFICAR]**.
+Lletres g i h. Les definicions de massa arbòria (tres arbres amb capçades en contacte) i de vegetació arbustiva (més de 30 m2 i 2 m d'alçada) no figuren al TRLUC. Són una interpretació municipal de l'article 187.1.i. No es proposa esmena; convé que l'informe tècnic de l'expedient d'aprovació en justifiqui l'origen. No s'han trobat aquests llindars en el TRLUC, el RPLU ni la resta de normes consultades.
 
 Fonament: articles 187.1, 187.2, 187 bis i 9 bis del TRLUC; article 11.4 del TRLSRU; article 237.1 del TRLMRLC.
 
@@ -403,7 +407,7 @@ Fonament: articles 187.1, 187.2, 187 bis i 9 bis del TRLUC; article 11.4 del TRL
 Si s'aprova el nou article 187 (article 3 de l'Avantprojecte):
 
 - La primera utilització i ocupació parcial (lletra q) passa a comunicació prèvia (article 187 bis.b). Se suprimeix la lletra q i l'article 42 es trasllada a la secció de comunicacions prèvies.
-- Els hivernacles (lletra f) queden subjectes a llicència "llevat d'aquells que no són considerats edificacions d'acord amb la normativa que els regula". El criteri del metre d'alçària dels murs desapareix. Cal identificar aquesta normativa **[CAL VERIFICAR]**.
+- Els hivernacles (lletra f) queden subjectes a llicència "llevat d'aquells que no són considerats edificacions d'acord amb la normativa que els regula". El criteri del metre d'alçària dels murs desapareix. L'Avantprojecte no identifica aquesta normativa, i no s'ha trobat en els documents de l'expedient de l'Avantprojecte ni en la Llei 5/2026, de 20 de maig, de mesures urgents de suport al sector agrari i forestal **[CAL VERIFICAR]**.
 - La lletra p segueix l'article 187.2.c; l'article 187 bis.g deixa de referir-se al sòl no urbanitzable, i la remissió s'ha de revisar.
 - Nou apartat: autorització de moviment de terres i mur pantalla com a primera fase de l'obra principal (article 187.3). Es regula a l'article 30 ter proposat (esmena 29 de la versió B).
 
@@ -501,7 +505,7 @@ Cap.
 
 > ~~2.~~ <u>3.</u> Altres actes que la normativa sectorial així ho estableixi.
 
-Motivació. L'article 49.9 de la Llei 11/2022 prohibeix exigir llicència per a les estacions o infraestructures radioelèctriques en domini privat i les substitueix per declaració responsable, excepte en béns d'interès cultural, quan ocupen més de 300 m2 o quan tenen impacte en espais naturals protegits. Els apartats 10 i 11 eximeixen de qualsevol títol els punts d'accés inalàmbric per a petites àrees i les actualitzacions tecnològiques que no alteren l'obra civil ni el pal, amb excepcions. L'article 48.5 de la Llei 24/2013, en la redacció del Reial decret llei 29/2021, de 21 de desembre, substitueix la llicència dels punts de recàrrega per una declaració responsable, excepte en edificacions del patrimoni historicoartístic amb la categoria de bé d'interès cultural. El Projecte no identifica les normes ni recull aquestes excepcions. Correspondència de la categoria estatal de bé d'interès cultural amb la catalana de bé cultural d'interès nacional: és una interpretació **[CAL VERIFICAR]**. La numeració es repeteix (1, 1, 2).
+Motivació. L'article 49.9 de la Llei 11/2022 prohibeix exigir llicència per a les estacions o infraestructures radioelèctriques en domini privat i les substitueix per declaració responsable, excepte en béns d'interès cultural, quan ocupen més de 300 m2 o quan tenen impacte en espais naturals protegits. Els apartats 10 i 11 eximeixen de qualsevol títol els punts d'accés inalàmbric per a petites àrees i les actualitzacions tecnològiques que no alteren l'obra civil ni el pal, amb excepcions. L'article 48.5 de la Llei 24/2013, en la redacció del Reial decret llei 29/2021, de 21 de desembre, substitueix la llicència dels punts de recàrrega per una declaració responsable, excepte en edificacions del patrimoni historicoartístic amb la categoria de bé d'interès cultural. El Projecte no identifica les normes ni recull aquestes excepcions. La disposició addicional primera, apartat 1, de la Llei 9/1993, de 30 de setembre, del patrimoni cultural català, atribueix als béns declarats d'interès cultural la consideració de béns culturals d'interès nacional, i el preàmbul de la mateixa llei fa correspondre les dues categories. La numeració es repeteix (1, 1, 2).
 
 Fonament: article 49, apartats 9, 10 i 11, de la Llei 11/2022; article 48.5 de la Llei 24/2013.
 
@@ -604,7 +608,7 @@ L'al·legació 7 demana interoperabilitat entre el portal i els sistemes municip
 
 S'afegeixen els articles 16 bis (objecte de l'informe), 16 ter (supòsits: obligatori en llicències d'obres amb projecte; voluntari en la resta), 16 quater (entitats: col·legis professionals i entitats col·laboradores habilitats per la Generalitat; habilitació municipal d'acord amb els articles 91 a 96 de la Llei 26/2010), 16 quinquies (efectes: informe municipal limitat a la normativa urbanística i municipal, sense requeriments sobre aspectes verificats, terminis reduïts de l'article 30) i 16 sexies (modificacions i supervisió per mostreig). El text complet és el de l'esmena 1 de la versió A. Es corregeix la numeració dels apartats.
 
-Motivació. L'article 188.3 bis del TRLUC vigent permet a cada municipi exigir un informe d'idoneïtat tècnica que acompanyi la sol·licitud de llicència o la comunicació prèvia. Quan l'ordenança el regula, els serveis tècnics municipals "només han d'informar i assumeixen responsabilitat sobre l'adequació de la llicència sol·licitada o la comunicació prèvia a la normativa urbanística i municipal". El Projecte atribueix als serveis municipals tota la verificació d'"integritat documental, suficiència i idoneïtat". L'obligatorietat per a les llicències amb projecte és una opció municipal. Si no s'ha aprovat el decret de desplegament de l'habilitació autonòmica, l'informe només es podria exigir quan hi hagi entitats habilitades **[CAL VERIFICAR]** (disposició transitòria tercera proposada).
+Motivació. L'article 188.3 bis del TRLUC vigent permet a cada municipi exigir un informe d'idoneïtat tècnica que acompanyi la sol·licitud de llicència o la comunicació prèvia. Quan l'ordenança el regula, els serveis tècnics municipals "només han d'informar i assumeixen responsabilitat sobre l'adequació de la llicència sol·licitada o la comunicació prèvia a la normativa urbanística i municipal". El Projecte atribueix als serveis municipals tota la verificació d'"integritat documental, suficiència i idoneïtat". L'obligatorietat per a les llicències amb projecte és una opció municipal. No s'ha localitzat al Portal Jurídic de Catalunya ni al DOGC el decret de desplegament de l'habilitació autonòmica; consta un projecte de decret d'habilitació d'entitats col·laboradores sotmès a participació ciutadana **[CAL VERIFICAR si s'ha aprovat]**. Mentre no hi hagi entitats habilitades, l'informe no es pot exigir (disposició transitòria tercera proposada).
 
 Fonament: article 188.3 bis i disposició addicional vint-i-novena del TRLUC; articles 91 a 96 de la Llei 26/2010.
 
@@ -842,9 +846,9 @@ Cap.
 
 > 3. [...] <u>Els documents de les lletres c i e es poden aportar després de la notificació de la llicència i, en tot cas, abans d'iniciar les obres.</u>
 
-Motivació. En el moment de sol·licitar la llicència, la persona promotora sovint no ha contractat l'obra. L'article 32.1.r preveu que sigui la resolució la que fixi l'import de la garantia; exigir-ne el justificant amb la sol·licitud és incoherent. L'estudi de seguretat i salut de la lletra b es manté: l'article 17.1 del Reial decret 1627/1997, de 24 d'octubre, en fa requisit per a l'expedició de la llicència municipal. La justificació de la gestió de residus (lletra d) depèn de la normativa de residus de la construcció **[CAL VERIFICAR]**. Esmena 8 de les versions A i B.
+Motivació. En el moment de sol·licitar la llicència, la persona promotora sovint no ha contractat l'obra. L'article 32.1.r preveu que sigui la resolució la que fixi l'import de la garantia; exigir-ne el justificant amb la sol·licitud és incoherent. L'estudi de seguretat i salut de la lletra b es manté: l'article 17.1 del Reial decret 1627/1997, de 24 d'octubre, en fa requisit per a l'expedició de la llicència municipal. La lletra d té fonament en l'article 11.c del Decret 89/2010, de 29 de juny, en la redacció de l'article 104 de la Llei 2/2021, del 29 de desembre: amb la sol·licitud de llicència s'ha de presentar un document d'acceptació signat per un gestor de residus autoritzat, amb l'import del dipòsit rebut pel gestor (11 euros per tona prevista, amb un mínim de 150 euros). El dipòsit es fa al gestor, no a l'Ajuntament. Es proposa precisar-ho: <u>"d. Document d'acceptació dels residus signat per un gestor autoritzat, amb l'import del dipòsit, d'acord amb l'article 11.c del Decret 89/2010."</u> L'estudi de gestió de residus s'inclou en el projecte d'execució (article 4.1.a del Reial decret 105/2008, d'1 de febrer). Esmena 8 de les versions A i B.
 
-Fonament: article 17.1 del Reial decret 1627/1997; article 75.1 del ROAS.
+Fonament: article 17.1 del Reial decret 1627/1997; article 4.1.a del Reial decret 105/2008; article 11.c del Decret 89/2010; article 75.1 del ROAS.
 
 
 **B. Avantprojecte**
@@ -949,7 +953,7 @@ Cap.
 
 ### Article 30. Termini de resolució i silenci. Articles 30 bis i 30 ter (nous, només amb l'Avantprojecte)
 
-> **[ESMENA PER LEGALITAT]** Silenci desestimatori de l'article 11.4 del TRLSRU. Terminis reduïts, d'agilització
+> **[ESMENA PER LEGALITAT]** Silenci desestimatori dels moviments de terra en qualsevol classe de sòl (article 11.4.a del TRLSRU). Terminis reduïts, d'agilització
 
 
 **A. Normativa vigent**
@@ -960,9 +964,9 @@ Cap.
 
 > a. Els moviments de terra i les esplanacions dels terrenys ~~en sòl no urbanitzable~~ <u>en qualsevol classe de sòl</u>.
 
-> b. Les obres de construcció, d'edificació i d'instal·lació de nova planta ~~en sòl no urbanitzable o, en qualsevol classe de sòl, si són obres d'edificació de nova planta que, d'acord amb la legislació sobre ordenació de l'edificació, requereixen l'elaboració d'un projecte tècnic~~ <u>en qualsevol classe de sòl</u>.
+> b. [Es manté el text del Projecte.]
 
-> c. La instal·lació provisional o permanent de cases prefabricades o instal·lacions similars ~~en sòl no urbanitzable~~ <u>en qualsevol classe de sòl</u>.
+> c. [Es manté el text del Projecte.]
 
 > d. La tala de masses arbòries o de vegetació arbustiva que es derivi de la legislació de protecció del domini públic.
 
@@ -974,11 +978,17 @@ Cap.
 
 Motivació.
 
-Silenci. El Projecte reprodueix l'article 188.2 del TRLUC. L'article 11.4 del Text refós de la Llei del sòl i rehabilitació urbana (Reial decret legislatiu 7/2015, de 30 d'octubre), que té caràcter bàsic, estableix que "serán expresos, con silencio administrativo negativo", els actes que autoritzin: a) moviments de terres i esplanacions; b) "las obras de edificación, construcción e implantación de instalaciones de nueva planta"; c) "la ubicación de casas prefabricadas e instalaciones similares, ya sean provisionales o permanentes"; d) la tala derivada de la legislació de protecció del domini públic. Segons la nota del text consolidat del BOE, la Sentència del Tribunal Constitucional 143/2017, de 14 de desembre, va declarar inconstitucionals i nuls l'incís de la lletra a relatiu a les parcel·lacions i segregacions "en cualquier clase de suelo" i l'incís de la lletra d relatiu als terrenys en processos de transformació urbanística, i va declarar constitucionals, "en los términos establecidos por el fundamento jurídico 23", l'incís de la lletra b i la lletra c. La Sentència 75/2018, de 5 de juliol, s'hi pronuncia en el mateix sentit. La legislació bàsica no limita aquests supòsits al sòl no urbanitzable, a diferència de l'article 188.2 del TRLUC. L'article 11.3 del TRLSRU afegeix que no es poden adquirir per silenci facultats contràries a l'ordenació territorial o urbanística. L'article 82.1 del ROAS i l'article 24.1 de la LPAC preveuen el silenci desestimatori quan es transfereixen facultats relatives al domini públic o al servei públic. No s'ha consultat el fonament jurídic 23 de la Sentència 143/2017 **[CAL VERIFICAR]**; l'abast de la lletra b per a obres sense projecte és una interpretació. La versió A tractava el silenci sense esmena (apartat 5, lletra b); aquesta esmena la rectifica.
+Silenci. El Projecte reprodueix l'article 188.2 del TRLUC. L'article 11.4 del Text refós de la Llei del sòl i rehabilitació urbana (Reial decret legislatiu 7/2015, de 30 d'octubre), de caràcter bàsic, estableix que "serán expresos, con silencio administrativo negativo", els actes que autoritzin: a) moviments de terres i esplanacions; b) "las obras de edificación, construcción e implantación de instalaciones de nueva planta"; c) "la ubicación de casas prefabricadas e instalaciones similares, ya sean provisionales o permanentes"; d) la tala derivada de la legislació de protecció del domini públic. La Sentència del Tribunal Constitucional 143/2017, de 14 de desembre (fonament jurídic 23 i fallo, punts 2.c i 3), en determina l'abast:
+
+- Lletra a. Anul·la l'incís relatiu a les parcel·lacions, segregacions i altres actes de divisió de finques "en cualquier clase de suelo", i manté l'incís "Movimientos de tierras, explanaciones" sense cap límit de classe de sòl. El fonament jurídic 23 en justifica la validesa en la competència estatal en medi ambient, "dada la necesidad de preservar los valores propios del medio rural", però el fallo no hi afegeix cap interpretació conforme. L'article 188.2.a del TRLUC limita el silenci negatiu al sòl no urbanitzable. Es proposa aplicar el silenci negatiu en qualsevol classe de sòl; és una interpretació, perquè la motivació de la sentència es refereix al medi rural.
+- Lletra b. El silenci negatiu de les obres d'edificació de nova planta és vàlid en qualsevol classe de sòl, amb fonament en la Llei 38/1999. Per a la "construcción e implantación de instalaciones" que no són edificació, la sentència el declara constitucional "solamente cuando las actividades y usos urbanísticos cuya autorización se solicita se lleven a cabo en suelo rural cuya transformación urbanística no esté prevista o permitida". L'article 188.2.b del TRLUC (obres de nova planta en sòl no urbanitzable i obres d'edificació de nova planta amb projecte en qualsevol classe de sòl) s'hi ajusta. No es proposa esmena.
+- Lletra c. Les cases prefabricades només tenen silenci negatiu per la llei bàsica en sòl rural la transformació del qual no estigui prevista ni permesa. L'article 188.2.c del TRLUC el limita al sòl no urbanitzable. No es proposa esmena; l'equivalència entre aquest sòl rural i el sòl no urbanitzable és una interpretació.
+- Lletra d. La sentència anul·la l'incís dels terrenys en processos de transformació urbanística i manté la tala derivada de la legislació de protecció del domini públic, que el Projecte ja recull.
+L'article 11.3 del TRLSRU afegeix que no es poden adquirir per silenci facultats contràries a l'ordenació territorial o urbanística (lletra e). L'article 82.1 del ROAS i l'article 24.1 de la LPAC preveuen el silenci desestimatori quan es transfereixen facultats relatives al domini públic o al servei públic (lletra f). La sentència s'ha consultat al cercador de jurisprudència del Tribunal Constitucional. La primera redacció d'aquest document estenia el silenci negatiu de les lletres b i c a qualsevol classe de sòl; la lectura del fonament jurídic 23 obliga a limitar l'esmena a la lletra a.
 
 Terminis. L'article 81.4 del ROAS permet reduir els terminis de l'article 81.1. Els terminis d'un mes per a parcel·lació i propietat horitzontal resulten dels articles 29.1 i 32.1 del RPLU. La suspensió per informe d'una altra administració segueix l'article 22.1.d de la LPAC, que en limita la durada a tres mesos. El certificat d'ofici del silenci resulta de l'article 24.4 de la LPAC, i la publicació dels procediments, de l'article 21.4. Esmenes 2 i 5 de les versions A i B.
 
-Fonament: article 11, apartats 3 i 4, del TRLSRU; article 188.2 del TRLUC; articles 81, 82.1 i 82.2 del ROAS; articles 21.4, 22.1.d, 24.1 i 24.4 de la LPAC; articles 29.1 i 32.1 del RPLU.
+Fonament: article 11, apartats 3 i 4, del TRLSRU; Sentència del Tribunal Constitucional 143/2017, fonament jurídic 23; article 188.2 del TRLUC; articles 81, 82.1 i 82.2 del ROAS; articles 21.4, 22.1.d, 24.1 i 24.4 de la LPAC; articles 29.1 i 32.1 del RPLU.
 
 
 **B. Avantprojecte**
@@ -993,7 +1003,7 @@ Si s'aprova:
 
 - Al·legació 1: dos mesos en el procediment simplificat quan l'actuació requereix projecte; denegació per inadequació a la normativa urbanística; un sol requeriment amb suspensió d'un mes com a màxim.
 - Al·legació 2: efectivitat de l'exclusió per ordenança.
-- Al·legació 17: resolució expressa de la primera fase en un mes, amb silenci desestimatori, d'acord amb la legislació bàsica de sòl. Coincideix amb l'esmena de l'apartat 3 d'aquest article.
+- Al·legació 17: resolució expressa de la primera fase en un mes, amb silenci desestimatori, d'acord amb la legislació bàsica de sòl. Coincideix amb l'esmena de l'apartat 3, lletra a, d'aquest article.
 - Al·legació 14: tramesa a l'Observatori per interoperabilitat, sense doble gravació.
 
 ### Article 31. Normativa aplicable a la resolució
@@ -1124,11 +1134,11 @@ L'al·legació 21 exigeix independència del tècnic que emet els informes secto
 
 > 1. Per a l'atorgament de qualsevol llicència urbanística d'edificació en sòl urbà és necessari que la parcel·la afectada tingui la consideració de solar<u>, sens perjudici del que estableix l'article 38</u>.
 
-> 5. ~~Caldrà aportar el compromís, mitjançant signatura de compareixença, de modificació de superfície del solar en la inscripció registral del mateix com a conseqüència de l'obligació de cessió per ampliació de vial, en sòl urbà o l'escriptura de cessió lliure de càrregues.~~ <u>L'escriptura pública de cessió o l'acta de compareixença de l'apartat 4 és títol suficient per a la inscripció de la cessió i de la modificació de la superfície de la finca en el Registre de la Propietat. L'Ajuntament en promou la inscripció.</u>
+> 5. ~~Caldrà aportar el compromís, mitjançant signatura de compareixença, de modificació de superfície del solar en la inscripció registral del mateix com a conseqüència de l'obligació de cessió per ampliació de vial, en sòl urbà o l'escriptura de cessió lliure de càrregues.~~ <u>L'escriptura pública de cessió o la certificació de l'acta administrativa de compareixença de l'apartat 4 són títol per a la inscripció de la cessió i de la modificació de la superfície de la finca en el Registre de la Propietat. L'Ajuntament en promou la inscripció.</u>
 
-Motivació. L'apartat 2 reprodueix l'article 44.2 del TRLUC. L'apartat 1 exigeix la condició de solar sense excepció, mentre que l'article 38 i l'article 39 del RPLU admeten l'edificació i la urbanització simultànies. L'apartat 5 exigeix un segon compromís per a una modificació registral que resulta del mateix document de cessió. La inscripció de cessions a favor de l'Administració es regeix per la legislació hipotecària; la suficiència de l'acta de compareixença com a títol inscriptible és una interpretació **[CAL VERIFICAR]**.
+Motivació. L'apartat 2 reprodueix l'article 44.2 del TRLUC. L'apartat 1 exigeix la condició de solar sense excepció, mentre que l'article 38 i l'article 39 del RPLU admeten l'edificació i la urbanització simultànies. L'apartat 5 exigeix un segon compromís per a una modificació registral que resulta del mateix document de cessió. L'article 30.3 del Reial decret 1093/1997, de 4 de juliol, admet com a títol per inscriure les cessions obligatòries l'acord dels titulars registrals amb l'Administració formalitzat en acta administrativa, de la qual s'expedeix certificació, o en escriptura pública. L'article 30.4 hi permet les segregacions o modificacions hipotecàries necessàries.
 
-Fonament: article 44.2 del TRLUC; article 39 del RPLU.
+Fonament: article 44.2 del TRLUC; article 39 del RPLU; article 30.3 i 30.4 del Reial decret 1093/1997.
 
 
 **B. Avantprojecte**
@@ -1318,9 +1328,9 @@ Cap.
 
 > 2. Les llicències per a habitatges d'ús turístic s'hauran d'ajustar a les determinacions de la normativa i ordenances aplicables<u>, i en particular a la disposició addicional vint-i-setena del TRLUC: tenen una durada de cinc anys, prorrogable per períodes iguals si el planejament ho permet; no se'n poden atorgar més de les que resultin d'aplicar un màxim de 10 habitatges d'ús turístic per 100 habitants, i l'atorgament respecta els principis de publicitat, objectivitat, imparcialitat, transparència i concurrència competitiva</u>.
 
-Motivació. L'apartat 1 reprodueix l'article 187.1.p del TRLUC. La disposició addicional vint-i-setena fixa la durada, el límit i els principis d'atorgament. El Projecte no els esmenta. Cal comprovar si Torredembarra figura entre els municipis amb problemes d'accés a l'habitatge o en risc per alta concentració d'habitatges d'ús turístic **[CAL VERIFICAR]**; si no hi figura, l'article no s'aplica. Amb 18.190 habitants (Idescat, 2025), el límit seria de 1.819 habitatges d'ús turístic. Es corregeix la numeració.
+Motivació. L'apartat 1 reprodueix l'article 187.1.p del TRLUC. La disposició addicional vint-i-setena fixa la durada, el límit i els principis d'atorgament. El Projecte no els esmenta. Torredembarra figura a l'annex del Decret llei 3/2023, de 7 de novembre, de mesures urgents sobre el règim urbanístic dels habitatges d'ús turístic (número 231 de la relació), de manera que l'article s'hi aplica. La relació té una vigència de cinc anys des de l'entrada en vigor del decret llei i perd vigència quan es publiqui l'ordre que la substitueixi (article 2.2). La disposició transitòria segona del mateix decret llei dona cinc anys als habitatges d'ús turístic habilitats en aquella data per obtenir la llicència. No s'ha comprovat si s'ha publicat una ordre de substitució de la relació. Amb 18.190 habitants (Idescat, 2025), el límit seria de 1.819 habitatges d'ús turístic. Es corregeix la numeració.
 
-Fonament: article 187.1.p i disposició addicional vint-i-setena del TRLUC.
+Fonament: article 187.1.p i disposició addicional vint-i-setena del TRLUC; articles 1 i 2, disposició transitòria segona i annex del Decret llei 3/2023.
 
 
 **B. Avantprojecte**
@@ -1491,9 +1501,9 @@ Cap.
 
 > 2.c, punt i. ~~Plànols de situació, emplaçament i extensió de l'obra.~~ <u>Plànols de l'extensió de l'obra.</u> Punt ii. Full de nomenament dels tècnics competents que assumeixen la direcció de l'obra<u>, quan la intervenció afecti elements estructurals</u>.
 
-Motivació. El plànol de situació i el croquis de l'apartat 1 ja identifiquen l'emplaçament; repetir-los a cada lletra de l'apartat 2 no aporta informació. L'article 28.3 de la LPAC impedeix exigir documents no previstos per la normativa aplicable i l'article 13.2 del RPLU permet a les ordenances concretar la documentació. Per a la retirada d'amiant (lletra f), cal comprovar la incidència de la Llei 8/2026, de 2 de juliol, de l'erradicació de l'amiant **[CAL VERIFICAR]**. Esmena 14 de les versions A i B.
+Motivació. El plànol de situació i el croquis de l'apartat 1 ja identifiquen l'emplaçament; repetir-los a cada lletra de l'apartat 2 no aporta informació. L'article 28.3 de la LPAC impedeix exigir documents no previstos per la normativa aplicable i l'article 13.2 del RPLU permet a les ordenances concretar la documentació. Per a la retirada d'amiant (lletra f), l'article 36.4 de la Llei 8/2026, de 2 de juliol, de l'erradicació de l'amiant, en vigor des de tres mesos després de la publicació al DOGC de 3 de juliol de 2026, fa obligatòria la inscripció en el Registre d'empreses i professionals capacitats per a la gestió dels materials amb amiant a Catalunya, que no substitueix la inscripció en el registre estatal d'empreses amb risc d'amiant (article 36.3). Es proposa afegir-ho al punt i: <u>"i en el Registre d'empreses i professionals capacitats per a la gestió dels materials amb amiant a Catalunya, d'acord amb l'article 36.4 de la Llei 8/2026"</u>. No s'ha comprovat si el registre català ja és operatiu. Esmena 14 de les versions A i B.
 
-Fonament: article 28.3 de la LPAC; article 13.2 del RPLU.
+Fonament: article 28.3 de la LPAC; article 13.2 del RPLU; article 36 de la Llei 8/2026.
 
 
 **B. Avantprojecte**
@@ -1517,7 +1527,7 @@ Cap.
 
 > 5. [...] <u>Si l'Ajuntament constata, després d'aquest termini, que l'edificació no compleix els requisits per a l'ús previst, adopta les mesures per al cessament de l'ocupació d'acord amb l'article 11.5 del TRLSRU.</u>
 
-Motivació. Els apartats 1, 2.a i 4 reprodueixen l'article 75 del RPLU. L'article 11.5 del TRLSRU obliga l'Administració a adoptar les mesures necessàries per al cessament de l'ocupació quan de la comunicació no resulti que l'edificació compleix els requisits per a l'ús previst, i la fa responsable dels perjudicis a tercers de bona fe si no les adopta en sis mesos. L'article 2.b del Reial decret 1000/2010 exigeix el visat del certificat final d'obra de les obres d'edificació que requereixen projecte; el Projecte el demana sense distingir. La declaració responsable de la lletra d (llibre de l'edifici i certificat d'eficiència energètica) és una opció municipal.
+Motivació. Els apartats 1, 2.a i 4 reprodueixen l'article 75 del RPLU. L'article 11.5 del TRLSRU obliga l'Administració a adoptar les mesures necessàries per al cessament de l'ocupació quan de la comunicació no resulti que l'edificació compleix els requisits per a l'ús previst, i la fa responsable dels perjudicis a tercers de bona fe si no les adopta en sis mesos. L'article 2.b del Reial decret 1000/2010 exigeix el visat del certificat final d'obra d'edificació, entesa en els termes de l'article 2.1 de la Llei 38/1999; el Projecte el demana sense distingir. La declaració responsable de la lletra d (llibre de l'edifici i certificat d'eficiència energètica) és una opció municipal.
 
 Fonament: article 75 del RPLU; article 11.5 del TRLSRU; article 2.b del Reial decret 1000/2010.
 
@@ -1585,9 +1595,9 @@ Cap.
 
 > 2. [...] Cal aportar: <u>a) la documentació tècnica de l'article 20, subscrita per una persona tècnica competent quan la instal·lació afecti l'estructura de la coberta o de l'edifici; b) el projecte tècnic, només quan l'exigeixi la normativa sectorial aplicable a la instal·lació; c) la documentació sobre la gestió dels residus, si l'actuació en genera.</u>
 
-Motivació. El Projecte exigeix projecte tècnic per a tota instal·lació solar. L'article 187 bis.h del TRLUC la sotmet a comunicació prèvia, que per definició comprèn actes sense projecte d'acord amb la legislació d'edificació. Els supòsits en què la normativa d'instal·lacions elèctriques exigeix projecte no s'han verificat **[CAL VERIFICAR]**. Esmena 14 de les versions A i B.
+Motivació. El Projecte exigeix projecte tècnic per a tota instal·lació solar. L'article 187 bis.h del TRLUC la sotmet a comunicació prèvia, que per definició comprèn actes sense projecte d'acord amb la legislació d'edificació. La instrucció ITC-BT-04 del Reglament electrotècnic per a baixa tensió (Reial decret 842/2002, de 2 d'agost), apartat 3.1, exigeix projecte per a les instal·lacions de generadors i convertidors de potència superior a 10 kW (grup c); per sota d'aquesta potència, n'hi ha prou amb la memòria tècnica de disseny. Es tracta d'un projecte de la instal·lació elèctrica, no d'un projecte d'edificació. Esmena 14 de les versions A i B.
 
-Fonament: articles 9 bis i 187 bis.h del TRLUC.
+Fonament: articles 9 bis i 187 bis.h del TRLUC; ITC-BT-04, apartat 3.1, del Reial decret 842/2002.
 
 
 **B. Avantprojecte**
@@ -1713,7 +1723,7 @@ Cap.
 
 Motivació.
 
-Obligació 3. Cap norma vigent obliga amb caràcter general la persona titular de la llicència o el constructor a subscriure una pòlissa de responsabilitat civil per obtenir-la o executar-la, i la presumpció que "l'Ajuntament considera constituïda" la pòlissa no produeix cap efecte jurídic. L'article 73.2 del ROAS conté la regla que el Projecte volia expressar. Imposar una obligació general d'assegurança requeriria una habilitació que no s'ha identificat; és una interpretació. Les assegurances obligatòries de la legislació d'edificació (article 19 de la Llei 38/1999) no s'han analitzat **[CAL VERIFICAR]**.
+Obligació 3. Cap norma vigent obliga amb caràcter general la persona titular de la llicència o el constructor a subscriure una pòlissa de responsabilitat civil per obtenir-la o executar-la, i la presumpció que "l'Ajuntament considera constituïda" la pòlissa no produeix cap efecte jurídic. L'article 73.2 del ROAS conté la regla que el Projecte volia expressar. Imposar una obligació general d'assegurança requeriria una habilitació que no s'ha identificat; és una interpretació. L'article 19 de la Llei 38/1999 i la seva disposició addicional segona regulen garanties per danys materials de l'edifici per vicis o defectes de la construcció, exigibles en els edificis destinats principalment a habitatge. No són una pòlissa de responsabilitat civil davant tercers ni un requisit de la llicència.
 
 Obligacions 6 i 7 i apartat 2. L'article 84.2 del ROAS permet que les ordenances exigeixin un anunci normalitzat visible des de la via pública, sense exigir que sigui una placa física lliurada per l'Ajuntament. L'article 37.3 del RPLU obliga a lliurar l'acta d'inici i el certificat final; la comunicació de l'inici i de l'acabament (obligació 5) queda coberta amb aquests documents. Esmenes 12 i 21 de les versions A i B.
 
@@ -1790,18 +1800,16 @@ Cap.
 
 ### Article 64. Interrupció de l'execució
 
-> **[CORRECCIÓ DE REDACCIÓ]** Duplicació amb l'article 61 i troballes arqueològiques
+> **[CORRECCIÓ DE REDACCIÓ]** Duplicació amb l'article 61
 
 
 **A. Normativa vigent**
 
 > 2. Si es produeix la paralització de les obres, per termini superior a dos mesos, [...] <u>Aquest apartat regula les obligacions en cas de paralització; se suprimeix l'obligació d'execució 11 de l'article 61.</u>
 
-> 4. [...] c. Comunicar el descobriment al departament competent en matèria de cultura de la Generalitat ~~en el termini de 48 hores des de la troballa~~ <u>en el termini que fixa la legislació de patrimoni cultural, i a l'Ajuntament</u>.
+Motivació. L'obligació 11 de l'article 61 i l'apartat de paralització de l'article 64 regulen el mateix supòsit amb llistes diferents. L'apartat 4 (troballes arqueològiques) reprodueix l'article 52.1 de la Llei 9/1993, de 30 de setembre, del patrimoni cultural català: paralització immediata, mesures de protecció i comunicació al Departament de Cultura en el termini de quaranta-vuit hores. No requereix esmena; es pot citar l'article. Les referències segueixen la numeració corregida (1 a 4).
 
-Motivació. L'obligació 11 de l'article 61 i l'apartat de paralització de l'article 64 regulen el mateix supòsit amb llistes diferents. El termini de 48 hores per comunicar troballes no s'ha pogut contrastar amb la Llei 9/1993, de 30 de setembre, del patrimoni cultural català **[CAL VERIFICAR]**; la remissió evita fixar un termini que pugui no coincidir amb el legal. Les referències segueixen la numeració corregida (1 a 4).
-
-Fonament: legislació de patrimoni cultural **[CAL VERIFICAR]**.
+Fonament: article 52.1 de la Llei 9/1993.
 
 
 **B. Avantprojecte**
@@ -1866,23 +1874,23 @@ Cap.
 
 ### Article 67. Edificacions inacabades
 
-> **[ESMENA PER LEGALITAT]** Obligació d'enderroc sense norma identificada (apartat 3)
+> **[ESMENA PER LEGALITAT]** Obligació d'enderroc reproduïda de manera incompleta (apartat 3)
 
 
 **A. Normativa vigent**
 
-> 3. ~~Les persones titulars de llicències d'obres caducades a partir de l'1 de gener de 2008 [...] resten obligades a enderrocar l'edifici inacabat [...]~~ <u>[Se suprimeix, o se substitueix per una remissió a la norma legal que estableixi l'obligació, citada amb el número i l'article.]</u>
+> 3. ~~Les persones titulars de llicències d'obres caducades a partir de l'1 de gener de 2008 [...] resten obligades a enderrocar l'edifici inacabat [...]~~ <u>Les persones titulars de llicències d'obres caducades a partir de l'1 de gener de 2008, atorgades d'acord amb la normativa tècnica d'edificació i d'habitatge anterior a la Llei 3/2012, del 22 de febrer, estan obligades a enderrocar l'edifici inacabat en els supòsits i terminis de la disposició transitòria primera d'aquesta llei, en la redacció del Decret llei 17/2019, de 23 de desembre. S'aplica, si escau, el règim excepcional d'acabament de la disposició transitòria quarta de la mateixa llei.</u>
 
 > 2. Les obres inacabades sense causa justificada ~~faculta~~ <u>faculten</u> l'Ajuntament a dictar les ordres d'execució ~~necessaries~~ <u>necessàries</u> pels conceptes que han quedat ~~detalalts~~ <u>detallats</u> en el punt anterior.
 
-Motivació. La regla d'enderroc no figura al text consolidat del TRLUC consultat. Pot procedir d'una disposició de la Llei 3/2012, del 22 de febrer, que no s'ha pogut consultar **[CAL VERIFICAR]**. Una obligació d'enderroc d'un edifici requereix cobertura legal. Les ordres d'execució de l'apartat 2 tenen fonament en els articles 77 i següents del RPLU.
+Motivació. La regla d'enderroc procedeix de la disposició transitòria primera, apartat 2, de la Llei 3/2012, del 22 de febrer, de modificació del TRLUC, en la redacció del Decret llei 17/2019, de 23 de desembre, de mesures urgents per millorar l'accés a l'habitatge (text consolidat del BOE). L'obligació no afecta tots els titulars de llicències caducades des de 2008, com diu el Projecte. Afecta els que podien demanar la rehabilitació i pròrroga de la llicència (obres iniciades i no acabades per la crisi, estructura iniciada i adaptació econòmicament inviable) i no la van demanar en el termini d'un any des de l'entrada en vigor del Decret llei 17/2019, o no van acabar les obres dins la pròrroga, que no podia superar el 31 de desembre de 2022 (apartat 3). Disposen d'un any per enderrocar, amb advertiment d'execució forçosa. La disposició transitòria quarta de la Llei 3/2012, afegida per la Llei 11/2026, de 9 de juliol, de mesures fiscals, financeres, administratives i del sector públic, permet a l'Ajuntament, durant dos anys des de la seva entrada en vigor, prorrogar o mantenir els efectes de llicències anteriors al Decret 141/2012 per acabar edificis residencials plurifamiliars inacabats, si es destinen al parc públic o a habitatge amb protecció oficial (com a mínim el 70 % en promocions privades). El Projecte no recull aquest règim. Les ordres d'execució de l'apartat 2 tenen fonament en els articles 77 i següents del RPLU.
 
-Fonament: articles 77 a 90 del RPLU; Llei 3/2012 **[CAL VERIFICAR]**.
+Fonament: disposicions transitòries primera i quarta de la Llei 3/2012; articles 77 a 90 del RPLU.
 
 
 **B. Avantprojecte**
 
-Si s'aprova, la disposició transitòria segona de l'Avantprojecte permet subscriure convenis per acabar edificis amb llicència caducada. L'esmena 28 de la versió B hi afegeix un apartat: conveni d'acabament amb destinació a habitatge protegit, com a alternativa a l'enderroc.
+Si s'aprova, la disposició transitòria segona de l'Avantprojecte permet subscriure convenis per acabar edificis amb llicència caducada. L'esmena 28 de la versió B hi afegeix un conveni d'acabament amb destinació a habitatge protegit. Una part d'aquest objectiu ja la cobreix la disposició transitòria quarta de la Llei 3/2012, vigent des de juliol de 2026; l'esmena 28 s'hauria de coordinar amb aquest règim.
 
 
 **C. Al·legacions a l'Avantprojecte**
@@ -1931,7 +1939,9 @@ Cap.
 
 Motivació. El Projecte no diu si la devolució vinculada a la primera ocupació és d'ofici ni fixa termini; regiria el supletori de tres mesos de l'article 21.3 de la LPAC. La declaració responsable sobre la titularitat del compte substitueix el certificat bancari; l'article 69.1 de la LPAC regula la declaració responsable, i la substitució és una opció municipal. Esmena 17 de les versions A i B.
 
-Fonament: articles 21.3 i 69.1 de la LPAC; article 40.3 del RPLU.
+Lletra b de l'apartat 2 (justificant del gestor de residus per retornar la fiança). Des de la modificació de l'article 11.c del Decret 89/2010 per la Llei 2/2021, el dipòsit per a la gestió de residus es fa al gestor autoritzat, no a l'Ajuntament (vegeu l'article 26). La lletra només és aplicable a les fiances de residus constituïdes davant l'Ajuntament abans d'aquest canvi. L'article 15.2 del Decret obliga la persona sol·licitant de la llicència a presentar a l'Ajuntament el certificat de gestió dels residus lliurats. Es proposa: <u>"b. Per a les fiances de residus constituïdes davant l'Ajuntament, el certificat de gestió del gestor autoritzat de l'article 15.2 del Decret 89/2010."</u>
+
+Fonament: articles 21.3 i 69.1 de la LPAC; article 40.3 del RPLU; articles 11.c i 15.2 del Decret 89/2010.
 
 
 **B. Avantprojecte**
@@ -2028,9 +2038,9 @@ Cap.
 
 > 2. ~~Certificat de direcció tècnica de la instal·lació, un~~ <u>Un</u> plànol o croquis que reflecteixi de manera clara i detallada la superfície de la via pública a ocupar.
 
-Motivació. Els apartats 1 i 2 demanen dos documents sobre la mateixa direcció tècnica. El pla de muntatge (apartat 4) depèn de la normativa de treballs temporals en altura **[CAL VERIFICAR]**. L'apartat 5 és una condició, no un document.
+Motivació. Els apartats 1 i 2 demanen dos documents sobre la mateixa direcció tècnica. El pla de muntatge, utilització i desmuntatge (apartat 4) té fonament en l'apartat 4.3.3 de l'annex II del Reial decret 1215/1997, de 18 de juliol, que l'exigeix segons la complexitat de la bastida i el fa obligatori en els tipus que enumera. L'apartat 5 és una condició, no un document.
 
-Fonament: article 28.3 de la LPAC.
+Fonament: article 28.3 de la LPAC; annex II, apartat 4.3.3, del Reial decret 1215/1997.
 
 
 **B. Avantprojecte**
@@ -2045,12 +2055,16 @@ Cap.
 
 ### Article 74. Grues
 
-> **[SENSE ESMENA]**
+> **[ESMENA D'AGILITZACIÓ]** Documents presentats a la Generalitat
 
 
 **A. Normativa vigent**
 
-La documentació reprodueix requisits de la normativa de grues torre i de servituds aeronàutiques que no s'han verificat **[CAL VERIFICAR]**. No es proposa esmena.
+> S'hi afegeix: <u>"Quan el projecte d'instal·lació i la documentació de posada en servei s'hagin presentat a l'òrgan competent de la Generalitat, n'hi ha prou amb indicar-ne la data i el número de registre. L'Ajuntament els pot consultar d'acord amb l'article 28.2 de la Llei 39/2015."</u>
+
+Motivació. La Instrucció tècnica complementària MIE-AEM-2 (Reial decret 836/2003, de 27 de juny) exigeix presentar a l'òrgan competent de la comunitat autònoma el projecte d'instal·lació (article 5.1) i, per a la posada en servei, el document de la instal·ladora, l'informe d'inspecció d'un organisme de control autoritzat i el certificat d'instal·lació (article 5.5). Els apartats 1, 2 i 4 del Projecte demanen els mateixos documents. L'article 28.2 de la LPAC impedeix exigir documents elaborats per una altra administració. La pòlissa de l'apartat 5 no deriva de la ITC, que exigeix assegurança a les empreses fabricants, instal·ladores i conservadores; és una opció municipal. L'informe d'AESA (apartat 6) depèn de les servituds aeronàutiques, que no s'han analitzat.
+
+Fonament: articles 5.1 i 5.5 de la ITC MIE-AEM-2 (Reial decret 836/2003); article 28.2 de la LPAC.
 
 
 **B. Avantprojecte**
@@ -2096,9 +2110,9 @@ Cap.
 
 > S'hi afegeixen dos apartats: <u>"Quan l'ocupació afecti la circulació de vehicles o de vianants, l'òrgan instructor demana d'ofici l'informe de la Policia Local."</u> <u>"Quan l'ocupació acompanya una comunicació prèvia, o es demana de manera independent per a una obra que ja disposa de títol habilitant, l'Ajuntament resol i notifica l'autorització en el termini de deu dies hàbils. Quan acompanya una sol·licitud de llicència, es resol amb la llicència. La manca de resolució en termini té efecte desestimatori."</u>
 
-Motivació. El Projecte no fixa termini; regiria el supletori de tres mesos (article 21.3 de la LPAC). El silenci desestimatori resulta de l'article 24.1 de la LPAC i de l'article 82.1 del ROAS, perquè l'autorització transfereix facultats sobre el domini públic. El règim de l'ús privatiu del domini públic local (Reglament del patrimoni dels ens locals) no s'ha verificat **[CAL VERIFICAR]**. Esmena 16 de les versions A i B.
+Motivació. L'ocupació de la via pública per a obres és un ús privatiu del domini públic que no el transforma. L'article 57.2 del Reglament del patrimoni dels ens locals (Decret 336/1988, de 17 d'octubre) la sotmet a llicència d'ocupació temporal, que s'ha de resoldre en dos mesos, amb silenci desestimatori. El Projecte no fixa termini. El termini de deu dies que es proposa és inferior al màxim reglamentari; fixar-lo per ordenança és una opció municipal que no contradiu el màxim, i és una interpretació. El silenci desestimatori coincideix amb l'article 57.2 del Reglament, l'article 24.1 de la LPAC i l'article 82.1 del ROAS. Esmena 16 de les versions A i B.
 
-Fonament: articles 21.3 i 24.1 de la LPAC; articles 72.1 i 82.1 del ROAS.
+Fonament: article 57.2 del Decret 336/1988; article 24.1 de la LPAC; articles 72.1 i 82.1 del ROAS.
 
 
 **B. Avantprojecte**
@@ -2197,7 +2211,7 @@ L'al·legació 3 no tracta el règim sancionador: regula la responsabilitat civi
 
 > <u>2. La multa es gradua d'acord amb els criteris de l'article 29.3 de la Llei 40/2015.</u>
 
-Motivació. L'article 141 de la LRBRL fixa els màxims de 3.000, 1.500 i 750 euros "llevat que hi hagi una previsió legal diferent". L'article 237.3 del TRLMRLC limita les multes per infracció d'ordenances a 300,51 euros en els municipis de 5.001 a 20.000 habitants, si les lleis no fixen un règim específic. Torredembarra tenia 18.190 habitants el 2025 (Idescat). No s'ha determinat quin límit preval **[CAL VERIFICAR]**. Si preval el del TRLMRLC, cal reduir les quanties. Els mínims són una proposta. L'article 29.3 de la LRJSP fixa els criteris de graduació, que el Projecte no esmenta.
+Motivació. L'article 141 de la LRBRL fixa els màxims de 3.000, 1.500 i 750 euros "llevat que hi hagi una previsió legal diferent". L'article 237.3 del TRLMRLC limita les multes per infracció d'ordenances a 300,51 euros en els municipis de 5.001 a 20.000 habitants, si les lleis no fixen un règim específic. Torredembarra tenia 18.190 habitants el 2025 (Idescat). L'article 141 de la LRBRL, afegit per la Llei 57/2003, de 16 de desembre, és posterior al TRLMRLC (Decret legislatiu 2/2003, de 28 d'abril) i té caràcter bàsic. L'article 237.3 del TRLMRLC opera "si les lleis no estableixen un règim sancionador específic"; es pot entendre que el títol XI de la LRBRL n'és un. Aquesta lectura és una interpretació. No s'ha consultat jurisprudència sobre la relació entre els dos preceptes **[CAL VERIFICAR]**. Si preval el del TRLMRLC, cal reduir les quanties. Els mínims són una proposta. L'article 29.3 de la LRJSP fixa els criteris de graduació, que el Projecte no esmenta.
 
 Fonament: article 141 de la LRBRL; article 237.3 del TRLMRLC; article 29.3 de la LRJSP.
 
@@ -2358,7 +2372,7 @@ Cap.
 
 **A. Normativa vigent**
 
-Deroga l'Ordenança municipal reguladora de les activitats urbanístiques (BOP de Tarragona núm. 48, de 28 de febrer de 2005). No s'ha consultat el text d'aquesta ordenança per comprovar si queda sense regulació alguna matèria **[CAL VERIFICAR]**.
+Deroga l'Ordenança municipal reguladora de les activitats urbanístiques (BOP de Tarragona núm. 48, de 28 de febrer de 2005). L'enllaç del Centre d'Informació i Documentació Oficial (CIDO) a l'anunci del BOP de 28 de febrer de 2005 no és accessible, i no s'ha pogut consultar el text de l'ordenança per comprovar si queda sense regulació alguna matèria **[CAL VERIFICAR]**. La fitxa de la consulta pública prèvia (17 de juny a 16 de juliol de 2024) qualifica l'ordenança de 2005 de "desfasada normativament".
 
 
 **B. Avantprojecte**
@@ -2429,13 +2443,13 @@ Cap.
 
 **A. Normativa vigent**
 
-> <u>1. L'Ajuntament tramita en català els procediments regulats en aquesta ordenança. Els formularis, els models normalitzats i la informació de la seu electrònica estan disponibles en català. Les persones interessades poden presentar documents i fer manifestacions en castellà i, si ho sol·liciten, rebre les notificacions en aquesta llengua.</u>
+> <u>1. L'Ajuntament tramita en català els procediments regulats en aquesta ordenança. Els formularis, els models normalitzats i la informació de la seu electrònica estan disponibles en català. Les persones interessades poden presentar documents i fer manifestacions en castellà i rebre en aquesta llengua les comunicacions i notificacions. L'opció es pot indicar al formulari o en qualsevol moment del procediment, sense cap altra formalitat.</u>
 
 > <u>2. L'habilitació municipal de l'article 16 quater.2 requereix que l'entitat admeti els projectes i la documentació redactats en català, sense exigir-ne traducció, i emeti l'informe en català, llevat que la persona interessada el demani en castellà. Si la persona interessada aporta un informe redactat en una llengua diferent de la que ha triat per relacionar-se amb l'Ajuntament, l'Ajuntament li lliura, si ho demana, un testimoni traduït, d'acord amb l'article 10.2 de la Llei 1/1998.</u>
 
-Motivació. El Projecte no conté cap previsió lingüística. L'article 9.1 de la Llei 1/1998 obliga les administracions locals a emprar el català en les actuacions internes i, normalment, en les comunicacions i les notificacions, sens perjudici del dret a rebre-les en castellà si es demana. L'article 10.2 regula el testimoni traduït. L'aplicació als informes de les entitats habilitades per l'Ajuntament és una interpretació. Esmena 23 de les versions A i B.
+Motivació. El Projecte no conté cap previsió lingüística. L'article 9.1 de la Llei 1/1998 obliga les administracions locals a emprar el català en les actuacions internes i, normalment, en les comunicacions i les notificacions, sens perjudici del dret a rebre-les en castellà si es demana. L'article 10.2 regula el testimoni traduït. La Sentència del Tribunal Constitucional 31/2010, de 28 de juny, fonament jurídic 23, declara l'article 50.5 de l'EAC conforme a la Constitució si s'interpreta en el sentit que les entitats poden utilitzar amb normalitat el català i també el castellà, i que el dret a rebre les comunicacions en castellà s'ha de poder fer efectiu "sin formalidades ni condiciones que redunden para ellos en una carga". També limita l'aplicació del precepte a les entitats i empreses dependents quan "ejercen funciones públicas". Per això el text proposat no condiciona l'ús del castellà a una sol·licitud formal. L'aplicació de l'article 50.5 als informes de les entitats habilitades, que exerceixen una funció pública de verificació, és una interpretació. Esmena 23 de les versions A i B.
 
-Fonament: articles 33.1 i 50.5 de l'EAC; articles 9 i 10 de la Llei 1/1998. L'abast de l'article 50.5 de l'EAC després de la Sentència del Tribunal Constitucional 31/2010 queda pendent **[CAL VERIFICAR]**.
+Fonament: articles 33.1 i 50.5 de l'EAC; Sentència del Tribunal Constitucional 31/2010, fonament jurídic 23; articles 9 i 10 de la Llei 1/1998.
 
 
 **B. Avantprojecte**
@@ -2454,51 +2468,55 @@ Les esmenes de la columna A es poden aprovar amb la normativa vigent el 25 de no
 
 Les al·legacions de la columna C s'han formulat a l'Avantprojecte, no a l'ordenança. S'indiquen perquè, si el Parlament o el Govern les accepten, canvia el contingut possible de la columna B. Les que més hi incideixen són la 1 i la 2 (procediment simplificat), la 17 (primera fase), la 18 (certificat d'idoneïtat en la comunicació prèvia), la 13 (caució) i la 23 (certificats en procediments sectorials).
 
-Diferències amb les versions A i B. Aquest document incorpora tres esmenes que no hi figuraven: el silenci desestimatori de l'article 11.4 del TRLSRU (article 30), la supressió de la ficció d'informe favorable (article 27, apartat 5) i la precisió de l'article 5, lletres d, e i g. També precisa els articles 8.c i 8.k, 12, 32, 36, 39, 45, 47, 53, 61, 64, 70, 73, 77 i la disposició addicional segona. En l'apartat de qüestions sense esmena, les versions A i B consideraven que l'article 30 no requeria esmena perquè reproduïa l'article 188.2 del TRLUC; aquesta conclusió s'ha de corregir per l'article 11.4 del TRLSRU.
+Diferències amb les versions A i B. Aquest document incorpora tres esmenes que no hi figuraven: el silenci desestimatori dels moviments de terra en qualsevol classe de sòl (article 30, d'acord amb l'article 11.4.a del TRLSRU i la Sentència del Tribunal Constitucional 143/2017), la supressió de la ficció d'informe favorable (article 27, apartat 5) i la precisió de l'article 5, lletres d, e i g. També precisa els articles 8.c i 8.k, 12, 26, 32, 36, 39, 45, 47, 52, 53, 61, 67, 69, 70, 73, 74, 77 i la disposició addicional segona. Les versions A i B s'han corregit pel que fa al silenci de l'article 30.
 
 
-## 7. PUNTS PENDENTS DE VERIFICACIÓ
+## 7. VERIFICACIONS FETES I PUNTS PENDENTS
 
-a) Tràmit en què es troba el Projecte i si s'ha fet la consulta pública prèvia de l'article 133 de la LPAC.
 
-b) Decret de desplegament de l'article 188.3 bis del TRLUC i entitats habilitades per la Generalitat.
+### Verificacions fetes en el text consolidat del BOE, el Portal Jurídic de Catalunya i el cercador del Tribunal Constitucional
 
-c) Abast de la Sentència del Tribunal Constitucional 55/2018 respecte de l'article 129 de la LPAC en les ordenances locals (preàmbul).
+| Precepte | Punt | Resultat |
+| --- | --- | --- |
+| Preàmbul | Article 129 de la LPAC i Sentència 55/2018 | El fonament jurídic 7 en declara l'aplicació a l'elaboració de reglaments de totes les administracions, inclosa la justificació al preàmbul. Esmena per legalitat. |
+| Preàmbul | Consulta pública prèvia (article 133 de la LPAC) | Feta del 17 de juny al 16 de juliol de 2024 (fitxa publicada al web municipal). |
+| Art. 5.a | "Envelliment" | El fitxer original del Projecte diu "envelliment". |
+| Art. 12 | Bé d'interès cultural i bé cultural d'interès nacional | Disposició addicional primera.1 de la Llei 9/1993. |
+| Art. 26 i 69 | Residus de la construcció | Article 11.c del Decret 89/2010 (redacció de la Llei 2/2021): dipòsit al gestor; article 15.2: certificat de gestió; article 4.1.a del Reial decret 105/2008. |
+| Art. 30 i 8.a | Fonament jurídic 23 de la Sentència 143/2017 | Silenci negatiu dels moviments de terra sense límit de sòl; edificació de nova planta en qualsevol sòl; altres instal·lacions i cases prefabricades només en sòl rural no transformable. L'esmena es limita a la lletra a. |
+| Art. 36 | Títol inscriptible de la cessió | Article 30.3 i 30.4 del Reial decret 1093/1997. |
+| Art. 45 | Torredembarra i habitatges d'ús turístic | Inclosa a l'annex del Decret llei 3/2023 (número 231). |
+| Art. 52.2.f | Amiant | Article 36 de la Llei 8/2026: inscripció obligatòria en el registre català. |
+| Art. 53 | Visat del certificat final | Article 2.b del Reial decret 1000/2010. |
+| Art. 56 | Projecte de les instal·lacions fotovoltaiques | ITC-BT-04, apartat 3.1, grup c: projecte per sobre de 10 kW. |
+| Art. 61 | Assegurances | Article 19 i disposició addicional segona de la Llei 38/1999: garanties per danys materials, no responsabilitat civil davant tercers. |
+| Art. 64 | Troballes arqueològiques | Article 52.1 de la Llei 9/1993: quaranta-vuit hores. El Projecte és correcte; es retira l'esmena d'aquest punt. |
+| Art. 67 | Obligació d'enderroc | Disposició transitòria primera de la Llei 3/2012 (redacció del Decret llei 17/2019) i disposició transitòria quarta (Llei 11/2026). |
+| Art. 73 | Pla de muntatge de bastides | Annex II, apartat 4.3.3, del Reial decret 1215/1997. |
+| Art. 74 | Grues torre | Articles 5.1 i 5.5 de la ITC MIE-AEM-2 (Reial decret 836/2003): documents presentats a la Generalitat. |
+| Art. 76 | Ús privatiu de la via pública | Article 57.2 del Decret 336/1988: dos mesos i silenci desestimatori. |
+| DA 4a | Article 50.5 de l'EAC | Fonament jurídic 23 de la Sentència 31/2010: interpretació conforme i dret al castellà sense formalitats. S'ajusta el text proposat. |
+| Apartats repetits | Numeració | El fitxer original fa servir llistes de numeració diferents per a apartats consecutius (per exemple, a l'article 15), que per això comencen de nou a 1. |
 
-d) Paraula volguda a l'article 5.a ("envelliment").
 
-e) Origen dels llindars de massa arbòria i vegetació arbustiva de l'article 8, lletres g i h.
+### Punts pendents
 
-f) Fonament jurídic 23 de la Sentència del Tribunal Constitucional 143/2017, sobre l'abast de l'article 11.4.b del TRLSRU (article 30).
+a) Tràmit en què es troba el Projecte (aprovació inicial i informació pública). No consta en la documentació disponible.
 
-g) Correspondència entre la categoria estatal de bé d'interès cultural i la de bé cultural d'interès nacional (article 12).
+b) Aprovació del decret d'habilitació d'entitats col·laboradores previst a l'article 188.3 bis del TRLUC. Només s'ha localitzat el projecte de decret sotmès a participació; no s'ha trobat cap decret publicat al DOGC (articles 16 i disposició transitòria tercera).
 
-h) Normativa sobre gestió de residus de la construcció aplicable a la documentació de l'article 26.3.d i a les garanties de l'article 69.
+c) Origen dels llindars de massa arbòria i vegetació arbustiva de l'article 8, lletres g i h. No figuren en les normes consultades.
 
-i) Suficiència de l'acta de compareixença com a títol inscriptible de la cessió de vial (article 36).
+d) Si s'ha publicat l'ordre que substitueixi la relació de municipis de l'annex del Decret llei 3/2023 (article 45).
 
-j) Si Torredembarra figura entre els municipis de l'article 187.1.p del TRLUC (article 45).
+e) Si el Registre d'empreses i professionals capacitats per a la gestió dels materials amb amiant a Catalunya és operatiu (article 52).
 
-k) Incidència de la Llei 8/2026, de 2 de juliol, de l'erradicació de l'amiant, en la documentació de l'article 52.2.f.
+f) Servituds aeronàutiques que justifiquin l'informe d'AESA de l'article 74.
 
-l) Supòsits en què la normativa d'instal·lacions elèctriques exigeix projecte per a instal·lacions fotovoltaiques (article 56).
+g) Jurisprudència sobre la relació entre l'article 141 de la LRBRL i l'article 237.3 del TRLMRLC (article 80).
 
-m) Assegurances obligatòries de la legislació d'edificació, als efectes de l'article 61 (article 19 de la Llei 38/1999).
+h) Text de l'ordenança de 2005 que es deroga. L'enllaç del CIDO a l'anunci del BOP no és accessible.
 
-n) Termini de comunicació de troballes arqueològiques a la Llei 9/1993, del patrimoni cultural català (article 64).
+i) Norma que regula els hivernacles als efectes de l'article 187.1.g del TRLUC en la redacció de l'Avantprojecte (article 8).
 
-o) Norma legal que fonamenta l'obligació d'enderroc de l'article 67.3.
-
-p) Normativa de bastides, grues torre i servituds aeronàutiques (articles 73 i 74).
-
-q) Reglament del patrimoni dels ens locals, sobre l'ús privatiu de la via pública (article 76).
-
-r) Relació entre els límits de multa de l'article 141 de la LRBRL i de l'article 237.3 del TRLMRLC (article 80).
-
-s) Contingut de l'ordenança de 2005 que es deroga.
-
-t) Fonament jurídic 23 de la Sentència del Tribunal Constitucional 31/2010, sobre l'article 50.5 de l'EAC (disposició addicional quarta).
-
-u) Norma que regula els hivernacles als efectes de l'article 187.1.g del TRLUC en la redacció de l'Avantprojecte (article 8).
-
-Queden resolts dos punts que les versions A i B deixaven pendents: l'estudi de seguretat i salut amb la sol·licitud de llicència té fonament en l'article 17.1 del Reial decret 1627/1997, i la declaració responsable dels punts de recàrrega, en l'article 48.5 de la Llei 24/2013.
+Queden resolts els punts que la primera redacció d'aquest document i les versions A i B deixaven pendents sobre l'estudi de seguretat i salut (article 17.1 del Reial decret 1627/1997), la declaració responsable dels punts de recàrrega (article 48.5 de la Llei 24/2013) i els que recull la taula anterior.
