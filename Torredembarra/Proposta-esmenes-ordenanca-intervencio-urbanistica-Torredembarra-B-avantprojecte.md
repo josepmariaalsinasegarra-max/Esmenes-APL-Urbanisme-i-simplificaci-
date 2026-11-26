@@ -1445,7 +1445,7 @@ La disposició transitòria segona de l'Avantprojecte permet que les persones ti
 
 L'article 67 del Projecte imposa l'enderroc de l'edifici inacabat. La disposició transitòria segona hi ofereix una alternativa, per a un supòsit més limitat. La darrera frase de l'apartat proposat evita que l'Ajuntament exigeixi l'enderroc mentre s'executa el conveni. És una proposta coherent amb l'apartat 5 de la disposició transitòria, que només fa aplicable l'enderroc quan el conveni s'ha exhaurit.
 
-No s'ha verificat si a Torredembarra hi ha promocions en aquesta situació **[CAL VERIFICAR]**. Tampoc s'ha identificat la norma legal que fonamenta l'obligació d'enderroc de l'article 67 (vegeu l'apartat 5, lletra h, d'aquest document).
+No s'ha verificat si a Torredembarra hi ha promocions en aquesta situació **[CAL VERIFICAR]**. L'obligació d'enderroc de l'article 67 procedeix de la disposició transitòria primera de la Llei 3/2012, en la redacció del Decret llei 17/2019 (vegeu l'apartat 5, lletra h, d'aquest document). La disposició transitòria quarta de la mateixa llei, afegida per la Llei 11/2026, de 9 de juliol, ja permet a l'Ajuntament, durant dos anys, prorrogar llicències anteriors al Decret 141/2012 per acabar edificis residencials inacabats destinats a habitatge protegit; aquesta esmena s'hi ha de coordinar.
 
 
 **5. Fonament jurídic**
